@@ -1,0 +1,303 @@
+﻿
+Infotext
+06:00:19
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+06:00:45
+00:00:42
+OZN 6/ Arbeitsmarktinstrumente im Bundestag,Buellmann, Rolf,Übernahmen,Übernahme,
+06:02:10
+00:00:52
+OZN 6/ Alle Bundesrats-Entscheidungen,Buschschlüter, Nicholas,Übernahmen,,
+06:03:22
+00:00:49
+OZN 6/Nach Räumung des Hauses in Hebron: Radikale Siedler randalieren,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+06:04:40
+00:00:52
+OZN 6/USA Anhörung im Kongress zum Rettungsprogramm für Autobra,Kastan, Klaus,Übernahmen,Übernahme,
+06:05:47
+00:00:43
+OZN 6 Sportzusammenfassung,Wheeler,Thomas,Eigenproduktion,Pflicht,
+06:06:45
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+06:07:15
+00:02:08
+Songwriter,Morrison,Van,Industrietonträger,,
+06:09:20
+00:06:32
+Zu viele Auswanderer, zu wenig qualifizierte Einwanderer,Gesp mit Albert Schmid, Präs Bundesamt für Migration und Flüchtlinge,Eigenproduktion,Frei,
+06:15:53
+00:02:33
+Dance 'til we're high (CD der Woche),Fireman,The,Industrietonträger,,
+06:19:16
+00:03:56
+Stand Streit um Gas-Pipeline nach Lubmin,Knigge, Almuth,Eigenproduktion,Pflicht,
+06:23:12
+00:02:12
+Tears from the Moon,O'Connor,Sinéad/Conjure One,Industrietonträger,,
+06:25:29
+00:02:44
+Wort zum Tage 05.12.2008 (ev.),Metz, Olav,Eigenproduktion,Pflicht,
+06:27:27
+00:02:19
+Presto aus: Concerto ottavo in F-Dur,Les Amis de Philippe Ludger Rémy,Industrietonträger,,
+06:29:46
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+06:30:01
+00:04:43
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+06:34:44
+00:00:08
+M003 Opener OrtsZeit,,Wiederholung,,
+06:35:13
+00:02:47
+High Roller,Orbo & The Longshots,0,,
+06:38:19
+00:04:03
+Aus den Feuilletons - Kulturpresseschau,Brüning, Jens,Eigenproduktion,,
+06:42:22
+00:02:24
+C'est la vie,Clément, Coralie,Industrietonträger,,
+06:45:16
+00:03:46
+Hannah Arendt Preis an Victor Zaslavsky,Selzer, Christina,Eigenproduktion,Pflicht,
+06:49:11
+00:02:16
+You Don't Know Me,Ben Folds featuring Regina Spektor,Industrietonträger,,
+06:52:20
+00:06:07
+Interview 1: Neuausrichtung arbeitsmarktpolitischer Instrumente?,Peter Clever, Vorsitzender Verwaltungsrat BA für Arbeit, HGF BDA,Eigenproduktion,Frei,
+06:57:17
+00:02:30
+Strugglers,Black Seeds, The,Industrietonträger,,
+06:59:45
+00:00:12
+MFP Dresden,,Wiederholung,,
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	05.12.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Kolkmann
+Redaktion:	Flemming/Pianka
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Schiller
+Technik:	Lehmann
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'35''	Washington: Kongressanhörung der			
+			Autobosse	frei		
+			.			
+			Autor: Klaus Remme			
+
+05:15		  2'12''	Johannes Heesters wird 105	pi		
+			und redet sich um Kopf und Kragen	Übern.		wdr
+			bitte Fenster öffnen			
+			.			
+			Autor: Ludger Kazmierczak			
+
+05:20		  3'51''	Branchen in der Krise -	pi		
+			Chemie	Pflicht		
+			.			
+			Autor:  Brigitte Scholtes			
+
+05:28		  0'49''	Trailer Länderreport			
+						
+						
+
+05:40		  2'23''	Bayern-Hoffenheim, Showdown um die	af		
+			Herbstmeisterschaft	Übern.		br
+			.			
+			Autor: Jochen Breyer			
+
+05:44		  4'30''	KALENDERBLATT	Wenner		
+			Vor 50 Jahren:	frei		
+			Der Dramatiker Ferdinand Bruckner 			
+			gestorben 			
+			.			
+			Autor: Fühner, Ruth			
+
+05:52		  4'21''	Presseschau mit Olaf Oelstrom			
+						
+			Themen			
+			- steigende Anzahl von Geringverdienern 			
+			mit zusätzlichem Hartz IV-Bedarf			
+			- Konjunkturpaket der Bundesregierung			
+
+
+06:10		  6'33''	Interview: Zu viele Auswanderer			
+			 - zu wenig qualifizierte Einwanderer?			
+			Albert Schmid, Präsident Bundesamt für 			
+			Migration und Flüchtlinge / -Mitglied der 			
+			Islamkonferenz			
+			Migration ist ein natürlicher Prozess in 			
+			zunehmend globalisierter Gesellschaft / 			
+			Steuerung der Zuwanderung  			
+			-Bessere Möglichkeiten für Muslime im 			
+			gesellschaftlichen Leben - wie können 			
+			Imame mitwirken?			
+
+06:15		  3'56''	Länderreport			
+			Gaspipeline von Rußland - kommt sie	Pflicht		
+			oder kommt sie nicht 			
+			-bitte Fenster öffnen-			
+			.			
+			Autor: Almuth Knigge			
+
+06:23		  2'45''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Pastor Olav Metz, Groß Zicker			
+
+06:40		  4'03''	Aus den Feuilletons			
+						
+			.			
+			Autor: Jens Brüning			
+
+06:45		  3'46''	Hannah-Ahrendt-Preis für politisches	pi		
+			Denken wird an Victor Zaslavsky	Pflicht		
+			(russischer Soziologe)  verliehen 			
+			.			
+			Autor: Christina Selzer			
+
+06:50	LT	  6'07''	INTERVIEW I: Neuausrichtung			
+			 arbeitsmarktpolitischer Instrumente			
+			 im Bundestag / 			
+			Peter Clever,  Vorsitzender 			
+			Verwaltungsrat BA (Bundesanstalt für 			
+			Arbeit)			
+			Senkung des 			
+			Arbeitslosenversicherungsbeitrags 			
+			auf 2,8 % bis Juli 2010 ist 			
+			entscheidende Entlastung und 			
+			''wichtiger konjunktureller Impuls'' / 			
+			bezeichnet Lohnzusatzkosten als 			
+			''Beschäftigungsbremse''/ im 			
+			Niedriglohnbereich mit Vorurteilen 			
+			aufräumen / bewertet sog. ''Aufstocker'' 			
+			Co-Finanzierung durch Hartz -IV positiv: 			
+			geringqualifizierte Menschen in Arbeit 			
+			halten statt Arbeitslosigkeit zu fördern			
+
+
+07:10	LT	  4'43''	Aktuelle Situation im Gazastreifen -	af		
+			nach einem Monat Absperrung wieder	frei		
+			von Israel für Journalisten geöffnet			
+			stark eingeschränkte Stromversorgung / 			
+			Ägypten Tunnel - Versorgung mit 			
+			Brennmaterial und Lebensmitteln 			
+			unregelmäßig/ Banken geschlossen: 			
+			Finanzmittel erschöpft / Prekäre, 			
+			angepannte Lage / Radikalisierung 			
+			richtet sich in erster Linie gegen Israel /  			
+			.			
+			Autor: Clemens Verenkotte			
+
+07:22		  4'54''	Politisches Feuilleton	Garber		
+			Der Präsident und sein Thema - Horst	Pflicht		
+			Köhlers Stimme in der Finanzkrise 			
+			.			
+			Autor: Friedrich Thelen			
+
+07:28		  0'57''	Trailer Feature			
+						
+						
+
+07:40		  2'27''	Mensch Müller/Spende	Deg		
+				Pflicht		
+						
+
+07:45		  3'22''	50 Jahre Bundesamt für			
+			Katastrophenschutz	Übern.		WR
+			Am 5. Dezember 1958 wurde das 			
+			Gesetz zur Errichtung eines 			
+			Bundesamtes für zivilen 			
+			Bevölkerungsschutz verkündet. Seitdem 			
+			haben sich die Aufgaben und die Arbeit 			
+			des Amtes grundlegend 			
+			geändert. 			
+			.			
+			Autor: Susanne Fritz			
+
+07:50	LT	  6'06''	INTERVIEW II:			
+			EU-Skeptizismus in Tschechien /			
+			ab 1.1.09 EU-Ratsvorsitz			
+			Hans-Gert Poettering, CDU, 			
+			EU-Parlamentspräsident			
+			Kritik an Europaskepsis des 			
+			Staatspräsidenten: Tschechien muss 			
+			seinen Beitrag leisten, damit der 			
+			Reformvertrag verwirklicht wird, 			
+			bekräftigt, dass der Reformvertrag mit 			
+			der tschechischen Verfassung 			
+			übereinstimme/ tschechische 			
+			Öffentlichkeit pro-europäisch / 			
+			Unterstützung für tschechischen 			
+			Ministerpräsidenten Topolanek / Ziel: 			
+			Europa muss gemeinsam handeln  			
+
+
+08:10	LT	  5'15''	''Mediengespräch''	af		
+			Mitteldeutsche Zeitung			
+						
+			Thema: 			
+			''Gutscheine'' zur Kosumankurbelung			
+			.			
+			Autor: CR Jörg Biallas			
+
+08:20		  5'50''	Mini-Reportage: Gefreiter Kurultay -	ebs		BE
+			junge Muslime bei der Bundeswehr	Pflicht		
+			In diesem Jahr müssen sich die ersten 			
+			Doppelstaatsbürger für ein Land 			
+			entscheiden. Mit der deutschen 			
+			Staatsbürgerschaft kommt gleich der 			
+			Einberufungsbescheid - 			
+			.			
+			Autor: Luise Sammann			
+
+08:28		  0'49''	Trailer Länderreport			
+						
+						
+
+08:40		  6'09''	Gespräch: Erbschaftssteuer im			
+			 Bundesrat			
+			Dr. Hermann Bühlbecker, Aachener 			
+			Printen- und Schokoladen-			
+			fabrik Henry Lambertz  / Dr. Hermann 			
+			Bühlbecker, Inhaber			
+			Bühlbecker hält Steuerbefreiungsfristen 			
+			für nicht verlässlich / objektive Gefahren 			
+			für kleine und mittelgroße Unternehmen 			
+			/ weitere Firmenabwanderungen 			
+			möglich/ Erbschaftssteuer bedeutet 			
+			Doppeltversteuerung / hält den jetzt 			
+			vorliegenden Entwurf  für eine 			
+			''Entschärfung'' / schränkt ein: mit den 			
+			vorgesehenenen Regelungen weiter 			
+			schwer, die Firmenübergabe an die 			
+			nächste Generation zu sichern			
+
+08:50		  3'59''	Kultur-Tipp - DVD-Tipp	Garber		
+			''Außer Atem'' - Klassiker der Nouvelle	Pflicht		
+			Vague 			
+			.			
+			Autor: Christian Berndt			
+
+08:55			Übergabe Radiofeuilleton			
+						
+						
+
+
+		   '  ''				
+						
+						
+
+

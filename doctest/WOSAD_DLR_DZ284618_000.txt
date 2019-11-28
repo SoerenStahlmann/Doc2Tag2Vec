@@ -1,0 +1,78 @@
+﻿
+Infotext
+17:00:27
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+17:00:51
+00:00:58
+OZN 17 : Washington/Bush: US-Regierung hilft Autobauern mit 17,4 Milliarden,Aischmann, Frank,Übernahmen,Übernahme,
+17:02:19
+00:00:51
+OZN 13 : BuTa beschließt "humanitäre Operation" Atalanta,Ueberbach, Stephan,Übernahmen,Übernahme,
+17:03:30
+00:00:46
+OZN 15 :Berlin : Zypries und Schäuble einigen sich bei Strafbarkeit von Terror,Kleber, Mark,Übernahmen,Übernahme,
+17:04:37
+00:00:44
+OZN 12 : Karlsruhe/Christian Klar ist auf freiem Fuß,Essig, Jürgen,Übernahmen,Übernahme,
+17:05:42
+00:00:37
+OZN 17 - Kreditkartenklau aufgeklärt,Borufka ,Heike,Übernahmen,Übernahme,
+17:06:42
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:07:28
+00:01:56
+She called up,Crowded House,Industrietonträger,,
+17:09:47
+00:02:57
+Washington: Rettung in letzter Minute? Bush hilft US-Autokonzernen,Borchers, Jens,Übernahmen,Übernahme,
+17:12:45
+00:05:20
+Gespräch: Bewertung - US-Regierung hilft Autoindustrie,Braun, Michael,Eigenproduktion,Pflicht,
+17:17:58
+00:01:53
+Something's Changed,Sharon Jones & The Dap Kings,Industrietonträger,,
+17:20:14
+00:03:05
+Washington: Pentagon will Guantanamos schließen,Aischmann, Frank,Übernahmen,Übernahme,
+17:23:49
+00:05:10
+Gespräch: Lagerbedingungen in Guantanamo,Schirra, Bruno, Journalist, war 6-7 Mal in Guantanamo,Eigenproduktion,Pflicht,
+17:29:00
+00:06:31
+Gespräch: was passiert mit den Häftlingen in Guantanamo?,Nowak, Manfred, Prof. für int. Menschenrechtsschutz, UN-Sonderberichterstatter,Eigenproduktion,,
+17:35:31
+00:03:36
+Berlin: Zypries und Schäuble legen Streit wg. Terrorcamps bei,Geuther, Gudula,Eigenproduktion,Frei,
+17:39:07
+00:02:47
+Two Silver Trees,Calexico,Industrietonträger,,
+17:42:01
+00:01:50
+Kairo/Geiseln in Sanaa erwartet,Saoub, Esther,Übernahmen,Übernahme,
+17:44:27
+00:02:37
+Kommentar: Christian Klar,Schmidt, Holger,Übernahmen,Frei,
+17:47:41
+00:03:24
+Berlin: Fortsetzung Konjunkturdebatte,Irmler, Gerhard,Wiederholung,Frei,
+17:51:06
+00:03:52
+Berlin: Arbeitsminister Scholz un die Personalvorstände der Dax-Unternehmen,Baum , Andreas,Eigenproduktion,Ja,
+17:54:47
+00:04:07
+Rather Be,Verve, The,Industrietonträger,,
+17:58:51
+00:00:53
+Trailer Themenabend 19.12.2008 ("heute 20.03 Uhr"),Dasche, Michael,Wiederholung,,
+17:59:43
+00:00:00
+Aus der jüdischen Welt / Shabbat,,,,
+17:59:43
+00:00:00
+Nachrichten 18.00,,,,
+17:59:44
+00:00:12
+MFP Idar - Oberstein,,Wiederholung,,
+

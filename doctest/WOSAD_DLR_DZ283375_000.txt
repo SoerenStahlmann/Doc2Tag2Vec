@@ -1,0 +1,93 @@
+﻿
+Infotext
+15:00:27
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:01:06
+00:00:33
+OZN 14: Erbschaftssteuer passiert Bundesrat,Henkel, Sabine,Übernahmen,Übernahme,
+15:02:15
+00:00:48
+OZN 14 Bundestag zu Arbeitsmarktinstrumenten und Beiträgen - Kritik der Opposit,Buellmann, Rolf,Übernahmen,,
+15:03:22
+00:00:50
+OZN 13 Bundesbank erwartet Konjunktureinbruch,Hütig, Stephan,Übernahmen,,
+15:05:02
+00:00:38
+OZN 14: Verteidigungsministerium: Herk. der abgefangenen Schnellboote ungeklärt,Günther, Anja,Übernahmen,Übernahme,
+15:05:56
+00:00:52
+OZN 14: Honda zieht sich aus der Formel 1 zurück,Huhn, Torsten,Übernahmen,Übernahme,
+15:07:02
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:07:06
+00:00:35
+Mod: Begrüßung,Vorschau,Heise, Katrin,0,,
+15:07:54
+00:00:39
+Can Do,Giant Sand,Industrietonträger,,
+15:08:55
+00:00:35
+Gigue- Cellosuite Nr. 3 in D BWV1009,Rostropovich, Mstislav,Industrietonträger,,
+15:09:30
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:09:35
+00:09:40
+Wie Mathematiker versuchen, die Risiken am Finanzmarkt voraus zu berechnen,Grötschel, Martin,Eigenproduktion,Frei,
+15:19:17
+00:00:57
+Wurfpaket 5475 - 05.12.08 - P5,div.,Eigenproduktion,,
+15:20:14
+00:00:09
+M017 Musik Gitarre (für RF),,Wiederholung,,
+15:20:41
+00:03:27
+Without A Word,Giant Sand,Industrietonträger,,
+15:25:42
+00:02:58
+Increment of Love,Giant Sand,Industrietonträger,,
+15:29:10
+00:00:57
+Trailer Feature EINSATZ 05.12.2008 ("MORGEN 18.05 Uhr"),Kottkamp, Ingo,Wiederholung,,
+15:30:07
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+15:30:14
+00:03:19
+Kulturnachrichten,,Eigenproduktion,,
+15:33:32
+00:00:06
+M162 Rubrik Ihr Buchhändler empfiehlt,,0,,
+15:33:37
+00:04:35
+Buchhandlung Reul- Kevelaer,Reul, Meinolf,Eigenproduktion,,
+15:39:14
+00:03:00
+Kulturtipps - Freitag, 05. Dezember 2008 - 15.40 Uhr,Krüger, Roland,Eigenproduktion,,
+15:42:18
+00:01:09
+Teaser debatte 05.12.2008  15:40,Kochendörfer,Eigenproduktion,,
+15:43:27
+00:00:09
+M122 Musik Cello (für RF),,Wiederholung,,
+15:44:08
+00:04:23
+Concerto ballata in C op.108,Rostropovich, Mstislav,Industrietonträger,,
+15:49:27
+00:02:17
+Gavotte I - Cellosuite Nr. 6 in D BWV1012,Rostropovich, Mstislav,Industrietonträger,,
+15:51:59
+00:00:07
+M118 DLRK Debatte,,Wiederholung,,
+15:52:54
+00:00:24
+Debatte 1 Hörer,Kochendörfer, Judith,Eigenproduktion,,
+15:53:18
+00:06:28
+Jeder 4. Deutsche hat noch nie ein Buch gelesen,,Eigenproduktion,,
+15:59:46
+00:00:12
+MFP Quedlinburg,,Wiederholung,,
+

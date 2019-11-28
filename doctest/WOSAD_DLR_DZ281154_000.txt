@@ -1,0 +1,60 @@
+﻿
+Infotext
+23:00:00
+00:04:54
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:04:55
+00:00:07
+M025 Opener Fazit,,Wiederholung,,
+23:05:00
+00:01:47
+Love is the Message/Instr.,Papp,Julius,Industrietonträger,,
+23:06:40
+00:02:20
+Ghost Dance,Paul Roland,Industrietonträger,,
+23:09:41
+00:05:59
+Frankfurt/Main, Paulskirche "Internationaler Hochhaus Preis 2008",Stock, Adolf,Eigenproduktion,Pflicht +15%,
+23:16:13
+00:02:02
+Tell-Tale Heart,Paul Roland,Industrietonträger,,
+23:18:13
+00:07:45
+Verleihung des Fanny Mendelssohn Komponistinnen Preises in Unna,Schiphorst, Iris ter,Eigenproduktion,Frei,
+23:25:55
+00:01:39
+Abramelin,Paul Roland,Industrietonträger,,
+23:28:18
+00:04:54
+Vorgestellt: Turgenev-Preis,Plath, Jörg,Eigenproduktion,Pflicht,
+23:33:20
+00:01:52
+Wreck of the Nautilus,Paul Roland,Industrietonträger,,
+23:35:39
+00:03:13
+Kinoland ohne Kino-In Marrakesch beginnt heute das 8.Internationale Filmfestival,Dugge, Marc,Übernahmen,Frei,
+23:39:03
+00:01:35
+Leatherface,Paul Roland,Industrietonträger,,
+23:40:57
+00:04:52
+Wiener Kunstforum Georges Braque Ausstellung 14.11.08 - 01.03.09,Kaindlstorfer, Günter,Eigenproduktion,Pflicht,
+23:45:59
+00:01:36
+Sam Hall,Paul Roland,Industrietonträger,,
+23:48:17
+00:03:30
+Der "perfekte Obama" - Herausforderung für US-TV- Komiker,Sina, Ralph,Übernahmen,Frei,
+23:51:53
+00:01:32
+Eight Little Whores,Paul Roland,Industrietonträger,,
+23:53:52
+00:03:50
+Kulturpresseschau,Timm, Ulrike,Eigenproduktion,Pflicht,
+23:57:42
+00:02:04
+Edgar Allan Poe,Paul Roland,Industrietonträger,,
+
+
+
+

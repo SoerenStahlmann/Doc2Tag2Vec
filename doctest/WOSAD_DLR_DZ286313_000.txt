@@ -1,0 +1,288 @@
+﻿
+Infotext
+07:00:21
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+07:00:38
+00:00:59
+OZN 6  Sicherheitsrat einigt sich auf Gaza-Resolution,Bodewein, Lena,Übernahmen,,
+07:01:54
+00:00:41
+OZN 6 Der Krieg geht weiter - Israel setzt Luftangriffe fort,Engelbrecht, Sebastian,Übernahmen,,
+07:03:01
+00:00:36
+OZN 7 Jetzt doch Einigung im Gasstreit,Landmesser, Wolfgang,Übernahmen,,
+07:04:05
+00:00:52
+OZN 7 Reaktionen auf Commerzbank: Glos, Müntefering, Westerwelle,Weidemann, Michael,Übernahmen,,
+07:05:19
+00:00:59
+OZN 6 Erfurt:  Vorschau auf Klausur des CDU-Bundesvorstandes,Hentschel, Wolfgang,Übernahmen,Übernahme,
+07:06:42
+00:00:08
+M003 Opener OrtsZeit,,Wiederholung,,
+07:06:49
+00:03:28
+Magic,Thicke, Robin,Industrietonträger,,
+07:10:12
+00:05:40
+Gespräch: Teilverstaatlichung der Commerzbank - eine neue Dimension?,Braun, Michael,Eigenproduktion,,
+07:10:24
+00:00:19
+Gespräch: Teilverstaatlichung der Commerzbank - eine neue Dimension?,Braun, Michael,Wiederholung,,
+07:15:52
+00:02:24
+Songwriter,Morrison,Van,Industrietonträger,,
+07:18:12
+00:00:00
+Kulturtipp,,,,
+07:18:12
+00:01:12
+Kulturtipp - Freitag, 09.01.2009 - 7.30 Uhr,Ufer, Gesa,Eigenproduktion,,
+07:19:25
+00:00:00
+Politisches Feuillton,,,,
+07:19:58
+00:04:06
+George W. Bush,Schuller, Moritz,Eigenproduktion,Pflicht,
+07:24:05
+00:00:09
+Absage Politisches Feuilleton: Gedanken zur Ära Bush,Degenhardt, Jörg,Eigenproduktion,Frei,
+07:24:13
+00:02:41
+Allegro aus:Nr.6 in D-dur,Concerto Köln,Industrietonträger,,
+07:26:55
+00:01:58
+Stop, I Don't Love You Anymore,Spiteri, Sharleen,Industrietonträger,,
+07:28:52
+00:00:57
+Trailer Konzert 09.01.2009 ("heute 20.03 Uhr"),Lang, Stefan,Eigenproduktion,,
+07:29:47
+00:00:00
+Nachrichten 7.30,,,,
+07:29:49
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+07:30:01
+00:04:20
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+07:34:21
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:34:42
+00:02:59
+Silver & Gold,Eskobar,Industrietonträger,,
+07:37:43
+00:00:09
+Opener Mensch Müller 09.04. lang,Seyffert,Wiederholung,,
+07:37:49
+00:02:27
+"Mensch Müller" -  Winter,Baxmann, Matthias ; Eckoldt, Matthias,Eigenproduktion,,
+07:40:29
+00:02:18
+Fuga (allegro moderato) aus: Concerto D-Dur,Musica Antiqua Köln,Industrietonträger,,
+07:43:29
+00:04:06
+Gespräch: Wirtschaftsimpulse im Zeichen Obamas,Remme, Klaus,Eigenproduktion,Wiederholung,
+07:47:37
+00:02:40
+In Orbita,Jovanotti,Industrietonträger,,
+07:50:13
+00:05:52
+Interview II: Hilft Konjunkturpaket II dem Mittelstand aus  Wirtschaftskrise?,Oberegger, Peter, Chef des Familienunternehmens Vorwerk,Eigenproduktion,,
+07:56:05
+00:03:44
+My Business,Dico,Tina,Industrietonträger,,
+07:59:44
+00:00:00
+Ortszeit (8 - 9),,,,
+07:59:44
+00:00:00
+Nachrichten 8.00,,,,
+07:59:46
+00:00:12
+MFP Stuttgart,,Wiederholung,,
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	09.01.2009
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Jörg Degenhardt
+Redaktion:	Wohlan / Wassmund
+Musikredaktion:	Neumann/ Hälbig
+Assistenz:	Mavroidis
+Technik:	Viola Laube
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  2'39''	Reaktionen auf Teilverstaatlichung			
+			der Commerzbank	Übern.		HR
+			.			
+			Autor: Samir Ibrahim			
+
+05:15		  3'33''	Über das Leben im Alter nach			
+			dem Ende des Sex	Übern.		rbb
+			.			
+			Autor: Barbara Wesel			
+
+05:20	Ltg. fest	  5'17''	Gespräch: Wirtschaft in den USA /			
+			Neue Arbeitsmarktzahlen	frei		
+			Obama-Rede zur Wirtschaftspolitik als 			
+			Aufhänger - Weiterdrehung: am Freitag 			
+			gibt es neue Arbeitsmarktzahlen-			
+			.			
+			Autor:  Klaus Remme			
+
+05:40		  3'25''	Endlich eine Resulotion: Sicherheitsrat			
+			einigt sich in Gaza	Übern.		WR
+			.			
+			Autor: Lena Bodewein			
+
+05:44		  4'35''	KALENDERBLATT	Wenner		
+			Vor 80 Jahren:	frei		
+			 Heiner Müller, Schriftsteller und 			
+			Regisseur, geboren			
+			.			
+			Autor: Opitz, Michael			
+
+05:52		  3'46''	Presseschau			
+			mit Olaf Oelstrom	frei		
+			 Die Themen:			
+			Einstieg des Bundes bei der 			
+			Commerszbank			
+
+
+06:10		  2'29''	Einigung im Gasstreit			
+				Übern.		WR
+			.			
+			Autor: Wolfgang Landmesser			
+
+06:13		  1'52''	Putin macht Ukraine für Gas-Krise			
+			verantwortlich	Übern.		WR
+						
+			.			
+			Autor: Christina Nagel			
+
+06:15	dira	  6'15''	Thüringens CDU ohne MP Althaus -	wa		TH
+	fest		wie stabil ist die Partei ohne Chef?	Pflicht		
+			Hinweis: Klausur der Führung der 			
+			Bundes-CDU am 9.+10. Januar in			
+			Erfurt. 			
+			.			
+			Autor: Ulrike Greim			
+
+06:23		  2'40''	Wort zum Tage (kath.)			
+				Pflicht		
+			.			
+			Autor: Jörg Maier, Garching			
+
+06:40		  4'07''	Aus den Feuilletons			
+				Wdhl.		
+			.			
+			Autor: Klaus Pokatzky			
+
+06:45		  3'36''	Intelligente Stromzähler			
+				Pflicht		
+			 			
+			 			
+			.			
+			Autor: Deuse, Klaus			
+
+06:50		  6'10''	INTERVIEW I	wa		
+			EU-Nahost-Mission	frei		
+			BENITA FERRERO-WALDNER, 			
+			EU-Außenkommissarin.			
+			Auf humanitären Sektor hat EU etwas 			
+			erreicht -Humanitäre Korridore/ pol. Ziel 			
+			dauerhafte Waffenruhe/ Israel müsse 			
+			davon ausgehen können, dass von 			
+			Gaza keine Agression mehr ausgehe/ 			
+			Bundesregierung sollte all ihren 			
+			Einfluss geltend machen/ Israel nehme 			
+			die Europäer inzwischen ernster/ 			
+			Kurzfristig müsse eine Rückkehr zu 			
+			Friedensverhandlungen angestrebt 			
+			werden			
+
+
+07:10		  5'41''	Teilverstaatlichung der Commerzbank			
+			- eine neue Dimension?	Pflicht		
+			.			
+			Autor: Michael Braun			
+
+07:14		  1'13''	Kulturtipp			
+						
+			.			
+			Autor: Gensa Ufer			
+
+07:22		  4'06''	Politisches Feuilleton			
+			Gedanken zur Ära Bush	Pflicht		
+			.			
+			Autor: Moritz Schuller			
+
+07:40		  2'28''	Mensch Müller - Winter			
+				Pflicht		
+			.			
+			Autor: Baxmann, Matthias; Eckoldt, 			
+			Matthias			
+
+07:45		  4'07''	Gespräch: Wirtschaftsimpulse im			
+			Zeichen Obama	Wdhl.		
+			 Wdh. von 5.20 Uhr			
+			.			
+			Autor: Klaus Remme			
+
+07:50		  5'52''	INTERVIEW II : Mittelstand in der	wa		
+			Wirtschaftskrise.	frei		
+			PETER OBEREGGER, Chef des			
+			Familien-Unternehmens VORWERK.			
+			Anlaß: Beratungen über 2. 			
+			Konjunkturpaket mit Vertretern der			
+			mittelständischen Wirtschaft. 			
+			Deutschland-Fonds ist der richtige 			
+			Schritt/ verlangt schnelle und 			
+			unbürokratische Hilfe für den Mittelstand			
+
+
+08:10		  5'32''	''Mediengespräch'': mit ARD-Korrespond.			
+			in Tel Aviv Richard Schneider	frei		
+			Stichworte: Krieg der Bilder / wie kommt 			
+			man an gesicherte Infos & Bilder			
+
+08:18		  1'13''	Kulturtipp			
+						
+			.			
+			Autor: Gensa Ufer			
+
+08:20		  6'01''	Reportage: Gaza in Berlin			
+				Pflicht		
+						
+			.			
+			Autor: Julius Stucke			
+
+08:40		  5'03''	Jugendkriminalität in Berlin: Wer klaut,	cg		BE
+			muss raus: Die Abschiebungspolitik	Pflicht		dlr
+			des Senats			
+			.			
+			Autor: Dorothea Jung			
+
+08:50		  4'06''	Kultur-Tipp			
+			Jazzfestival Münster	Pflicht		
+			.			
+			Autor: Ralf Dombrowski			
+
+08:55			Übergabe Radiofeuilleton			
+						
+						
+
+
+09:00			O-TON Nachrichten			
+						
+						
+
+
+

@@ -1,0 +1,111 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:31:06
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:39
+00:02:45
+Tel Aviv: Israel jagt Hamas-Funktionäre ? Palästinenser begehen "Tag d. Zorns,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+22:34:57
+00:01:51
+Kairo: Demonstrationen in Ägypten, zahlreiche Muslimbrüder festgenommen,Steffe, Peter,Übernahmen,Übernahme,
+22:37:24
+00:02:32
+Moskau: Festgefahrene Positionen im Russisch Ukrainischen Gasstreit,Laack, Stephan,Übernahmen,Wiederholung,
+22:39:57
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:40:00
+00:02:05
+Nachrichten-Block 1,,Eigenproduktion,,
+22:42:04
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:42:23
+00:00:47
+Börse für 22.30,Plate,Jan,Übernahmen,,
+22:43:46
+00:03:16
+Berlin: Debatte um zweites Konjunkturpaket,Heckmann, Dirk-Oliver,Eigenproduktion,Wiederholung,
+22:47:17
+00:02:46
+Kommentar: Unruhige Zeiten,Groth, Michael,Eigenproduktion,Frei,
+22:50:29
+00:02:22
+Erfurt: Althaus - Gesundheitszustand stabil,Greim, Ulrike,Eigenproduktion,Pflicht,
+22:53:28
+00:01:44
+Neu Delhi:  Sri Lankas Armee erobert Tamilen-Rebellen-Hauptquartier,Küstner, Kai,Übernahmen,Übernahme,
+22:55:14
+00:00:05
+M009 DropIn Sport,,Wiederholung,,
+22:56:32
+00:00:53
+Fußball: Trainingsauftakt FC Bayern in Dubai BmE Bäucker, Lutz,Bäucker, Lutz,Übernahmen,Nein,
+22:58:02
+00:00:42
+Skispringen: Vor dem 3. Springen der Vierschanzentournee Flash Otto, Andreas,Otto, Andrea,Übernahmen,Nein,
+22:59:47
+00:00:00
+Fazit,,,,
+22:59:47
+00:00:00
+Nachrichten 23.00,,,,
+22:59:48
+00:00:09
+M001 DLRK (für Nachrichten),,Wiederholung,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

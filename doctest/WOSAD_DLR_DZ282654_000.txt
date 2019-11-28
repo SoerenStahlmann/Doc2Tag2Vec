@@ -1,0 +1,78 @@
+﻿
+Infotext
+17:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+17:00:59
+00:01:00
+OZN 17 - Auswärt. Amt steht mit indischen Behörden in Kontakt,Welty, Ute,Übernahmen,Übernahme,
+17:02:23
+00:00:48
+OZN 17 - Lage in Thailand TagesZF,Musch-Borowska, Bernd,Übernahmen,Übernahme,
+17:03:28
+00:00:43
+OZN 16 - Bundestag verabschiedet Haushalt 2009,Weidemann, Michael,Übernahmen,Übernahme,
+17:04:29
+00:00:51
+OZN 15 - BKA Gesetz - Bundesregierung will Vermittlungsausschuss anrufen,Kleber, Mark,Übernahmen,Übernahme,
+17:05:45
+00:00:27
+OZN 17 - Berlin/Stadtschloss, ital. Architektenbüro gewinnt Wettberwerb,Reinhardt, Christoph,Übernahmen,Übernahme,
+17:06:34
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:07:37
+00:02:49
+Don't let them take you down (Beautiful Day!),Malin,Jesse,Industrietonträger,,
+17:10:48
+00:03:27
+BKA-Gesetz scheitert im Bundesrat,Groth, Michael,Eigenproduktion,Frei,
+17:14:40
+00:04:04
+Gescheitertes BKA-Gesetz und mögliche neue Anläufe,Klaus Uwe Benneter,Eigenproduktion,Frei,
+17:18:59
+00:02:53
+Kommentar: BKA-Bundesrat,Gudula Geuther,Eigenproduktion,,
+17:22:06
+00:02:55
+Here's the good news/...,Weller,Paul,Industrietonträger,,
+17:25:10
+00:03:22
+Lage Bombay,Matthay, Sabina,Übernahmen,Frei,
+17:28:54
+00:02:40
+Lage in Bangkok,Musch-Borowska, Bernd,Übernahmen,Frei,
+17:32:10
+00:03:10
+Bundestag mit Etat 2009,Steinhage, Martin,Eigenproduktion,Frei,
+17:35:33
+00:02:41
+Urteil im Frankfurter Lehman Bros.-Prozess,Ibrahim, Samir,Übernahmen,Frei,
+17:38:35
+00:03:21
+Kreditklemme ante portas - KfW stellt Mittelstandsstudie vor,Braun, Michael,Wiederholung,Pflicht,
+17:42:11
+00:03:49
+Don't Stop Now,Crowded House,Industrietonträger,,
+17:46:29
+00:03:56
+Architektenwettbewerb Humboldtforum entschieden,Hatting, André,Eigenproduktion,Ja,
+17:50:45
+00:04:41
+Interview André Schmitz, Berliner Kultur-Staatsekretär,Wimmersberg/Schmitz,Eigenproduktion,Frei,
+17:55:38
+00:03:09
+The Bird,Colvin,Shawn,Industrietonträger,,
+17:58:46
+00:00:57
+Trailer Einstand 28.11.2008 ("heute 22.00 Uhr"),Malter, Carola,Wiederholung,,
+17:59:44
+00:00:00
+Aus der jüdischen Welt / Shabbat,,,,
+17:59:44
+00:00:00
+Nachrichten 18.00,,,,
+17:59:44
+00:00:12
+MFP Rostock,,Wiederholung,,
+

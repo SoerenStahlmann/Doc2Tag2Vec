@@ -1,0 +1,48 @@
+﻿
+Infotext
+22:30:01
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:31:02
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:40
+00:03:09
+Tel Aviv/  Krise um Gaza-Streifen,Verenkotte, Clemens,Übernahmen,,
+22:35:47
+00:03:05
+London/Große Aufregung in GB über 'Weihnachtsbotschaft' von Ahmadine,Wesel, Barbara,Übernahmen,,
+22:39:31
+00:02:50
+Wirtschaftsverbände fordern Steuersenkungen und Konjunkturstützen,Weidemann, Michael,Übernahmen,,
+22:42:21
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:42:24
+00:02:49
+Nachrichten-Block,,Eigenproduktion,,
+22:45:12
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:45:43
+00:02:43
+Peking/China schickt Kriegsschiffe gegen Piraten vor Somalia,Rimmele, Markus,Übernahmen,,
+22:49:03
+00:02:48
+Putschisten an der Macht in Guinea,Koch, Yvonne,Übernahmen,,
+22:52:34
+00:03:02
+Tsunami Gedenken vierter Jahrestag Lage Aceh und Thailand,Glass, Nicola,Übernahmen,,
+22:56:10
+00:03:05
+New York Eartha Kitt - Nachruf,Paulert, Rüdiger,Übernahmen,,
+22:59:47
+00:00:00
+Fazit,,,,
+22:59:47
+00:00:00
+Nachrichten 23.00,,,,
+22:59:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+

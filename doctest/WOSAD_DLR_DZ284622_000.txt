@@ -1,0 +1,90 @@
+﻿
+Infotext
+12:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:46
+00:00:41
+OZN 12 : Bundestag : Piraten-Bekämpfung kann beginnen,Nehls, Thomas,Übernahmen,Übernahme,
+12:01:38
+00:00:45
+OZN 12 : Bundesrat: BKA-Gesetz u. Kindergelderhöhung beschlossen,Jenter, Steffen,Übernahmen,Übernahme,
+12:02:43
+00:00:43
+OZN 11 Berlin: Thüringens Ministerpräsident Althaus verteidigt Aufbau Ost,Althaus, Dieter ; CDU, Ministerpräsident von Thüringen,Wiederholung,,
+12:03:49
+00:00:44
+OZN 12 : Karlsruhe/Christian Klar ist auf freiem Fuß,Essig, Jürgen,Übernahmen,Übernahme,
+12:05:09
+00:00:35
+OZN 12:Regensburg: Mannichl  aus dem Klinikum Passau entlassen,Kellermann, Bernd,Übernahmen,Übernahme,
+12:05:45
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:06:05
+00:00:39
+OZN 12 : Frankfurt/Boerse/Börse,Holz,Dorothee,Übernahmen,Übernahme,
+12:06:58
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:14
+00:03:24
+Berlin: Fortsetzung Konjunkturdebatte,Irmler, Gerhard,Eigenproduktion,Frei,
+12:11:54
+00:01:18
+Tokio: Toyota und Co in Schwierigkeiten,Kujath, Peter,Übernahmen,Übernahme,
+12:13:41
+00:03:18
+Washington: Pokerspiel um Überbrückungskredite für US-Autoindustrie,Paulert, Rüdiger,Übernahmen,Übernahme,
+12:17:23
+00:03:07
+Shanghai: Völkerwanderung der Entlassenen - Chinas Wanderarbeiter,Freyeisen, Astrid,Übernahmen,Übernahme,
+12:20:42
+00:02:53
+Wish i could forget,Weepies,The,Industrietonträger,,
+12:24:08
+00:02:57
+Karlsruhe: Ex-Terrorist Christian Klar ist auf freiem Fuß,Essig, Jürgen,Übernahmen,Übernahme,
+12:27:30
+00:01:51
+Kairo: Deutsche Geiseln im Jemen frei,Steffe,Peter,Übernahmen,Übernahme,
+12:30:02
+00:03:38
+Berlin: Bundestag verabschiedet Operation "Atalanta" gegen Piraterie,Groth, Michael,Eigenproduktion,Frei,
+12:34:03
+00:02:02
+Passau: Alois Mannichl verlässt das Krankenhaus in Passau,Wolf, Heidi,Übernahmen,Übernahme,
+12:36:32
+00:03:05
+Washington: Guantanamo schließen, aber wie? US-Verteidigungsminister Gates,Aischmann, Frank,Übernahmen,Übernahme,
+12:39:38
+00:02:36
+Beleza,Celso Fonseca,Industrietonträger,,
+12:42:10
+00:07:47
+Internationales Pressegespräch: Südliches Afrika,Räther, Frank,Eigenproduktion,Pflicht,
+12:43:20
+00:00:12
+Internationales Pressegespräch: Südliches Afrika,Räther, Frank,Wiederholung,Pflicht,
+12:49:53
+00:02:06
+This is the Life,MacDonald, Amy,Industrietonträger,,
+12:52:14
+00:00:00
+Politisches Feuillton,,,,
+12:52:14
+00:04:43
+Frohes Fest! - Welche Bedeutung hat Weihnachten noch?,Bork, Uwe,Eigenproduktion,Frei,
+12:57:09
+00:02:37
+We don`t know what`s coming,Solomon,Industrietonträger,,
+12:59:44
+00:00:00
+Länderreport,,,,
+12:59:44
+00:00:00
+Nachrichten 13.00,,,,
+12:59:45
+00:00:12
+MFP Glauchau,,Wiederholung,,
+

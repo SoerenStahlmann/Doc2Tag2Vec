@@ -1,0 +1,108 @@
+﻿
+Infotext
+09:00:31
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+09:01:17
+00:00:53
+OZN 9 Steinbrück vor WFG: strengere Regeln und mehr Transparenz,Jenter, Steffen,Übernahmen,,
+09:02:48
+00:01:01
+OZN 8 Adenauer: Binnenkonjunktur stärken - aber keine zu hohen Tarifabschlüsse,Adenauer, Patrick, Präs. d. Verbandes der Familienunternehmer,Wiederholung,,
+09:04:06
+00:00:52
+OZN 7 Bundestag am Abend: VW-Gesetz, Maut und Elterngeld,Heinrich, Claus,Übernahmen,,
+09:05:30
+00:00:53
+OZN 9 Vor Grünen-PT: Al-Wazir plädiert für ehrgeizige Klimaziele,Al-Wazir, Tarek, Mitglieg im Parteirat, Fraktionschef der hessischen Grünen,Eigenproduktion,,
+09:06:56
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:07:01
+00:01:04
+Mod: Begrüßung,Vorschau,Führer, Susanne,0,,
+09:08:05
+00:00:35
+Interplay,Ed Kröger Quintett,Industrietonträger,,
+09:08:38
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+09:09:18
+00:02:09
+Größte Stadt Deutschlands -  die neue Stadt Ruhr,Biernath, Olaf,Eigenproduktion,Frei,
+09:11:28
+00:08:04
+Konkurrenz oder Miteinander im Ruhrgebiet,Tenfelde, Prof. Klaus,Eigenproduktion,Frei,
+09:19:28
+00:00:00
+Musik,,,,
+09:19:31
+00:00:12
+M188 Musik Free Jazz (für RF),Brauschmid,Wiederholung,,
+09:20:00
+00:03:43
+En route,Ed Kröger Quintett,Industrietonträger,,
+09:24:35
+00:04:02
+Interplay,Ed Kröger Quintett,Industrietonträger,,
+09:28:42
+00:00:56
+Wurfpaket 2746 - 14.11.08 - P1,diverse,Eigenproduktion,,
+09:30:00
+00:00:00
+Kulturnachrichten,,,,
+09:30:00
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+09:30:07
+00:03:07
+Kulturnachrichten,,Eigenproduktion,,
+09:33:05
+00:00:00
+Kritik,,,,
+09:33:13
+00:00:06
+M131 DLRK Sachbuch,,Wiederholung,,DIGI_SOURCE$#
+09:33:20
+00:07:10
+Sachbuch live: "John Lennon - Die Biografie" von Philipp Norman,Golz, Uwe,Eigenproduktion,Pflicht,
+09:40:25
+00:03:52
+Dear Prudence,The Beatles,Industrietonträger,,
+09:44:16
+00:00:57
+Trailer Wortwechsel 14.11.2008 ("heute 19.07 Uhr"),Wimmersberg, Heidrun,Wiederholung,,
+09:45:13
+00:03:15
+Kulturtipps - Freitag, 14.11.2008 - 09.40 Uhr,Voss, Regina,Eigenproduktion,,
+09:48:29
+00:00:00
+Musik,,,,
+09:48:32
+00:00:12
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+09:49:19
+00:02:47
+Leave The Scene Behind,The Wave Pictures,Industrietonträger,,
+09:52:53
+00:01:01
+Teaser Essigs Essenzen  14.11.2008,Kreuzahler,Eigenproduktion,,
+09:53:55
+00:00:00
+Kalenderblatt,,,,
+09:53:55
+00:00:05
+M101 Kalenderblatt (mit DLRK),,Wiederholung,,
+09:54:37
+00:04:35
+Kalenderblatt 14.11. (1993 - Die "Neue Wache" wird eingeweiht),Langels, Otto,Wiederholung,Frei,
+09:59:44
+00:00:00
+Radiofeuilleton (10 - 11),,,,
+09:59:44
+00:00:00
+Nachrichten 10.00,,,,
+09:59:44
+00:00:12
+MFP Lauenburg,,Wiederholung,,
+

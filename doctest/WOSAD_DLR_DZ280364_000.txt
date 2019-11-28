@@ -1,0 +1,242 @@
+﻿
+Infotext
+05:00:01
+00:04:06
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:04:07
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:04:45
+00:03:35
+Take it away,Keb'Mo',Industrietonträger,,
+05:09:00
+00:03:30
+Berlin: Durchbruch bei der Erbschaftssteuer,Heckmann, Dirk-Oliver,Eigenproduktion,Wiederholung,
+05:12:39
+00:02:25
+C'est la vie,Clément, Coralie,Industrietonträger,,
+05:15:40
+00:03:24
+Vor der Afrika-Konferenz von Bundespräsident Köhler in Nigeria,Reimer, Jule,Eigenproduktion,Frei,
+05:19:08
+00:02:41
+aus: Symphonie Nr.63 C-dur Hob.I Nr.63,Orpheus Chamber Orchestra New York,Industrietonträger,,
+05:22:32
+00:03:11
+Krise der HSH  bringt Land Schleswig-Holstein bisher 70 Millionen Euro Verluste,Günther, Matthias,Eigenproduktion,Pflicht,
+05:25:44
+00:03:17
+When this is over,Forbes, China,Industrietonträger,,
+05:28:58
+00:00:48
+Trailer Länderreport 07.11.2008 ("heute 13.07 Uhr"),Perez, Claudia,Co-Produktion,,
+05:29:46
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+05:30:01
+00:04:23
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:34:24
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:34:59
+00:02:43
+Move To Newlyn,Subways, The,Industrietonträger,,
+05:38:13
+00:03:14
+Frankfurt: SPD und CDU für Neuwahlen in Hessen,Petermann, Anke,Eigenproduktion,Wiederholung,
+05:41:27
+00:04:06
+Midnight train to Georgia/...,Knight,Gladys; Gladys Knight & The Pips,Industrietonträger,,DIGI_SOURCE$#
+05:45:56
+00:04:27
+Kalenderblatt 07.11. (1918 - Kurt Eisner proklamiert den "Freista,Langer, Michael,Eigenproduktion,,
+05:50:30
+00:02:02
+Giga aus: Concerto Nr. 7 d-moll,Ensemble 415,Industrietonträger,,
+05:52:32
+00:04:07
+Presseschau,,Eigenproduktion,,
+05:56:36
+00:03:10
+Belief,Mayer,John,Industrietonträger,,
+05:59:44
+00:00:13
+MFP Schönebeck,,Wiederholung,,
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	07.11.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Pindur
+Redaktion:	Behrendt/Brammer
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Mavroidis (x)
+Technik:	Stürmer
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'31''	Berlin: Koalition berät über			
+			Erbschaftssteuer	frei		
+			.			
+			Autor: Dirk Oliver Heckmann			
+
+05:15		  3'24''	'Auftakt der Reise von Bundespräsident			
+			Köhler zur Afrika-Konferenz in Abuja	frei		
+			.			
+			Autor: Jule Reimer			
+
+05:20		  3'12''	'Kiel: HSH-Nordbank sorgt für 70 Million			
+			en Euro Verlust im Landeshaushalt	Pflicht		
+			.			
+			Autor: Günther, Matthias			
+
+05:40		  3'14''	'Wiesbaden: Hessen vor der Neuwahl			HE
+				Pflicht		
+			.			
+			Autor: Petermann, Anke			
+
+05:44		  4'27''	KALENDERBLATT	Wenner		
+			Vor 90 Jahren:	frei		
+			Nach dem Ausbruch der 			
+			November-Revolution proklamiert Kurt 			
+			Eisner in München den 'Freistaat Bayern' 			
+			.			
+			Autor: Michael Langer			
+
+05:52		  4'07''	Presseschau			
+						
+			 Themen:			
+			- Neuwahlen in Hessen			
+			- USA nach den Wahlen			
+
+
+06:10		  3'30''	Brüssel: EU Sondergipfel zur			
+			Finanzkrise	frei		
+			.			
+			Autor: Volker Finthammer			
+
+06:20		  3'58''	Länderplatz: Modellversuch demo-			MV
+			grafischer Wandel in Mecklenburg	Pflicht		
+			Vorpommern 			
+			.			
+			Autor: Almut Knigge			
+
+06:25		  2'33''	Wort zum Tage (evang.)			
+						
+			Pastorin Sabine Steinwender-Schnitzius 			
+			kommt aus Wuppertal			
+			.			
+			Autor: Pastorin Sabine 			
+			Steinwender-Schnitzius,			
+
+06:40		  4'03''	Aus den Feuilletons			
+						
+			.			
+			Autor: Ulrike Timm			
+
+06:45		  3'42''	Besteuerrung des Pflegeentgelts			
+			soll wegfallen			
+			aus der Sicht der betroffenen Verbände. 			
+			- Für Info bitte Fenster öffnen - 			
+			.			
+			Autor: Jens Rosbach			
+
+06:50		  7'03''	INTERVIEW II			
+			Wie weiter in Hessen?			
+			Manfred Schaub, stellvertretender 			
+			SPD-Landesvorsitzender Hessen 			
+			Landeschef Hessen Nord:			
+			-Kein Ausschluss von Koalitionen mehr/			
+			Verhalten der Abweichler muss 			
+			Konsequenzen haben/die Antwort auf 			
+			die Frage, ob Ypsilanti erneut 			
+			Spitzenkandidatin sein wird, ließ er offen 			
+			und verwies auf den morgen tagenden 			
+			Landesparteirat			
+			.			
+			Autor: Schaub, Manfred, SPD-Hessen;			
+
+
+07:10		  6'22''	'Nairobi: Krisengipfel zur Lage in Kongo			
+				Übern.		WDR
+			 Leitung über Dispo bestellt			
+			.			
+			Autor: Dohrenbusch, Wim			
+
+07:22		  4'44''	Politisches Feuilleton			
+			Ypsilanti und andere Flops	Pflicht		
+			 Das Personalproblem der Parteien			
+			.			
+			Autor: Klaus Schroeder			
+
+07:40		  2'25''	'Mensch Müller: Radio			
+				Pflicht		
+			.			
+			Autor: Baxmann, Matthias; Eckholdt, 			
+			Matthias			
+
+07:45		  3'22''	Washington: Die USA am Tag 2 nach			
+			dem Sieg von Obama			
+			.			
+			Autor: Klaus Remme			
+
+07:50		  8'13''	INTERVIEW I			
+			EU Sondergipfel zur Finanzkrise			
+			Jean Claude Juncker;			
+			Vorsitzender der Euro-Gruppe; Finanz- 			
+			und Premierminister Luxemburgs			
+			spricht sich für ein Stück mehr Europa 			
+			aus und fordert eine Europäische Rating 			
+			Agentur und Neubewertung der alten, 			
+			die brutal versagt hätten/ dem IWF 			
+			komme eine größere Bedeutung zu 			
+			/Nationale Wirtschafts-Pläne in der EU 			
+			müssen zusammen passen/ man 			
+			müsse die Kaufkraft der sozial 			
+			Schwächeren stärken/ 			
+			.			
+			Autor: Juncker, Jean-Claude; Vors. 			
+			Euro-Gruppe			
+
+
+08:10		  6'06''	''Mediengespräch'' taz zu Obama und Cast			
+			or;   Berlin, 89, 6 kHz			
+			 Die neue Identität Amerikas - ein 			
+			Kulturphänomen			
+			- Obamas Team und das unheimliche 			
+			Tempo			
+			-Situation in den Südstaaten			
+			.			
+			Autor: Metzger, Rainer, taz, stellv. 			
+			Chefred.			
+
+08:20		  6'08''	T: fertig Zeugen der Shoah- das digitale	kbi		BE
+			Archiv des Holocausts in Berlin	Pflicht		
+			s. 9. November 			
+	Milchmeyer		.			
+			Autor: Jens Rosbach			
+
+08:40		  4'21''	Die Opposition in Georgien formiert			
+			sich neu	Gema		
+			 Wdh Europa heute von Do			
+			steht im W-Speicher			
+			.			
+			Autor: Gesine Dornblüth			
+
+08:50		  4'06''	Kultur-Tipp			
+			Operntipp: 'Alcina' im Schloßtheater	Pflicht		
+			Potsdam			
+			.			
+			Autor: Uwe Friedrich			
+
+08:55			Übergabe Radiofeuilleton			
+						
+						
+
+

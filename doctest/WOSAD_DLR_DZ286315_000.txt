@@ -1,0 +1,75 @@
+﻿
+Infotext
+17:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+17:00:59
+00:00:48
+OZN 17 Israel und Hamas lehnen UNO-Forderung ab,Verenkotte, Clemens,Übernahmen,,
+17:02:13
+00:00:50
+OZN 17 Gasstreit: Immer noch keine Eingung über Beobachter,Hartbrich, Esther,Übernahmen,,
+17:03:34
+00:00:47
+OZN 14: Regierung und Wirtschaft reden über Arbeitsplätze, Weiterbildung,Becker, Rüdiger,Übernahmen,,
+17:04:36
+00:00:54
+OZN 16 Umdenken bei der SPD : Steinbrück will Eingangssteuersatz senken,Langlott, Walter,Übernahmen,,
+17:05:56
+00:00:50
+OZN 17 Schlechte Aussichten: US-Arbeitsmarkt  Dezember,Aischmann, Frank,Übernahmen,,
+17:07:01
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:07:50
+00:02:55
+What i got,Lindell,Eric,Industrietonträger,,
+17:11:17
+00:03:47
+Tel Aviv: Hamas und Israel lehnen Resolution des UN-Sicherheitsrates ab,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+17:15:38
+00:02:31
+Kairo: Geteilte Familien in Rafah,Saoub, Esther,Übernahmen,Übernahme,
+17:18:42
+00:06:21
+Berlin: "Im Gaza-Konflikt kommt Ägypten eine Schlüsselrolle zu",von Klaeden, Eckart,Eigenproduktion,Frei,
+17:25:20
+00:03:04
+Sad Songs,The Frames,Industrietonträger,,
+17:28:47
+00:02:49
+Moskau: Trotz Einigung zu Gasbeobachtern immer noch kein Gas für Euro,Laack, Stephan,Übernahmen,Übernahme,
+17:32:16
+00:03:01
+Kreuth : Abschluss der CSU-Landesgruppenklausur,Müller, Dirk,Eigenproduktion,Frei,
+17:35:58
+00:01:49
+Urteil im RAF-Filmstreit,Schmitz, Markus,Übernahmen,Frei,
+17:38:19
+00:03:54
+Obdachlose in der Kälte - Reportage aus Mainz,Gehring, Christoph,Wiederholung,Frei,
+17:42:32
+00:02:40
+I want to be in Love/...,Etheridge,Melissa,Industrietonträger,,
+17:45:53
+00:03:10
+Frankfurt/M.: Gemischte Reaktionen auf Commerzbank-Teilverstaatlichung,Scholtes, Brigitte,Eigenproduktion,Wiederholung,
+17:49:35
+00:03:07
+Berlin: Bundeskanzlerin Angela Merkel trifft Mittelständler,Irmler, Gerhard,Eigenproduktion,Frei,
+17:53:00
+00:04:08
+Wuppertal: Wirtschaftsjunioren kritisieren kurzfristige Maßnahmen,Kirschsieper, Stefan,Eigenproduktion,Frei,
+17:57:24
+00:02:23
+We all lose one another/...,Collett,Jason,Industrietonträger,,
+17:59:44
+00:00:00
+Aus der jüdischen Welt / Shabbat,,,,
+17:59:44
+00:00:00
+Nachrichten 18.00,,,,
+17:59:47
+00:00:12
+MFP DAB,,Wiederholung,,
+

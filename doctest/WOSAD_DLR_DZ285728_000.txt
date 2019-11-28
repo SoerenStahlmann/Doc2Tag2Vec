@@ -1,0 +1,253 @@
+﻿
+Infotext
+05:00:01
+00:04:37
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:04:38
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:04:46
+00:02:45
+Smile,Aeroclub,Industrietonträger,,
+05:08:02
+00:03:59
+Berlin:  Neuregelungen im Gesundheitswesen,Martin Steinhage,Eigenproduktion,Frei,
+05:12:08
+00:03:20
+Atulale,Massukos,Industrietonträger,,
+05:15:47
+00:03:15
+Amman: Islamische Museen am Golf,Kühntopp, Carsten,Übernahmen,Übernahme,
+05:19:09
+00:02:07
+Bransle de village & Rigaudon,Ensemble Rebel,Industrietonträger,,
+05:21:44
+00:03:10
+Washington:  Das Weltraumteleskop Hubble wird ausgemustert,Kiendl, Robert,Eigenproduktion,,
+05:24:55
+00:03:56
+U Want Me 2,McLachlan, Sarah,Industrietonträger,,
+05:28:50
+00:00:57
+Trailer Länderreport 02.01.2009 ("heute 13.07 Uhr"),Perez, Claudia,Co-Produktion,,
+05:29:47
+00:00:00
+Nachrichten 5.30,,,,
+05:29:48
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+05:30:01
+00:04:25
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:34:27
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:34:54
+00:02:57
+Celebrate Youth,Nuo,Patrick,Industrietonträger,,
+05:37:58
+00:00:00
+Kalenderblatt,,,,
+05:38:15
+00:04:36
+Kalenderblatt 02.01. (1984 - RTL nimmt als RTL plus den Sendebetr,Bräunlein, Jürgen,Eigenproduktion,,
+05:42:52
+00:01:55
+Cobwebs,Coral,The,Industrietonträger,,
+05:44:44
+00:05:56
+Lage im Gazastreifen/Situation in Israel /,Verenkotte, Clemens,Eigenproduktion,Frei,
+05:46:19
+00:00:10
+Lage im Gazastreifen/Situation in Israel /,Verenkotte, Clemens,Wiederholung,Frei,
+05:50:40
+00:02:45
+Allegro assai aus: Nr.5 in C-dur,Concerto Köln,Industrietonträger,,
+05:53:25
+00:03:40
+Presseschau,,0,,
+05:57:03
+00:02:43
+Goodby Yellow Brick Road,John, Elton,Industrietonträger,,
+05:59:44
+00:00:00
+Ortszeit (6 - 7),,,,
+05:59:44
+00:00:00
+Nachrichten 6.00,,,,
+05:59:45
+00:00:12
+MFP Rendsburg,,Wiederholung,,
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	02.01.2009
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Kolkmann
+Redaktion:	Brammer/Pianka
+Musikredaktion:	Hälbig/ Neumann
+Assistenz:	Grampes
+Technik:	Boortz
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'59''	Gesundheitsfonds tritt in Kraft			
+				frei		
+			.			
+			Autor: Steinhage, Martin			
+
+05:15		  3'15''	Vom wachsenden Interesse der Golf-Araber			
+			an ihrer Kultur	Übern.		BR
+						
+			.			
+			Autor: Kühntopp, Carsten			
+
+05:20		  3'10''	Im Jahr der Astronomie 2009:			
+			Weltraumteleskop ''Hubble'' wird ausge-	Übern.		HR
+			mustert			
+			.			
+			Autor: Kiendl, Robert			
+
+05:40		  4'37''	KALENDERBLATT	Wenner		
+			Vor 25 Jahren in Luxemburg:	frei		
+			Privatsender RTL plus nimmt 			
+			Sendebetrieb auf			
+			.			
+			Autor: Bräunlein, Jürgen			
+
+05:45		  5'57''	Korrespondentengespräch:			
+			Lage in Gaza / Situation in Israel	frei		
+			.			
+			Autor: Verenkotte, Clemens			
+
+05:52		  3'40''	Presseschau mit Georg Scharegg			
+						
+			 Themen:			
+			- Zuversicht angebracht? Ausblick auf 			
+			2009;			
+			- Gasstreit zwischen Moskau und Kiew			
+
+
+06:10		  2'37''	Amman: Große Hilfsbereit-			
+			schaft in Jordanien für leidende Bevöl-	Übern.		WR
+			kerung in Gaza			
+			.			
+			Autor: Leidholdt, Ulrich			
+
+06:15		  4'05''	Länderreport			BW
+			Staufen/ Freiburg:	Pflicht		
+			Tiefe Risse in Gebäuden durch			
+			ungleichmäßige Bodenerhebungen			
+			.			
+			Autor:  Wagner, Thomas			
+
+06:23		  3'00''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Pastor Diederich Lüken, Stuttgart			
+
+06:40		  4'13''	Aus den Feuilletons			
+				Wdhl.		
+			 WH FAZIT			
+			.			
+			Autor: Timm, Ulrike			
+
+06:45		  2'18''	Thüringer MP Althaus: Gesundheitszustand			
+			nach schwerem Ski-Unfall	Übern.		
+			.			
+			Autor: Böhme, Ulrich			
+
+06:50		  7'27''	INTERVIEW I			
+			 Ulla Schmidt (SPD) BM für Gesundheit			
+			Thema: Start des Gesundheitsfonds			
+			- Krankenkassenbeiträge würden nicht 			
+			in dem Maße steigen, wie es teils 			
+			prognostiziert wird;			
+			- Der Fonds gebe den Krankenkassen 			
+			finanzielle Planungssicherheit;			
+			- Staat stehe auch in der 			
+			Wirtschaftskrise als Garant: fehlende 			
+			Einnahmen in Fonds seien 			
+			kompensierbar durch Steuerzuschüsse;			
+			- diese könnten auch verwendet werden, 			
+			damit die bisherigen Zusatzbeiträge 			
+			wegfallen  			
+
+
+07:09		  2'29''	Kuba: 50. Jahrestag der Revolution			
+				Übern.		RBB
+			.			
+			Autor: Castritius, Michael			
+
+07:10		  6'10''	Korrespondentengespräch zum 50. Jahres-			
+			tag der Revolution in Kuba	Pflicht		
+			.			
+			Autor:  Hafkemeyer, Jörg			
+
+07:22		  4'12''	Politisches Feuilleton			
+			Politik trotz Wahlen? Innenpolitische	Pflicht		
+			Erwartungen an 2009  			
+			.			
+			Autor: Gunter Hofmann			
+
+07:40		  2'27''	''Mensch Müller '' - Vorsätze			
+				Pflicht		
+			.			
+			Autor: Baxmann / Eckkoldt			
+
+07:45		  3'59''	Firma ''Wiking-Modellbau'' verlässt die			
+			Produktionshallen in Tempelhof	Pflicht		
+			.			
+			Autor: Kemna, Verena			
+
+07:50		  6'15''	INTERVIEW II			
+			Moshe Zuckermann, Soziologe/ Historiker			
+			an der Uni Tel Aviv                                   			
+			Thema: Der Krieg in Gaza			
+			-Intention der israelischen Angriffe sei 			
+			unklar;			
+			-Vermutung: Kompensation des zweiten 			
+			Libanonkrieges und Wahlkampf könnten 			
+			entscheidende Beweggründe sein;			
+			-Selbst wenn es einen Waffenstillstand 			
+			gäbe, neue Gewalt sei nur eine Frage 			
+			der Zeit;			
+			-Konflikt sei dennoch lösbar, Israel 			
+			könne initiativ entscheidenden Anteil 			
+			daran erbringen durch 			
+			Friedensverhandlungen mit der Hamas;			
+			-Hilfe von außen/ anderen Staaten keine 			
+			Lösung			
+
+
+08:10		  4'54''	Mediengespräch			
+			mit Thorsten Kleditzsch, stv. CR			
+			Mitteldeutsche Ztg. (Halle)			
+			Themen: 			
+			-Gazprom stoppt Gaslieferungen an die 			
+			Ukraine;			
+			-Schwerer Skiunfall von Dieter Althaus, 			
+			MP Thüringen			
+
+08:20		  5'50''	Tierische Luftfracht - in der	hae		NW
+			''Animal Lounge'' warten Tiere auf ihre	Pflicht		
+			Flugreise			
+			.			
+			Autor: Lachnit, Stefanie			
+
+08:40		  6'03''	Interview			
+			Humorvolle Abrechnung:			
+			Hans Well, Biermösl Blosn, zum ''Mythos 			
+			CSU''			
+
+08:50		  3'57''	Kultur-Tipp			
+			TV-Tipp: 'Annas 2. Chance' im ARD	Pflicht		
+			.			
+			Autor: Marchewka, Petra			
+
+
+

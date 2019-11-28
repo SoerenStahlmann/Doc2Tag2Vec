@@ -1,0 +1,111 @@
+﻿
+Infotext
+09:00:23
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+09:01:04
+00:00:26
+OZN8 Berlin: Althaus zur Finanzierung weiterer Konjunkturmaßnahmen,Althaus, Dieter ; CDU, Ministerpräsident von Thüringen,Eigenproduktion,,
+09:01:45
+00:00:38
+OZN7 Berlin: Bundestag berät abschließend über Piratenjagd am Golf von Aden,Kostolnik, Barbara,Übernahmen,,
+09:03:12
+00:00:32
+OZN9 Berlin: Bundesinnenminister Wolfgang Schäuble über ein mögliches NPD-Verbo,Schäuble, Wolfgang,Übernahmen,,
+09:04:55
+00:00:39
+OZN6/8 Washington: Gefangenenlager Guantanamo soll geschlossen werden,Sina, Ralph,Übernahmen,,
+09:05:53
+00:00:34
+OZN7 Rom: Erstes Urteil um 14-Milliarden-Pleite von Parmalat,Troendle, Stefan,Übernahmen,Übernahme,
+09:07:09
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:07:14
+00:00:52
+Mod: Begrüßung,Vorschau,Heise, Katrin,0,,
+09:08:06
+00:00:43
+Pocketbook,Hudson, Jennifer,Industrietonträger,,
+09:09:05
+00:00:49
+Mardi Gras in New Orleans,Prof. Longhair,Industrietonträger,,
+09:09:53
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+09:10:30
+00:01:58
+Thomaner als Pruegelknaben,Geissler, Ralf,Co-Produktion,Ja,
+09:12:28
+00:09:44
+Streit um den Thomaner Chor: Kasernierung oder Disziplin im Namen der Musik?,Knauft, Daniel,Eigenproduktion,Frei,
+09:22:12
+00:00:00
+Musik,,,,
+09:22:13
+00:00:12
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+09:22:42
+00:02:26
+Bald Head,Prof. Longhair,Industrietonträger,,
+09:27:47
+00:02:51
+Mardi Gras in New Orleans,Prof. Longhair,Industrietonträger,,
+09:30:00
+00:00:00
+Kulturnachrichten,,,,
+09:30:54
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+09:31:02
+00:03:33
+Kulturnachrichten,,Eigenproduktion,,
+09:33:59
+00:00:00
+Kritik,,,,
+09:34:32
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+09:34:39
+00:05:30
+Belletristik:"Vor mir den Tag und hinter mir die Nacht"v.Jakob Hein/Piper Verla,von Arnim, Gabriele,Eigenproduktion,Pflicht,
+09:40:05
+00:03:16
+Kulturtipps - Freitag, 19.12.2008 -  09.40 Uhr,Voss, Regina,Eigenproduktion,,
+09:43:25
+00:00:24
+Wurfpaket 5548 - 19.12.08 - P2,div.,Eigenproduktion,,
+09:43:49
+00:00:00
+Musik,,,,
+09:43:49
+00:00:10
+M190 Musik Pop II (für RF),Braunschmid,Wiederholung,,
+09:44:17
+00:03:22
+All dressed in love,Hudson,Jennifer,Industrietonträger,,
+09:49:10
+00:04:16
+Can't stop the rain,Hudson,Jennifer,0,,
+09:53:28
+00:00:49
+Teaser Essigs Essenzen 19.12.2008 - 9:50 und 10:20 Uhr,Hock, Katharina,Eigenproduktion,,
+09:54:18
+00:00:00
+Kalenderblatt,,,,
+09:54:18
+00:00:05
+M101 Kalenderblatt (mit DLRK),,Wiederholung,,
+09:55:02
+00:04:36
+Kalenderblatt 19.12. (1908 - Gisèle Freund geboren),Gericke, Michaela,Wiederholung,,
+09:59:44
+00:00:00
+Radiofeuilleton (10 - 11),,,,
+09:59:44
+00:00:00
+Nachrichten 10.00,,,,
+09:59:46
+00:00:11
+MFP Regensburg,,Wiederholung,,
+

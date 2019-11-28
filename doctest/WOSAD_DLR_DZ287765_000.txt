@@ -1,0 +1,77 @@
+﻿
+Infotext
+22:30:02
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:30:54
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:31
+00:02:11
+Qimonda insolvent,Groß, Arnd,Übernahmen,,
+22:33:52
+00:02:26
+Kommentar Qimonda,Gerlach, Alexandra,Eigenproduktion,Frei,
+22:37:09
+00:02:27
+Bundesregierung erwägt Einrichtung von Bad Banks,Andreas Baum,Eigenproduktion,Wiederholung,
+22:40:00
+00:02:07
+Obama diskutiert 825-Mrd-Dollar-Konjunkturpaket,Aischmann, Frank,Übernahmen,,
+22:42:08
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:42:12
+00:03:01
+Nachrichten-Block 1,,Eigenproduktion,,
+22:45:11
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:45:22
+00:00:53
+Börse,Kochanski,Peter,Übernahmen,,
+22:46:49
+00:02:34
+Urteil im Prozess Liechtensteinische Landesbank,Kohlhof, Christian,Übernahmen,,
+22:49:46
+00:02:04
+Grünen-Parteitag,Pepping, Dagmar,Übernahmen,,
+22:52:24
+00:01:54
+Beisetzung Markelows,Laack, Stephan,Übernahmen,,
+22:54:19
+00:00:06
+M009 DropIn Sport,,Wiederholung,,
+22:54:50
+00:00:50
+Handball WM Nachnominierung Heinevetter,vom Wege, Thorsten,Übernahmen,Übernahme,
+22:56:01
+00:00:53
+Tennis Australian Open,Perlebach, Thomas,Übernahmen,Übernahme,
+22:57:10
+00:00:48
+Eistanz EM,Zimmermann, Martin,Übernahmen,Übernahme,
+22:58:13
+00:00:40
+Rodel WC Altenberg Staffelsieg,Kunze, Thomas,Übernahmen,Übernahme,
+22:59:46
+00:00:00
+Fazit,,,,
+22:59:47
+00:00:00
+Nachrichten 23.00,,,,
+22:59:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+
+
+
+
+
+
+
+
+
+
+
+

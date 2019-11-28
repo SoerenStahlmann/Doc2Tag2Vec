@@ -1,0 +1,248 @@
+﻿
+Infotext
+
+05:00:01
+00:04:40
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:04:41
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:05:26
+00:02:36
+Everlasting Love,Club 8,Industrietonträger,,
+05:08:38
+00:03:18
+Washington: US-Reaktionen zum Terror in Bombay,Sina, Ralph,Übernahmen,Übernahme,
+05:12:04
+00:02:56
+No milk today/...,Herman's Hermits,Industrietonträger,,DIGI_SOURCE$#
+05:15:23
+00:04:00
+Berlin: Vor der Entscheidung zum Berliner Stadtschloss,Schwarz, Marietta,Eigenproduktion,Wiederholung,
+05:18:07
+00:03:19
+Allegro aus:Nr.6 in D-dur,Concerto Köln,Industrietonträger,,
+05:21:58
+00:03:38
+Tokio: Japans Premier Aso - der Mann der lockeren Sprüche,Kujath, Peter,Übernahmen,Übernahme,
+05:25:46
+00:03:15
+Serious,Duffy,Industrietonträger,,
+05:28:59
+00:00:48
+Trailer Länderreport 28.11.2008 ("heute 13.07 Uhr"),Rehfeld, Claus,Eigenproduktion,,
+05:29:47
+00:00:00
+Nachrichten 5.30,,,,
+05:29:48
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+05:30:01
+00:04:37
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:34:39
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:35:11
+00:02:59
+Are you trying to be lonely,Lewis, Andy,Industrietonträger,,
+05:38:55
+00:04:25
+Berlin: US-Botschafter Timken verabschiedet sich aus Berlin,Limberg, Margarete,Eigenproduktion,,
+05:43:19
+00:02:13
+C'est Bien Mieux Comme Ca,Soha,0,,
+05:45:59
+00:00:00
+Kalenderblatt,,,,
+05:45:59
+00:04:35
+Kalenderblatt 28.11. (1908 - Claude Lévi-Strauss geboren),Meichsner, Irene,Eigenproduktion,,
+05:50:24
+00:02:11
+Allegro aus: Concerto Grosso Nr. 3, F-Dur,Capella Istropolitana,Industrietonträger,,
+05:52:33
+00:04:32
+Presseschau,,0,,
+05:52:35
+00:00:26
+Presseschau,,0,,
+05:57:02
+00:02:45
+Time the Conqueror,Browne,Jackson,Industrietonträger,,
+05:59:44
+00:00:00
+Ortszeit (6 - 7),,,,
+05:59:44
+00:00:00
+Nachrichten 6.00,,,,
+05:59:45
+00:00:12
+MFP Rosenheim,,Wiederholung,,
+
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	28.11.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Wuttke
+Redaktion:	Pianka / Hildebrandt
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Ulbricht
+Technik:	Freimann
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'18''	Washington: US-Reaktionen zum Terror			
+			in Bombay			
+			.			
+			Autor: Ralph Sina			
+
+05:15	Beitrag	  4'01''	Berlin: Vor der Entscheidung zum			
+			Berliner  Stadtschloss	Wdhl.		
+			.			
+			Autor:  Marietta Schwarz			
+
+05:20	Beitrag	  3'39''	Tokio: Japans Premier Aso -			
+			der Mann der lockeren Sprüche	Übern.		NR
+			.			
+			Autor: Peter Kujath			
+
+05:40		  4'26''	Berlin: US-Botschafter Timken			
+			verabschiedet sich aus Berlin	frei		
+			.			
+			Autor: Margarete Limberg			
+
+05:44		  4'35''	KALENDERBLATT	Wenner		
+			Vor 100 Jahren:	frei		
+			Der  Ethnologe und Anthropologe 			
+			Claude Lévi-Strauss geboren 			
+			.			
+			Autor: Irene Meichsner			
+
+05:52		  4'33''	Presseschau mit Bernd Hörnle			
+						
+			Themen:			
+			- Terrorangriffe von Bombay			
+
+
+06:10	Beitrag	  3'09''	Berlin: Bundesrat stimmt über BKA-			
+			Gesetz ab			
+			.			
+			Autor: Gudula Geuther			
+
+06:15		  3'16''	Länderreport: Portrait des Dorfes Berlin	Rehfeld		SH
+			in Schleswig-Holstein	Pflicht		
+			.			
+			Autor: Matthias Günther			
+
+06:23		  2'04''	Wort zum Tage (kath.)			
+						
+			.			
+			Autor: Andrea Wilke, Erfurt			
+
+06:40		  4'09''	Aus den Feuilletons			
+				Wdhl.		
+			.			
+			Autor: Arno Orzessek			
+
+06:45	Beitrag	  2'54''	Bombay: Tag 2 nach den Bombenanschlägen			
+			in Bombay	Übern.		NR
+			.			
+			Autor: Kai Küstner			
+
+06:50		  6'35''	Interview I			
+			Indien und der Terror			
+			Kai Hirschmann, stellvertret. Direktor 			
+			des Instituts für Terrorismusforschung 			
+			und Sicherheitspolitik, Essen			
+			handelt sich um neu formierte Gruppe 			
+			aus der Dschihad-Bewegung/benötigten 			
+			nur wenig Planungszeit -Anschläge sind 			
+			neuer Dimension/indische Behörden 			
+			konnten einen solch massiven u. 			
+			kurzfristig geplanten Anschlag kaum 			
+			vorhersagen/junge Leute die etwa in 			
+			Pakistan ausgebildet werden sind nicht 			
+			sofort Terroristen, sind für die 			
+			Geheimdienste nur schwer zu 			
+			überwachen 			
+			.			
+			Autor: Kai Hirschmann			
+
+
+07:10	Live -Ltg	  7'20''	KorrGespräch:			
+			Aktuelle Lage in Bombay			
+						
+			.			
+			Autor: Sabina Matthay			
+
+07:22		  4'50''	Politisches Feuilleton:	Thies		
+			Erlebnisse eines Radfahrers	Pflicht		
+			.			
+			Autor: Dieter Köpf			
+
+07:40		  2'31''	Mensch Müller: Kaufrausch	DEg		
+						
+			.			
+			Autor: Matthias Baxmann/ Matthias 			
+			Eckholdt			
+
+07:45	Beitrag	  2'35''	Bangkok: Die Lage in Thailand			
+				Pflicht		NR
+			.			
+			Autor: Bernd Musch-Borowska			
+
+07:50		  7'48''	Interview II			
+			Die Steuerdebatte in der Union			
+			Werner Schnappauf, 			
+			BDI-Hauptgeschäftsführer 			
+			BDI spricht sich seit März dafür aus, die 			
+			Mittelschicht steuerlich zu entlasten/Weg 			
+			Großbritaniens soll aber nicht gegangen 			
+			werden/Kanzlerin zeigt bisher gutes 			
+			Krisenmanagement/Kreditversorgung 			
+			muss gewährleistet werden, vor allem 			
+			für Mittelständler/Politik u. Wirtschaft 			
+			müssen zusammenstehen/Markt hat 			
+			Priorität gegnüber dem Staat/BDI ist 			
+			bereit Paket mitzutragen, also etwa 			
+			Sicherung d. Kredite			
+			.			
+			Autor: Werner Schnappauf			
+
+
+08:10	LT	  6'50''	''Mediengespräch''			
+			Der Tagesspiegel (Berlin)			
+			Das Berliner Schloß - vor der  			
+			Entscheidung			
+			.			
+			Autor: Matthias Oloew			
+
+08:20		  5'55''	Reportage: ''Wir sind keine Zocker''	sb		NW
+			Lehmann Geschädigte  organisieren sich	Pflicht		
+			.			
+			Autor: Friederike Schulze			
+
+08:40		  7'11''	Zum 100. Geburtstag des			
+			 Anthropolgen Claude-Levi-Strauss,			
+			Gespräch mit Karl-Heinz Kohl, 			
+			Ethnologe, Direktor des 			
+			Frobenius-Instituts in Frankfurt/Main			
+			.			
+			Autor: Karl-Heinz Kohl			
+
+08:50		  3'59''	Kulturtipp	Thies		
+				Pflicht		
+			 Ausstellungstipp: Robert 			
+			Lebeck-Photographie 1955-2005' - 			
+			Martin-Gropius-Bau Berlin			
+			.			
+			Autor: Alicia Rust			
+
+

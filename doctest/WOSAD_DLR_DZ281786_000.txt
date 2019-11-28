@@ -1,0 +1,126 @@
+﻿
+Infotext
+16:00:18
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+16:00:39
+00:00:51
+OZN 16 Schäuble für Reform im Bundesrat - Details,Steinhausen, Ilka,Übernahmen,,
+16:01:51
+00:00:53
+OZN 15 LBBW rutscht tiefer in die roten Zahlen,Pfuhl, Jörg,Übernahmen,,
+16:03:14
+00:00:53
+OZN 15 Haushaltsentwurf: Opposition und Koalition - die Positionen,Becker, Rüdiger,Übernahmen,,
+16:04:35
+00:00:44
+OZN 15 Anti-Piraterie-Einsatz: Bundesregierung im Abstimmungsprozess,Günther, Anja,Übernahmen,,
+16:05:38
+00:00:43
+OZN 14 Dieter Eilts neuer Trainer bei Hansa Rostock,Didjurgeit, Jan,Übernahmen,,
+16:07:00
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+16:07:05
+00:00:54
+Mod: Begrüßung,Vorschau,Scholl, Joachim,0,,
+16:07:59
+00:00:48
+Brandy Alexander,Sexsmith, Ron,Industrietonträger,,
+16:09:02
+00:00:55
+l'Impressione,Pausini, Laura,Industrietonträger,,
+16:09:56
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+16:10:40
+00:02:17
+Thorsten Schäfer-Gümbel - Besser als er aussieht,Petermann, Anke,Eigenproduktion,,
+16:12:58
+00:06:31
+Wer hat Angst vor Thorsten Schäfer-Gümbel,Spreng, Michael,Eigenproduktion,Pflicht,
+16:19:28
+00:00:00
+Musik,,,,
+16:19:28
+00:00:09
+M122 Musik Cello (für RF),,Wiederholung,,
+16:19:56
+00:03:26
+Primavera in anticipo,Pausini, Laura/ Blunt, James,Industrietonträger,,
+16:23:23
+00:01:39
+Musikmod.,Petermann, Jutta,0,,
+16:25:02
+00:03:55
+l'Impressione,Pausini, Laura,Industrietonträger,,
+16:28:59
+00:00:57
+Trailer Einstand 21.11.2008 ("heute 22.00 Uhr"),Malter, Carola,Wiederholung,,
+16:30:00
+00:00:00
+Kulturnachrichten,,,,
+16:30:10
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+16:30:17
+00:03:19
+Kulturnachrichten,,Eigenproduktion,,
+16:33:15
+00:00:00
+Kritik,,,,
+16:33:33
+00:00:05
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+16:33:40
+00:00:35
+Anmod,Scholl, Joachim,0,,
+16:34:13
+00:04:59
+Hörbuch: "Apokalypsen" von Gerhard Polt,Bunk, Lutz,Wiederholung,Wiederholung,
+16:39:13
+00:00:21
+Abmod,Scholl, Joachim,0,,
+16:39:34
+00:02:57
+Kulturtipps - Freitag, 21.11.2008 - 16.40 Uhr,Ufer, Gesa,Eigenproduktion,,
+16:42:32
+00:00:00
+Musik,,,,
+16:42:39
+00:00:09
+M190 Musik Pop II (für RF),Braunschmid,Wiederholung,,
+16:43:08
+00:02:59
+Brandy Alexander,Sexsmith, Ron,Industrietonträger,,
+16:46:07
+00:01:20
+Musikmod.,Petermann, Jutta,0,,
+16:47:26
+00:03:02
+Ship of Fools,Sexsmith, Ron,Industrietonträger,,
+16:50:33
+00:02:07
+Wurfpaket 5450 - 21.11.08 - P6,diverse,Eigenproduktion,,
+16:52:40
+00:00:07
+M301 Rubrik DVD-Tipp (für RF),DLRK,Co-Produktion,,
+16:52:47
+00:00:37
+Mod.,Scholl, Joachim,0,,
+16:53:22
+00:05:32
+DVD-Tipp: Alexander Kluge: "Eisensteins Kapital",Überland, Laf,Eigenproduktion,,
+16:58:55
+00:00:49
+Mod.,Scholl, Joachim,0,,
+16:59:44
+00:00:00
+Ortszeit 17 Uhr,,,,
+16:59:44
+00:00:00
+Nachrichten 17.00,,,,
+16:59:45
+00:00:12
+MFP Magdeburg,,Wiederholung,,
+

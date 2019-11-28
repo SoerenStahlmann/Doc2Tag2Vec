@@ -1,0 +1,79 @@
+﻿
+Infotext
+12.12.2008
+"Kein Akteur, kein Produkt, keine Region sollte unreguliert bleiben"
+Ökonom Otte: Zweite Welle der Finanzkrise droht
+Max Otte im Gespräch mit Leonie March
+
+Der Finanzmarktexperte Max Otte hat vor einer zweiten Krise der Finanzmärkte gewarnt, die durch sogenannte Credit Default Swaps (CDS) ausgelöst werden könnte. Bisher habe keine Aufsichtsbehörde diese Derivate zur Versicherung von Krediten richtig kontrolliert, sagte der Professor für Betriebswirtschaftslehre. 
+
+Leonie March: In Brüssel beraten die EU-Staats- und -Regierungschefs über ein europäisches Konjunkturprogramm. Während sie sich noch mit den Folgen der ersten Finanzkrise beschäftigen, warnen Experten schon vor der zweiten. Ausgelöst werden könnte sie durch Kreditversicherungen, sogenannte Credit Default Swaps, kurz "CDS". Eigentlich wurden sie als Instrumente zur Kreditabsicherung entwickelt, doch jetzt werden sie selbst zu einem Risiko. 
+
+Darüber spreche ich jetzt mit Professor Max Otte. Er lehrt allgemeine und internationale Betriebswirtschaftslehre an der Fachhochschule Worms, ist ein gefragter Berater und hat bereits 2006 in seinem Buch "Der Crash kommt" vor der Krise gewarnt. Guten Morgen, Professor Otte.
+
+Max Otte: Guten Morgen.
+
+March: Nach welchem Prinzip funktionieren diese Kreditversicherungen, diese "CDS"?
+
+Otte: In dem Wort steckt es eigentlich schon ganz gut drin. Es sollte eigentlich eine Kreditversicherung sein. Sagen wir mal so: Ich gebe eine Anleihe aus oder ich nehme einen Kredit auf. Das ist ja im Prinzip dasselbe. Dann kann derjenige, der mir diese Anleihe abkauft oder der mir den Kredit gibt, bei einer dritten Partei sich versichern für den Fall, dass ich nicht zurückzahle.
+
+In dem Fall, dass ich nicht zurückzahle, müsste eben der Versicherer die ganze Summe bezahlen. Das steckt eigentlich hinter der Idee "Credit Default Swap". Aber es sind halt sehr große Volumina geschrieben worden. Man spricht da von bis zu 50 Billionen, und das ist das Brisante.
+
+March: Sie sagen, man spricht da von bis zu 50 Billionen. Warum weiß man das nicht genau?
+
+Otte: Bis jetzt sind da nie so richtige Statistiken veröffentlicht worden. Diese Swaps sind auch nicht reguliert. Da gab es keine Aufsichtsbehörde, die sich das so richtig unter die Lupe genommen hat. Es gibt zwar jetzt die "Depository Trust and Clearing Corporation" (DTCC), und die fangen an, jetzt auf Druck der Regulierungsbehörden so langsam diese Zahlen zu veröffentlichen, aber bis jetzt gab es da tatsächlich keine richtige offizielle Statistik.
+
+March: Die "CDS" waren ja in den vergangenen Jahren sehr beliebt. Banken und vor allem Hedgefonds haben derartige Kreditversicherungen abgeschlossen. Wie wirkt sich das jetzt in der Finanzkrise aus?
+
+Otte: Das ist genau das Problem. Sie können ja sagen wir mal, wenn sie eine Anleihe kaufen oder einen Kredit geben und sich so eine Versicherung nehmen, sagen, der ist sicher. In dem Fall, wo der Gläubiger nicht mehr zahlt, da zahlt dann eben die Versicherung. Aber wenn die Versicherung oder diejenigen, die diese Swaps geschrieben haben, also die im Prinzip eintreten für das Risiko, wenn die selber wackeln, dann wackeln auf einmal natürlich ihre Guthaben auch, also ihre Forderungen gegenüber dem Anlageschuldner oder dem Kreditschuldner. 
+
+Das ist das riesige Problem, denn zum Teil wurden diese Swaps eben von Institutionen, Hedgefonds geschrieben, die jetzt gar nicht mehr solide dastehen. Das heißt, sie können unter Umständen gar nicht bedient werden.
+
+March: Besteht denn auch ein anderes Problem darin, dass inzwischen Spekulanten im Spiel sind?
+
+Otte: Ich meine, die ganzen letzten zehn Jahre waren eine gigantische Spekulation. Das fing bei den Häuserpreisen an, das ging eigentlich in der New Economy los mit den Technologieaktien. Wenn sie als kleiner Hedgefonds oder mittelgroßer Hedgefonds sagen, okay, ich rechne eigentlich damit, dass diese Schulden bedient werden, also warum soll ich nicht ins Risiko gehen und eine solche Versicherung als Stillhalter abschließen, also als der Versicherer, für den Fall, dass sie platzt. 
+
+Das ist ja schon eine Spekulation genau da, und das haben eben sehr viele Institutionen gemacht, weil keiner damit gerechnet hat, dass die Anleihen auf einmal tatsächlich platzen und jetzt hängen sie alle drin.
+
+March: Der amerikanische Milliardär Warren Buffet hat ja schon vor sechs Jahren vor den Risiken gewarnt und die "CDS"-Kreditversicherungen als finanzielle Massenvernichtungswaffen bezeichnet. Ist das übertrieben?
+
+Otte: Nein, das ist nicht übertrieben. Ich bin großer Buffet-Fan. Ich bin jedes Jahr auf der Hauptversammlung in Omaha. Er hat aber im Prinzip alle Derivate als finanzielle Massenvernichtungswaffen bezeichnet. Das heißt, es sind hoch gefährliche, hoch komplexe Instrumente, die natürlich im Einzelfall Sinn machen, aber eben nur im Einzelfall, und das wirklich Fatale ist, dass diese Derivate eben nicht reguliert wurden, dass keiner so richtig weiß, wie viel von diesem Sondermüll jetzt durch das System kreist. Das ist das große Problem.
+
+March: Von welchen Faktoren hängt es denn jetzt ab, ob tatsächlich der zweite Kollaps auf dem Finanzmarkt bevorsteht?
+
+Otte: Wenn wir das so genau wüssten? Jetzt ist zumindest durch die Unterstützung der Banken und vieler anderer Institutionen, dass die Staaten so eingesprungen sind, ist erstmal das Risiko von massenhaften Anleihenausfällen deutlich gesunken. Das heißt, wir kommen hier vielleicht darum herum. Aber ich will es nicht ausschließen. 
+
+Wenn also die Wirtschaftskrise jetzt sich wirklich massiv auswächst, wenn die großen Produktionsfirmen mit dem Rücken zur Wand stehen, wenn da die ersten Insolvenzen kommen, dann kann da natürlich die nächste Lawine losgetreten werden.
+
+March: Aber Sie sagen, das Hauptproblem ist, dass dieser Markt nicht reguliert und von keiner Aufsichtsbehörde kontrolliert wird?
+
+Otte: Ja, das heißt, vor zwei, drei Jahren hieß es ja noch, wir haben große Techniken, wir können die Risiken viel besser verteilen und viel besser managen. Heute wissen wir, dass diese Techniken eigentlich nur dafür gut waren, die Risiken viel besser zu verstecken. Das ist das Problem. Das sind solche komplexe Instrumente. 
+
+Wenn sie allein eine "Acid Backed Security" lesen - das sind diese gebündelten Hypothekenanleihen -, das sind dann 300 mal 300 Seiten. Der Einzelprospekt sind 300 Seiten. Dann bündeln sie 300 davon. Dann müssen sie also nachher 90.000 Seiten lesen, und das macht kein Mensch. So ist es dann eben der Fall, dass eigentlich keiner mehr genau nachvollziehen kann, was für Risiken wirklich im System liegen.
+
+March: Ich habe auch gelesen, dass zum Teil Geschäfte per E-Mail zwischen zwei Parteien abgeschlossen wurden, also Kreditversicherungen. Ist das ein weiteres Problem?
+
+Otte: Das hat das Ganze nur erleichtert. Es wurden ja auch die Verträge für die Hausschulden derartig abgeschlossen. Wenn jemand einen Kredit aufnehmen wollte, das ging ja auch auf Treue und Glauben. Da wurden ja auch keine Dokumente geprüft. Wenn sie da die Standards senken, dann können sie eben immer leichtsinnigere Geschäfte abschließen. Genau da lag das Problem.
+
+March: Heißt das in der Konsequenz, dass diese zweite Finanzkrise, die da jetzt auf uns zurollen könnte, nur schwer mit den bestehenden Instrumenten verhindert und bewältigt werden kann?
+
+Otte: Es ist im Prinzip ja dasselbe wie jetzt, dass dann dadurch irgendwelche Institutionen und Banken wieder massive Abschreibungen in den Bilanzen haben, große Verluste hinnehmen müssen, dass also da noch mal eine große Abschreibungswelle vielleicht auf die Banken zukommt. 
+
+Das ist also im Prinzip von der Form her so ähnlich wie jetzt in der ersten Welle und dann muss eben noch mal Geld gedruckt werden oder auch Stammkapital bereitgestellt werden. Also es muss dann tatsächlich noch mal wie jetzt auch die Allgemeinheit die Suppe auslöffeln, aber da geht jetzt leider kein Weg darum herum.
+
+March: Welche Maßnahmen müssten denn langfristig von Notenbanken und Politik ergriffen werden, damit diese "CDS" nicht mehr zu so einem Riesen Risikopaket werden?
+
+Otte: Die Prinzipien sind ganz einfach. Frau Merkel hat es ja auch sehr schön gesagt. Es sollte kein Akteur, kein Produkt und keine Region unreguliert bleiben. Also keine Schlupflöcher, weder für bestimmte Akteure wie jetzt die Hedgefonds, noch für bestimmte Regionen wie zum Beispiel die Kanalinseln, noch für bestimmte Produkte wie zum Beispiel die Derivate. 
+
+Und wenn sie das hinbekommen in der internationalen Staatengemeinschaft, haben sie das Problem gelöst. Aber ich glaube, von den schönen Worten, die Frau Merkel gesagt hat, und auch richtigen Worten, bis zur Umsetzung ist ein riesenweiter Weg und ich bin nicht sehr optimistisch, dass uns das gelingen wird.
+
+March: Aber die Motivation dazu sehen Sie?
+
+Otte: Nicht unbedingt. Man hat in Washington relativ schnell das Abschlusskommuniqué unterschrieben, was eigentlich darauf hindeutet, dass die richtigen Diskussionen noch gar nicht angefangen haben. Jetzt schiebt man das sozusagen auf die Arbeitsebene ab und jetzt unterhält sich alles über die Konjunkturprogramme. 
+
+Das ist Business as usual, das kennt man, das ist Krisenmanagement. Aber die langfristigen strategischen Orientierungen und die notwendigen Dinge, die getan werden müssten, damit man so etwas in Zukunft verhindert, die werden dann unter Umständen eine Stufe runtergestuft in der Priorität.
+
+March: Max Otte war das, Professor für allgemeine und internationale Betriebswirtschaftslehre an der Fachhochschule Worms. Herzlichen Dank für das Gespräch.
+
+Otte: Vielen Dank.
+

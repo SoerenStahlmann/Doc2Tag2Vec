@@ -1,0 +1,44 @@
+﻿
+Infotext
+12:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:47
+00:00:45
+OZN 12 Tel Aviv: Israelische Luftangriffe in Gaza,Verenkotte,Clemens,Übernahmen,Übernahme,
+12:02:05
+00:00:52
+OZN 12 Spannungen zwischen Indien und Pakistan,Hanefeld, Jürgen,Wiederholung,,
+12:03:26
+00:00:55
+OZN 12 Berlin: Weiter Streit um Konjunktur-Paket und Steuersenkung in der Union,Sturm, Klaus,Übernahmen,,
+12:05:15
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:06:18
+00:02:24
+Überraschender israel. Angriff auf Gaza / Viele Tote,Verenkotte, Clemens,Übernahmen,Pflicht +20%,
+12:08:42
+00:03:23
+Israel bombardiert Hamas-Stellungen: Reaktionen Libanon, Gefahr gg. Israel,Kaspar, Birgit,Eigenproduktion,Pflicht,
+12:12:05
+00:00:04
+F087 Station ID 2,,Wiederholung,,
+12:12:54
+00:03:26
+Gesundheitsfond - Start mit Unterfinanzierung,Adler, Sabine,Eigenproduktion,,
+12:16:56
+00:01:31
+Künzell: Auftakt CDU-Wahlkampf Hessen,Petermann, Anke,Eigenproduktion,Pflicht,
+12:20:46
+00:03:15
+Pakistan: Vor einem Jahr wurde B.Bhutto ermordet,Hanefeld, Jürgen,Übernahmen,Übernahme,
+12:24:34
+00:03:08
+Kenia: Ein Jahr nach den Wahlen ist der Unmut groß,Engelhardt, Marc,Übernahmen,Übernahme,
+12:27:43
+00:01:48
+Sunrise/instr.,Lambchop; Lambchop,Industrietonträger,,
+12:29:28
+00:00:48
+Trailer Konzert 27.12.2008 ("heute 19.05 Uhr"),Vorwerk, Sabine,Wiederholung,,

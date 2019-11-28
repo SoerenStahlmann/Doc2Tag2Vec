@@ -1,0 +1,63 @@
+﻿
+Infotext
+23:00:00
+00:05:00
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:05:01
+00:00:06
+M025 Opener Fazit,,Wiederholung,,
+23:05:06
+00:01:25
+Ocean Breeze Motel/instr...,Hilden,Gregor,Industrietonträger,,
+23:06:30
+00:01:58
+Can Do,Giant Sand,Industrietonträger,,
+23:08:57
+00:02:22
+Kurzporträt Stefan Herheim,Friedrich, Uwe,Eigenproduktion,,
+23:11:19
+00:07:08
+Brüssel: Dvoraks "Rusalka" inszeniert von Stefan Herheim,Peter, Wolf- Dieter,Eigenproduktion,,
+23:18:27
+00:02:00
+Saturated Beyond Repair,Giant Sand,Industrietonträger,,
+23:21:19
+00:05:38
+Die unerklärliche Leichtigkeit des Metalls - Ausstellung in Kiel,Schneider, Anette,Eigenproduktion,Ja,
+23:26:55
+00:02:18
+Without a word,Giant Sand,Industrietonträger,,
+23:29:35
+00:00:21
+Ausschnitt "Wunschkonzert",Kroetz, Franz Xaver,Eigenproduktion,,
+23:29:57
+00:06:29
+Kölner Schauspielhaus: Franz Xaver Kreutz "Wunschkonzert" von  Katie Mitchell,Fischer, Ulrich,Eigenproduktion,,
+23:29:57
+00:06:28
+Kölner Schauspielhaus: Franz Xaver Kreutz "Wunschkonzert" von  Katie Mitchell,Fischer, Ulrich,Wiederholung,,
+23:36:22
+00:02:04
+Pitch & Sway,Giant Sand,Industrietonträger,,
+23:39:16
+00:03:59
+Verkauf von Frequenzen an die Mobilfunkbranche- Ende der Funkmikrofone?,Linß, Vera,Eigenproduktion,,
+23:43:15
+00:01:28
+Increment of Love,Giant Sand,Industrietonträger,,
+23:45:20
+00:06:00
+Politischer Geist: Zum Tod des Karikaturisten Fritz Behrendt,Lindner, Bernd,Eigenproduktion,,
+23:51:38
+00:04:13
+Kulturpresseschau,Orzessek, Arno,Eigenproduktion,,
+23:56:22
+00:03:24
+Es geht mir gut,Westernhagen,Industrietonträger,,
+23:56:35
+00:00:05
+O-Ton Marius Müller-Westernhagen,Müller-Westernhagen,Eigenproduktion,,
+
+
+
+

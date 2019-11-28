@@ -1,0 +1,272 @@
+﻿
+Infotext
+07:00:19
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+07:00:39
+00:00:42
+OZN 6: Gute Aussichten für Klimaschutzpaket auf EU-Gipfel,Becker, Michael,Übernahmen,,
+07:01:43
+00:00:33
+OZN 6: Bundesumweltminister Gabriel für gleiche Bedingungen in Stahlproduktion,Gabriel, Siegmar - Bundesumweltminister,Wiederholung,Frei,
+07:02:42
+00:00:46
+OZN 7: Rettungspaket für US-Autobauer im Senat gescheitert,Ziegler, Albrecht,Übernahmen,,
+07:04:15
+00:00:49
+OZN 7: Schon bald Kfz-Steuer auf Kohlendioxid-Basis?,Becker, Rüdiger,Übernahmen,,
+07:05:27
+00:00:47
+OZN 6: Handballfrauen im EM-Halbfinale,Knief,Martina,Übernahmen,,
+07:06:41
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:07:07
+00:02:21
+Satchel Paige Said,The Baseball Project,Industrietonträger,,
+07:09:32
+00:05:32
+Zweiter Tag des EU-Gipfels in Brüssel,Finthammer, Volker,Eigenproduktion,Frei,
+07:14:56
+00:03:36
+Walk of life/...,Dire Straits,Industrietonträger,,
+07:18:34
+00:02:18
+Allegro vivace aus: Sinfonia IV in d-moll,Concerto Köln,Industrietonträger,,
+07:20:53
+00:00:00
+Politisches Feuillton,,,,
+07:21:19
+00:04:31
+Demokratie oder Diktatur,Staadt,Jochen,Eigenproduktion,Pflicht,
+07:25:51
+00:03:03
+Time,Zelmani,Sophie,Industrietonträger,,
+07:28:52
+00:00:56
+Trailer Konzert 12.12.2008 ("heute 20.03 Uhr"),Pöllmann, Rainer,Wiederholung,,
+07:29:47
+00:00:00
+Nachrichten 7.30,,,,
+07:29:48
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+07:30:01
+00:03:53
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+07:33:54
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:34:22
+00:02:39
+Here's To The Halcyon,Old 97's,Industrietonträger,,
+07:37:03
+00:00:08
+Opener Mensch Müller 09.04. lang,Seyffert,Wiederholung,,
+07:37:09
+00:02:30
+"Mensch Müller" -  Kindheit,Baxmann, Matthias ; Eckoldt, Matthias,Eigenproduktion,,
+07:39:48
+00:02:40
+Allegro aus: Konzert für Violoncello und Streicher,Swarts,Lucia(violc)/Teatro Lirico,Industrietonträger,,
+07:42:55
+00:02:37
+Washington: Gescheitert- Senat will US-Autokonzernen nicht helfen,Borchers, Jens,Übernahmen,Übernahme,
+07:45:33
+00:03:27
+Ich habe keine Tränen mehr,Dittrich, Olli,0,,
+07:49:00
+00:07:53
+Interview 1: Credit Default Swaps - eine neue tickende Zeitbombe?,Otte, Max, Professor für Allgemeine und Internationale Betriebswirtschaftslehre,Eigenproduktion,,
+07:56:53
+00:02:54
+Inner City Blues (Makes me wanna Holler),Muldaur, Maria,Industrietonträger,,
+07:59:44
+00:00:00
+Ortszeit (8 - 9),,,,
+07:59:44
+00:00:00
+Nachrichten 8.00,,,,
+07:59:46
+00:00:12
+MFP Ludwigshafen,,Wiederholung,,
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	12.12.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	March
+Redaktion:	Bock /Brammer
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Ulbricht
+Technik:	Lambart
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'51''	Brüssel: EU-Gipfel			
+						
+			.			
+			Autor: Doris Simon			
+
+05:15		  3'06''	Posen: Warten auf Brüssel-			
+			Klimakonferenz schaut auf EU-Gipfel	Übern.		
+			.			
+			Autor: Oliver Günther			
+
+05:20		  3'48''	Berlin: Internat. Symposium -			
+			''Verantwortung übernehmen''	Wdhl.		
+			NS- Raubkunst			
+			.			
+			Autor: Margarete Limberg			
+
+05:40		  3'37''	Länderplatz: Was tun gegen junge Raser			BB
+			in Brandenburg?	Pflicht		
+			.			
+			Autor: Claudia van Laak			
+
+05:44		  4'37''	KALENDERBLATT	Wenner		
+			Vor 60 Jahren:	frei		
+			 Unter dem Vorsitz von Theodor Heuss 			
+			wird die Freie Demokratische Partei 			
+			gegründet			
+			.			
+			Autor: Otto Langels			
+
+05:52		  4'12''	Presseschau mit Olaf Oelstrom			
+						
+			Themen:			
+			- EU-Gipfel zum Klimaschutz und   			
+			Konjunkturpaket			
+			- Wirtschaftskrise 			
+
+
+06:10		 04'10''	Washington: Rettungsplan für			
+			US-Autobauer scheitert im Senat			HR
+						
+			.			
+			Autor: Jens Borchers			
+
+06:15		  3'52''	Kiel: Flachs für Bremsbeläge-			
+			Auswirkungen auf die Zulieferbetreibe	Pflicht		
+			der Autoindustrie			
+			.			
+			Autor: Matthias Günther			
+
+06:23		  2'58''	Wort zum Tage (kath.)			
+						
+			.			
+			Autor: Pfarrer Hans-Peter Weigel, 			
+			Nürnberg			
+
+06:40		  4'13''	Aus den Feuilletons			
+				Wdhl.		
+			.			
+			Autor: Klaus Pokatzky			
+
+06:45		  2'43''	Genf: Schweiz wird Schengen-Mitglied-			
+			was heißt das praktisch?	Übern.		SW
+						
+			.			
+			Autor: Pascal Lechler			
+
+06:50		  7'04''	Ende UN-Klimakonfernez			
+			in Posen			
+			Janusz Reiter			
+			Koordinator der poln. Regierung für die 			
+			Konferenz			
+			Beratungen verliefen bisher gut, heute 			
+			nun müssen die Minister 			
+			entscheiden/es wird in Posen allerdings 			
+			nur ein Zwischenergebnis 			
+			erwartet/dabei werde es einen 			
+			Kompromiss geben, der die Interessen 			
+			der Alt-und Neu-EU-Länder 			
+			berücksichtigt/die hohe Zahl an 			
+			Kohlekraftwerken ist ein weltweites 			
+			Problem, nicht allein ein 			
+			polnisches/wichtig deshalb: Kohle 			
+			muss in Zukunft ''sauber'' verbrannt 			
+			werden			
+			.			
+			Autor: Janusz Reiter			
+
+
+07:10		  5'33''	Zweiter Tag des EU-Gipfels in Brüssel			
+				frei		
+			.			
+			Autor: Volker Finthammer			
+
+07:20		  4'21''	Politisches Feuilleton			
+			Demokratie oder Diktatur. Erinnerung an	Pflicht		
+			den Reichsrätekongreß 1918 			
+			.			
+			Autor: Jochen Staadt			
+
+07:40		  2'30''	''Mensch Müller'': Kindheit			
+						
+			.			
+			Autor:  Matthias Baxmann,  Matthias 			
+			Eckoldt			
+
+07:45		  2'37''	Washington: Gescheitert- Senat			
+			will US-Autokonzernen nicht helfen			HR
+			.			
+			Autor: Jens Borchers			
+
+07:50		  7'58''	Credit Default Swaps- eine neue tickende			
+			Zeitbombe?			
+			Max Otte, Professor für Allgemeine und			
+			Internationale Betriebswirtschaftslehre			
+			CDS-bergen Risiken-eine zweite 			
+			Fianzkrise sei durch diese sogar 			
+			möglich/bisher mangelnde Kontrolle 			
+			durch Aufsichtsbehörden/äußert sich 			
+			skeptisch gegenüber einer Einigung auf 			
+			effiktive Finanzmarktkontrolle/Prinzipien 			
+			einer Kontrolle jedoch sehr einfach-kein 			
+			produnkt und Region sollten unreguliert 			
+			bleiben  			
+			.			
+			Autor: Max Otte			
+
+
+08:10		  5'51''	''Mediengespräch''			
+			Wochenzeitung ''Freitag''			
+			Philip Grassmann, Chefredakteur			
+			Themen: 			
+			- Konflikt Pakistan-Indien			
+			- Ingrid Betancourt erzählt über ihre   			
+			Geiselhaft			
+			- Vor dem Darwinjahr : Evolution falsch   			
+			verstanden 			
+			.			
+			Autor: Philip Grassmann			
+
+08:20		  6'11''	Hartz IV Klageflut	kbi		BE
+						
+			.			
+			Autor: Verena Kemna			
+
+08:40		  5'35''	Tel Aviv: Dunkle Nacht im Gaza-Streifen-			
+			Besuch in einem trostlosen Landstrich	Übern.		BR
+			.			
+			Autor: Clemens Verenkotte			
+
+08:50		  4'00''	Kulturtipp			
+			Ernst Ludwig Kirchner im Brücke Museum	Pflicht		
+			Berlin 			
+			.			
+			Autor: Alicia Rust			
+
+
+						
+						
+						
+
+
+

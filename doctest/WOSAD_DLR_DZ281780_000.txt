@@ -1,0 +1,63 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:31:11
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:48
+00:02:45
+Landesbank BaWü schreibt rote Zahlen,Götz, Uschi,Eigenproduktion,Honorar,
+22:35:02
+00:03:09
+Europäischer Bankenkongress in Ffm,Braun, Michael,Wiederholung,Honorar,
+22:38:38
+00:03:11
+Berlin: Koalition korrigiert Neuverschuldung nach oben,Hinter, Melanie,Wiederholung,Wiederholung,
+22:41:50
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:41:53
+00:02:51
+Nachrichten-Block 1,,Eigenproduktion,,
+22:44:43
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:44:58
+00:00:46
+OZN22:30 Frankfurt: Börse,Plate,Jan,Übernahmen,,
+22:46:23
+00:03:05
+Abschluss Innenministerkonferenz in Potsdam,van Laak, Claudia,Eigenproduktion,Wiederholung,
+22:49:56
+00:02:44
+Diskussion um Bundeswehreinsatz gegen Piraten,Capellan, Frank,Eigenproduktion,Wiederholung,
+22:52:53
+00:01:32
+Kommentar Somalia: Der Westen hilft sich selbst,Engelhardt, Marc,Übernahmen,Übernahme,
+22:54:29
+00:00:05
+M009 DropIn Sport,,Wiederholung,,
+22:54:59
+00:00:42
+Fußball: Bundesliga Karlsruher SC - Borussia Dortmund 0:1,Zurawski, Mathias,Übernahmen,Übernahme,
+22:56:15
+00:00:49
+Fußball: 2. Bundesliga MSV Duisburg - FSV Frankfurt 0:0,Hupe, Burkhard,Übernahmen,Übernahme,
+22:57:36
+00:00:17
+Fußball: O-Ton Herbert Maronn, Manager Hansa Rostock zum neuen Trainer D. Eilts,Didjurgeit, Jan,Übernahmen,Übernahme,
+22:58:10
+00:00:45
+Tischtennis: German Open: Boll im Achtelfinale - Deutsche Teams im Endspiel,Arians, Mathias,Übernahmen,Übernahme,
+22:59:46
+00:00:00
+Fazit,,,,
+22:59:46
+00:00:00
+Nachrichten 23.00,,,,
+22:59:46
+00:00:09
+M001 DLRK (für Nachrichten),,Wiederholung,,
+

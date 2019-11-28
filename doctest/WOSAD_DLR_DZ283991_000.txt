@@ -1,0 +1,120 @@
+﻿
+Infotext
+10:00:22
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+10:00:49
+00:00:41
+OZN 8: Verabschiedung Konjunkturprogramm EU-Gipfel wahrscheinlich,Richardson, Irmtraud,Übernahmen,,
+10:01:54
+00:00:39
+OZN 8: Janusz Reiter zur UN-Klimakonferenz in Posen,Reiter, Janusz,Wiederholung,,
+10:02:58
+00:00:48
+OZN 9: Autorettungspaket scheitert im US-Senat,Aischmann, Frank,Übernahmen,,
+10:04:40
+00:00:49
+OZN 7: Schon bald Kfz-Steuer auf Kohlendioxid-Basis?,Becker, Rüdiger,Übernahmen,,
+10:05:48
+00:00:35
+OZN 10: Generalstreik in Italien,Troendle, Stefan,Übernahmen,,
+10:06:51
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+10:06:57
+00:00:35
+Mod: Begrüßung,Vorschau,König, Jürgen,0,,
+10:07:31
+00:00:43
+The Night Has A Thousand Eyes,Tyner, McCoy,Industrietonträger,,
+10:08:24
+00:00:50
+Re-De-Troit,Palov & Mishkin,Industrietonträger,,
+10:09:13
+00:00:05
+M149 DLRK Das Feuilleton Pressegespräch,,Wiederholung,,
+10:09:18
+00:09:22
+Feuilletonpressegespräch: Mainpost - Streit um Generalmusikdirektor Wang,Schweidler, Manfred,Eigenproduktion,,
+10:18:40
+00:01:02
+Teaser Essigs Essenzen 12.12.2008,Ameln, Leonard,Wiederholung,,
+10:19:43
+00:00:00
+Musik,,,,
+10:19:43
+00:00:08
+F121 Musik Flöte (für RF),,Wiederholung,,
+10:20:08
+00:02:42
+Re-De-Troit,Palov & Mishkin,Industrietonträger,,
+10:22:50
+00:01:50
+Musikmod.,Müller, Andreas,0,,
+10:24:37
+00:03:55
+Saturday Night (Beatfanatic Remix),Hancock, Herbie,Industrietonträger,,
+10:28:33
+00:01:17
+Wurfpaket 5505 - 12.12.08 - P2,div.,Eigenproduktion,,
+10:30:00
+00:00:00
+Kulturnachrichten,,,,
+10:30:02
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+10:30:09
+00:03:01
+Kulturnachrichten,,Eigenproduktion,,
+10:33:07
+00:00:00
+Kritik,,,,
+10:33:08
+00:00:05
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+10:33:15
+00:06:28
+Belletristik: Antonio L. Antunes, Gestern in Babylon hab ich Dich nicht gesehen,Löffler, Sigrid,Eigenproduktion,,
+10:39:40
+00:03:04
+Kulturtipps - Freitag, 12.12.2008  - 10.40 Uhr,Nessler, Susanne,Eigenproduktion,,
+10:42:44
+00:00:00
+Musik,,,,
+10:42:45
+00:00:11
+M188 Musik Free Jazz (für RF),Brauschmid,Wiederholung,,
+10:43:13
+00:04:23
+The Night Has A Thousand Eyes,Tyner, McCoy,Industrietonträger,,
+10:47:59
+00:03:22
+Musikmod.,Müller, Andreas,0,,
+10:50:46
+00:01:52
+Naima,Tyner, McCoy,Industrietonträger,,
+10:52:38
+00:00:00
+Profil,,,,
+10:52:38
+00:00:08
+M276 Rubrik Chor der Woche,,0,,
+10:52:46
+00:00:36
+Mod.,König, Jürgen,0,,
+10:53:20
+00:05:53
+Profil: Chor der Woche: Männerchor Frohsinn Gelsenkirchen,Stratmann, Gerrit,Eigenproduktion,Pflicht +15%,
+10:59:14
+00:00:31
+Mod.,König, Jürgen,0,,
+10:59:44
+00:00:00
+Radiofeuilleton (11 - 12),,,,
+10:59:44
+00:00:00
+Nachrichten 11.00,,,,
+10:59:44
+00:00:12
+MFP Schleswig,,Wiederholung,,
+

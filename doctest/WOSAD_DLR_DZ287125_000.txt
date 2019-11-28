@@ -1,0 +1,60 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:31:16
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:51
+00:03:05
+Tel Aviv: Hoffnung auf Waffenstillstand im Nahen Osten,Marx, Bettina,Übernahmen,Übernahme,
+22:35:47
+00:02:24
+Amman: Solidaritätstreffen in Katar für die Palästinenser,Kühntopp, Carsten,Übernahmen,Übernahme,
+22:38:30
+00:00:08
+Berlin: O-Ton Wladimir Putin zum Gasstreit,Putin, Wladimir, russischer Ministerpräsident,Übernahmen,Übernahme,
+22:38:57
+00:02:59
+Berlin: Russischer Ministerpräsident Putin bei Bundeskanzlerin Merkel,Labuhn, Wolfgang,Eigenproduktion,Frei,
+22:42:13
+00:02:39
+Kommentar: Das Geschäftsgebaren in Moskau und Kiew ist international fraglich,Baag, Robert,Wiederholung,Wiederholung,
+22:45:02
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:45:06
+00:02:11
+Nachrichten-Block 1,,Eigenproduktion,,
+22:47:16
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:47:33
+00:00:55
+Börse,Wehrle, Claudia,Übernahmen,,
+22:49:00
+00:01:40
+Washington: Die letzte Rede von Präsident Bush,Aischmann, Frank,Übernahmen,Übernahme,
+22:51:26
+00:04:14
+Wiesbaden: Die hessischen Linken im Wahlkampf,Petermann, Anke,Wiederholung,Wiederholung,
+22:55:41
+00:00:06
+M009 DropIn Sport,,Wiederholung,,
+22:56:17
+00:01:12
+Biathlon: WC Ruhpolding Sprint Frauen MmE  Siems,Siems, Andre,Übernahmen,Nein,
+22:58:01
+00:00:55
+Skispringen: Weltcup Zakopane Nachrichtenminute Hirth,Hirth, Volker,Übernahmen,Nein,
+22:59:46
+00:00:00
+Fazit,,,,
+22:59:46
+00:00:00
+Nachrichten 23.00,,,,
+22:59:46
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+

@@ -1,0 +1,72 @@
+﻿
+Infotext
+17:00:54
+00:00:49
+OZN 17  Fortschreibung Lage Gaza,Marx, Bettina,Übernahmen,,
+17:02:05
+00:00:54
+OZN 17  Gas-Konsortium soll gegründet werden,Nagel, Christina,Übernahmen,,
+17:03:32
+00:00:49
+OZN 17 EU will  Autoindustrie helfen,Landmesser, Wolfgang,Übernahmen,,
+17:04:49
+00:00:48
+OZN 17  Citigroup wird aufgespalten,Kastan, Klaus,Übernahmen,,
+17:05:59
+00:00:49
+OZN 15 UN: Cholera in Simbabwe nicht unter Kontrolle,Lechler, Pascal,Übernahmen,,
+17:07:18
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:08:29
+00:03:05
+Capricornia,Midnight Oil,Industrietonträger,,
+17:12:10
+00:03:34
+Washington: US-Präsdient Bushs letzte Rede an die Nation,Sina, Ralph,Übernahmen,Übernahme,
+17:15:45
+00:07:07
+Washington: Acht Jahre Bush - Bilanz und Ausblick,Remme, Klaus,Eigenproduktion,Frei,
+17:22:48
+00:03:33
+Washington: Die US-Hauptstadt bereitet sich auf die Mutter aller Feiern vor,Paulert, Rüdiger,Übernahmen,Übernahme,
+17:26:42
+00:02:43
+Undone,Lifehouse,Industrietonträger,,DIGI_SOURCE$#
+17:29:50
+00:02:22
+Tel Aviv: Fortschreibung Lage Gaza,Marx, Bettina,Übernahmen,Übernahme,
+17:32:33
+00:03:29
+Amman: Katars Solidaritätstreffen für die Palästinenser,Kühntopp, Carsten,Übernahmen,Übernahme,
+17:36:51
+00:03:07
+Moskau: Russisches Erdgas: Moskau bleibt unnachgiebig,Baag, Robert,Eigenproduktion,Frei,
+17:40:27
+00:02:22
+Brüssel: EU-Staaten beraten über Hilfen für Auto-Industrie,Heilbrunner, Peter,Übernahmen,Übernahme,
+17:43:24
+00:02:47
+New York: Chesley `Sully` Sullenberger, der Held des Wunders vom Hudson,Schmidt, Thomas,Übernahmen,Übernahme,
+17:46:25
+00:02:28
+Where the World divides,Oysterband,Industrietonträger,,
+17:49:25
+00:06:45
+Wiesbaden: Rückblick auf die kürzeste Legislaturperiode Hessens,Petermann, Anke,Eigenproduktion,Pflicht,
+17:56:31
+00:02:36
+Lay back down,Lindell,Eric,Industrietonträger,,
+17:59:05
+00:00:40
+Trailer Art's Birthday 16.01.2009 ("heute 22.00 Uhr"),Gammel, Marcus,Wiederholung,,
+17:59:44
+00:00:00
+Aus der jüdischen Welt / Shabbat,,,,
+17:59:44
+00:00:00
+Nachrichten 18.00,,,,
+17:59:44
+00:00:13
+MFP Kabel und Satellit,,Wiederholung,,
+

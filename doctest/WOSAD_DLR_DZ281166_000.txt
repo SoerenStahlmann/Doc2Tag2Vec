@@ -1,0 +1,107 @@
+﻿
+Infotext
+11:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+11:00:53
+00:00:51
+OZN EU-Russland-Gipfel: Moskaus Erwartungen,Nagel, Christina,Übernahmen,,
+11:02:06
+00:00:46
+OZN 11 Bundesfinanzminister Peer Steinbrück zum Weltfinanz-Gipfel,O-Ton Bundesfinanzmin. Peer Steinbrück,Übernahmen,,
+11:03:17
+00:00:57
+OZN 10 Bundestags-Beschlüsse zu VW, Maut, Elterngeld,Kossakowski, Stanislaus,Übernahmen,,
+11:04:42
+00:00:53
+OZN 9 Vor Grünen-PT: Al-Wazir plädiert für ehrgeizige Klimaziele,Al-Wazir, Tarek, Mitglieg im Parteirat, Fraktionschef der hessischen Grünen,Wiederholung,,
+11:05:50
+00:00:41
+OZN 11 Pilotenstreik der Air France - seit Mitternacht bis Montag,Deeg Claudia,Übernahmen,,
+11:06:47
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+11:06:52
+00:00:37
+Mod: Begrüßung,Vorschau,Führer, Susanne,0,,
+11:07:29
+00:00:36
+Edgar Allan Poe,Paul Roland,Industrietonträger,,
+11:08:19
+00:00:47
+Knock On Wood,Seal,Industrietonträger,,
+11:09:06
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+11:09:10
+00:00:16
+Essigs Essenzen,Essig, Rolf-Bernhard,Eigenproduktion,Pflicht,
+11:09:29
+00:00:15
+Hörer für Essigs Essenzen 14.11.2008 11 Uhr,Kreuzahler,Eigenproduktion,,
+11:09:45
+00:11:28
+Essigs Essenzen 2,Essig, Rolf-Bernhard,Eigenproduktion,,
+11:17:44
+00:00:00
+Musik,,,,
+11:21:11
+00:00:08
+M189 Musik Klavier II (für RF),Braunschmid,Wiederholung,,
+11:21:40
+00:03:45
+Here I Am (Come and Take me),Seal,Industrietonträger,,
+11:26:27
+00:03:19
+Knock On Wood (Album Version),Seal,Industrietonträger,,
+11:30:00
+00:00:00
+Kulturnachrichten,,,,
+11:30:13
+00:00:05
+M019 Kulturnachrichten,,Wiederholung,,
+11:30:20
+00:03:14
+Kulturnachrichten,,Eigenproduktion,,
+11:33:18
+00:00:00
+Kritik,,,,
+11:33:32
+00:00:06
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+11:34:14
+00:04:59
+Hörbuch: Wilhelm  Genazino, Der gedehnte Blick,Schneider, Wolfgang,Eigenproduktion,Pflicht,
+11:39:30
+00:03:12
+Kulturtipps - Freitag, 14.11.2008 - 11.40 Uhr,Voss, Regina,Eigenproduktion,,
+11:42:44
+00:01:47
+Wurfpaket 5406 - 14.11.08 - P3,diverse,Eigenproduktion,,
+11:44:31
+00:00:00
+Musik,,,,
+11:44:31
+00:00:09
+M122 Musik Cello (für RF),,Wiederholung,,
+11:44:39
+00:03:51
+Edgar Allan Poe,Paul Roland,Industrietonträger,,
+11:49:47
+00:04:36
+Captain Nemo,Paul Roland,Industrietonträger,,
+11:54:35
+00:00:05
+F088 Station ID 3,,Wiederholung,,
+11:54:41
+00:05:06
+Junge Sterne im Osten: Heute erscheint der Michelin Führer Deutschland 2009,Caspar, Juliane,Eigenproduktion,,
+11:59:44
+00:00:00
+Ortszeit 12 Uhr,,,,
+11:59:44
+00:00:13
+MFP Kabel und Satellit,,Wiederholung,,
+11:59:44
+00:00:00
+Nachrichten 12.00,,,,

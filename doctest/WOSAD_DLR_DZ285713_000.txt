@@ -1,0 +1,108 @@
+﻿
+Infotext
+15:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:00:56
+00:00:49
+OZN 15 - Tel Aviv/Update: Begräbnis und neue Angriffe,Teichmann, Torsten,Übernahmen,,
+15:02:11
+00:00:35
+OZN 14 - Glos und Energiewirtschaft zum Gas-Streit Ukraine vs.,Wentzien, Birgit,Übernahmen,,
+15:03:10
+00:00:38
+OZN 14: Konjunkturdebatte in der Koalition,Buellmann, Rolf,Übernahmen,Übernahme,
+15:04:50
+00:00:52
+OZN 15 - Umweltzonen - Dt. Umwelthilfe zieht Bilanz,Zimmermann, Anne,Übernahmen,,
+15:06:31
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:06:36
+00:00:50
+Mod: Begrüßung,Vorschau,Karkowsky, Stephan,0,,
+15:07:25
+00:00:39
+The Herb,Franziska,Industrietonträger,,
+15:08:02
+00:00:53
+Waldweben,Kammerphilharmonie Graubünden,Industrietonträger,,
+15:08:54
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:08:59
+00:11:02
+Wie leitet man die Suche nach dem Ursprung der Welt? Der neue Chef des CERN,Heuer, Rolf-Dieter,Eigenproduktion,Frei,
+15:20:01
+00:01:33
+Wurfpaket 5532 - 02.01.09 - P5,div.,Eigenproduktion,,
+15:21:33
+00:00:00
+Musik,,,,
+15:21:33
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+15:22:09
+00:01:57
+Gretchen am Spinnrade,Wesseling, Maria Riccarda,Industrietonträger,,
+15:24:06
+00:01:13
+Musikmoderation,Wegner, Matthias,Wiederholung,,
+15:24:08
+00:05:25
+Waldweben,Kammerphilharmonie Graubünden,Industrietonträger,,
+15:30:00
+00:00:00
+Kulturnachrichten,,,,
+15:30:07
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+15:30:14
+00:03:02
+Kulturnachrichten,,Eigenproduktion,,
+15:33:12
+00:00:00
+Kritik,,,,
+15:33:14
+00:00:06
+M163 Rubrik Ihre Buchhändlerin empfiehlt,,0,,
+15:33:20
+00:07:06
+Buchhändlerin im Gespräch - Ulrike Boessneck-Voigt,Boessneck-Voigt, Ulrike,Eigenproduktion,,
+15:40:25
+00:01:03
+Teaser Debatte 02.01.2009   15:40,Hock,Eigenproduktion,,
+15:41:29
+00:02:34
+Kulturtipps - Freitag, 02.01.2009 - 15.40 Uhr,Wenzel, Tobias,Eigenproduktion,,
+15:44:03
+00:00:00
+Musik,,,,
+15:44:06
+00:00:09
+M160 Musik World (für RF),,Wiederholung,,
+15:44:32
+00:03:45
+More Love,Franziska,Industrietonträger,,
+15:48:18
+00:01:37
+Musikmoderation,Wegner, Matthias,Wiederholung,,
+15:49:54
+00:03:00
+Big Ship,Franziska feat. Freddie McGregor,Industrietonträger,,
+15:52:56
+00:00:06
+M118 DLRK Debatte,,Wiederholung,,
+15:53:03
+00:06:46
+Debatte: Brauchen wir Maßnahmen gegen die tägliche Dauerbeschallung?,Karkowsky, Stephan,Eigenproduktion,,
+15:59:44
+00:00:00
+Radiofeuilleton (16 - 17),,,,
+15:59:44
+00:00:00
+Nachrichten 16.00,,,,
+15:59:46
+00:00:11
+MFP Emden,,Wiederholung,,
+

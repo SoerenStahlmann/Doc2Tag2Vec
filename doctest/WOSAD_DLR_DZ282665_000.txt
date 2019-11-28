@@ -1,0 +1,120 @@
+﻿
+Infotext
+09:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+09:00:52
+00:00:55
+OZN 10 :Bombay aktuell,Hanefeld, Jürgen,Übernahmen,Übernahme,
+09:02:21
+00:00:52
+OZN 6 : Singapur/Lage in Thailand angespannt Ausnahmezustand am Flughafen,Musch-Borowska, Bernd,Übernahmen,Übernahme,
+09:03:42
+00:00:53
+OZN 10 : O-Ton Ehrhart Körting zum BKA- Gesetz,Ehrhart Körting / SPD / Innensenator Berlin,Eigenproduktion,Wiederholung,
+09:04:50
+00:00:34
+OZN 6: Abschluß der Haushaltsberatungen,Weidemann, Michael,Übernahmen,Übernahme,
+09:05:43
+00:00:41
+OZN 10 :Nairobi/Neue Kämpfe im Osten Kongos. UN-Sonderbotschafter auf Vermit,Dohrenbusch, Wim,Übernahmen,Übernahme,
+09:06:42
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:06:46
+00:00:56
+Begrüßung,Vorschau,Kassel, Dieter,0,,
+09:07:42
+00:00:41
+The Very Thing That Makes You Rich,Cooder, Ry,Industrietonträger,,
+09:08:44
+00:00:41
+Vorspiel aus: Carmen,The Orchestra of the Royal Opera House,Industrietonträger,,
+09:09:25
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+09:09:30
+00:10:46
+Faulheit o. Unwissenheit: Warum die Deutschen beim Anbieterwechsel so träge sin,Miegel, Meinhard,Eigenproduktion,,
+09:20:17
+00:01:25
+Wurfpaket 5432 - 28.11.08 - P1,div.,Eigenproduktion,,
+09:21:43
+00:00:00
+Musik,,,,
+09:21:43
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+09:22:16
+00:02:10
+Zwischenspiel zum 4. Akt aus: Carmen,The Orchestra of the Royal Opera House,Industrietonträger,,
+09:24:26
+00:01:41
+Musikpräsentation,Wohlmacher, Uwe,Eigenproduktion,,
+09:25:57
+00:03:53
+Szene "Les voici! Voici la quadrille" ( 4. Akt) ,  aus: Carmen,The Orchestra of the Royal Opera House,Industrietonträger,,
+09:30:00
+00:00:00
+Kulturnachrichten,,,,
+09:30:23
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+09:30:30
+00:03:21
+Kulturnachrichten,,Eigenproduktion,,
+09:33:28
+00:00:00
+Kritik,,,,
+09:33:49
+00:00:06
+M131 DLRK Sachbuch,,Wiederholung,,DIGI_SOURCE$#
+09:33:56
+00:05:34
+Sachbuch: Steven Lee Beeber: "Die Heebie-Jeebies im CBGB's" / Ventil Verlag,Beyer, Carsten,Eigenproduktion,,
+09:39:27
+00:03:05
+Kulturtipps, Freitag, 28. November 2008, 9.40 Uhr,von Schenck, Susanne,Eigenproduktion,,
+09:42:32
+00:00:00
+Musik,,,,
+09:42:35
+00:00:09
+M017 Musik Gitarre (für RF),,Wiederholung,,
+09:43:02
+00:03:44
+The Very Thing That Makes You Rich,Cooder, Ry,Industrietonträger,,
+09:48:21
+00:01:41
+Musikpräsentation,Wohlmacher, Uwe,Eigenproduktion,,
+09:48:25
+00:04:27
+Crazy 'Bout An Automobile,Cooder, Ry,Industrietonträger,,
+09:52:58
+00:01:02
+Teaser Essigs Essenzen 28.11.08,Kochendörfer, Judith,Eigenproduktion,,
+09:54:01
+00:00:00
+Kalenderblatt,,,,
+09:54:01
+00:00:05
+M101 Kalenderblatt (mit DLRK),,Wiederholung,,
+09:54:06
+00:00:35
+Anmod,Kassel, Dieter,0,,
+09:54:41
+00:04:35
+Kalenderblatt 28.11. (1908 - Claude Lévi-Strauss geboren),Meichsner, Irene,Wiederholung,,
+09:59:16
+00:00:29
+Abmod,Kassel, Dieter,0,,
+09:59:44
+00:00:00
+Radiofeuilleton (10 - 11),,,,
+09:59:44
+00:00:00
+Nachrichten 10.00,,,,
+09:59:45
+00:00:12
+MFP Niebüll,,Wiederholung,,
+

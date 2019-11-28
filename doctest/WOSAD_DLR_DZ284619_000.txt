@@ -1,0 +1,108 @@
+﻿
+Infotext
+16:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+16:00:41
+00:00:53
+OZN 16 : Washington/US-Regierung hilft Autoindustrie mit Milliardenkrediten,Borchers, Jens,Übernahmen,Übernahme,
+16:02:07
+00:00:51
+OZN 13 : BuTa beschließt "humanitäre Operation" Atalanta,Ueberbach, Stephan,Übernahmen,Übernahme,
+16:03:15
+00:00:46
+OZN 15 :Berlin : Zypries und Schäuble einigen sich bei Strafbarkeit von Terror,Kleber, Mark,Übernahmen,Übernahme,
+16:04:19
+00:00:44
+OZN 12 : Karlsruhe/Christian Klar ist auf freiem Fuß,Essig, Jürgen,Übernahmen,Übernahme,
+16:05:23
+00:00:48
+OZN 16 : Baustart für zentrales Sinti-und Roma-Mahnmal in Berlin,Kossmann, Liane,Übernahmen,Übernahme,
+16:06:52
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+16:06:57
+00:00:57
+Mod: Begrüßung,Vorschau,Scholl, Joachim,0,,
+16:07:54
+00:00:53
+People, people,The SoulJazz Orchestra,Industrietonträger,,
+16:09:07
+00:00:40
+Nichts kann uns stoppen,Blumio & Habesha,Industrietonträger,,
+16:09:46
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+16:09:53
+00:10:46
+Gibt es einen Kaufknopf im Gehirn? Über Sinn und Unsinn von Neuromarketing,Elger, Christian,Eigenproduktion,,
+16:19:51
+00:00:00
+Musik,,,,
+16:20:37
+00:00:09
+M190 Musik Pop II (für RF),Braunschmid,Wiederholung,,
+16:21:06
+00:02:44
+Vielleicht,Blumio & Habesha,Industrietonträger,,
+16:25:07
+00:03:08
+Nichts kann uns stoppen,Blumio & Habesha,Industrietonträger,,
+16:28:38
+00:01:41
+Wurfpaket 5555 - 19.12.08 - P6,div.,Eigenproduktion,,
+16:30:00
+00:00:00
+Kulturnachrichten,,,,
+16:30:19
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+16:30:26
+00:03:30
+Kulturnachrichten,,Eigenproduktion,,
+16:33:54
+00:00:38
+Weihnachts-Promitipp Til Schweiger,Raith, Anne,Eigenproduktion,,
+16:34:32
+00:00:00
+Kritik,,,,
+16:34:44
+00:00:05
+M128 DLRK Hörbuch,,Wiederholung,,DIGI_SOURCE$#
+16:35:32
+00:04:59
+Hörbuch: "Erfolg"von Lion Feuchtwanger, Lesung und Hörspiel / Der Audio Verlag,Opitz, Michael,Wiederholung,Pflicht,
+16:40:59
+00:03:08
+Kulturtipps - Freitag, 19.12.2008 - 16.40 Uhr,Petermann, Jutta,Eigenproduktion,,
+16:44:08
+00:00:00
+Musik,,,,
+16:44:08
+00:00:11
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+16:44:44
+00:03:24
+People, people,The SoulJazz Orchestra,Industrietonträger,,
+16:48:07
+00:01:38
+Musikmoderation,,0,,
+16:49:37
+00:03:20
+Kapital,The SoulJazz Orchestra,Industrietonträger,,
+16:53:06
+00:00:06
+M301 Rubrik DVD-Tipp (für RF),DLRK,Wiederholung,,
+16:53:43
+00:05:25
+DVD-Tipp: "Kuhle Wampe",Claus, Peter,Übernahmen,,
+16:59:44
+00:00:00
+Ortszeit 17 Uhr,,,,
+16:59:44
+00:00:00
+Nachrichten 17.00,,,,
+16:59:44
+00:00:12
+MFP Berlin,,Wiederholung,,
+

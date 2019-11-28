@@ -1,0 +1,87 @@
+﻿
+Infotext
+14:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+14:01:03
+00:00:33
+OZN 14: Erbschaftssteuer passiert Bundesrat,Henkel, Sabine,Übernahmen,Übernahme,
+14:02:00
+00:00:48
+OZN 14 Bundestag zu Arbeitsmarktinstrumenten und Beiträgen - Kritik der Opposit,Buellmann, Rolf,Übernahmen,,
+14:03:05
+00:00:50
+OZN 13 Bundesbank erwartet Konjunktureinbruch,Hütig, Stephan,Übernahmen,,
+14:04:51
+00:00:38
+OZN 14: Verteidigungsministerium: Herk. der abgefangenen Schnellboote ungeklärt,Günther, Anja,Übernahmen,Übernahme,
+14:05:42
+00:00:50
+OZN 13 Patriarch Alexij II gestorben,Nagel,Christina,Übernahmen,,
+14:06:48
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+14:06:52
+00:00:53
+Mod: Begrüßung,Vorschau,Heise, Katrin,0,,
+14:07:45
+00:00:48
+Shark,Charlson, Gary,Industrietonträger,,
+14:08:57
+00:01:01
+La Cumparsita,Adrover, Lisandro,Industrietonträger,,
+14:09:58
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+14:10:03
+00:10:05
+"Muslime und Hindus solidarisieren sich" - Indien nach dem Terror,Bhatti, Anil,Eigenproduktion,,
+14:20:37
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+14:21:24
+00:03:07
+It's Your Heart Tonight,Secrets,Industrietonträger,,
+14:26:12
+00:03:09
+Just Another Pop Song,J.P. McClain & the Intrudors,Industrietonträger,,
+14:29:49
+00:00:46
+Wurfpaket 5474 - 05.12.08 - P4,div.,Eigenproduktion,,
+14:30:35
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+14:30:42
+00:03:04
+Kulturnachrichten,,Eigenproduktion,,
+14:33:44
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+14:33:51
+00:05:28
+"Zehnundeine Nacht" - Charles Lewinsky / Nagel & Kimche, Zürich , 2008,Magenau, Jörg,Eigenproduktion,,
+14:39:15
+00:03:08
+Kulturtipps - Freitag, 05.12.2008 - 14.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+14:42:27
+00:00:09
+M160 Musik World (für RF),,Wiederholung,,
+14:43:05
+00:03:33
+Cascoteando el rancho,Adrover, Lisandro,Industrietonträger,,
+14:48:17
+00:03:54
+Pauleada,Adrover, Lisandro,Industrietonträger,,
+14:52:34
+00:01:08
+Teaser debatte 05.12.2008   14:50,Kochendörfer,Eigenproduktion,,
+14:53:43
+00:00:08
+M137 DLRK Kolumne,,Wiederholung,,
+14:54:06
+00:05:18
+Meine Woche- Blockflötenkolumne,Stratmann, Jürgen,Eigenproduktion,,
+14:59:44
+00:00:12
+MFP Gießen,,Wiederholung,,
+

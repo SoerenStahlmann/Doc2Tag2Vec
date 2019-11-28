@@ -1,0 +1,53 @@
+﻿
+Infotext
+23:00:00
+00:04:44
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:04:45
+00:00:06
+M025 Opener Fazit,,Wiederholung,,
+23:05:36
+00:01:33
+Hurra, wir leben noch (mono),Milva,Eigenproduktion,,
+23:07:02
+00:07:48
+Zum Tod von Johannes Mario Simmel,Karasek, Hellmuth,Eigenproduktion,,
+23:14:48
+00:01:30
+Turn on, tune in, cop out,Freak Power,Industrietonträger,,
+23:16:14
+00:07:24
+Kulturhauptstadt Vilnius,Forssman, Berthold,Eigenproduktion,Ja,
+23:23:38
+00:01:29
+Moonbeam Woman,Freak Power,Industrietonträger,,
+23:24:54
+00:05:09
+Eröffnung des neuen ars electronica centers in Linz,Stocker, Gerfried,Eigenproduktion,Frei,
+23:30:03
+00:01:18
+Running Away,Freak Power,Industrietonträger,,
+23:32:07
+00:05:27
+In der Krise stagniert das ikonographische Bauen,Stöckmann, Jochen,Eigenproduktion,Ja,
+23:37:39
+00:01:40
+What Is It,Freak Power,Industrietonträger,,
+23:39:12
+00:07:28
+Das Ende eines Genres: Der Briefwechsel,Wahlster, Barbara,Eigenproduktion,Frei,
+23:46:28
+00:01:06
+Change My Mind,Freak Power,Industrietonträger,,
+23:48:10
+00:05:42
+Die polnische Vertreibung als Spielfilmthema,Sander, Martin,Eigenproduktion,Ja,
+23:54:00
+00:04:07
+Kulturpresseschau 02.12.,Pokatzky, Klaus,Eigenproduktion,,
+23:58:08
+00:01:41
+The Whip,Freak Power,Industrietonträger,,
+
+
+

@@ -1,0 +1,63 @@
+﻿
+Infotext
+23:00:00
+00:05:05
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:05:05
+00:00:07
+M025 Opener Fazit,,Wiederholung,,
+23:05:11
+00:01:27
+Brother where are you/Instr.,Seductive Souls,Industrietonträger,,
+23:05:55
+00:00:19
+O-Ton Aernout Mik,Gondorf, Ulrike,Eigenproduktion,,
+23:06:36
+00:01:19
+Djama,Amadou & Mariam,Industrietonträger,,
+23:07:48
+00:08:05
+10 Jahre Washingtoner Abkommen zur NS Raubkunst (aus Sicht der dt. Museen),Baumstark, Reinhold,Eigenproduktion,Frei,
+23:15:39
+00:01:11
+"Ce n'est pas bon",Amadou & Mariam,Industrietonträger,,
+23:17:33
+00:05:51
+Haus der europäischen Geschichte: Polen kritisiert EU-Konzept,Borodziej, Wlodzimierz,Eigenproduktion,Frei,
+23:23:22
+00:01:39
+"Je kiffe",Amadou & Mariam,Industrietonträger,,
+23:27:35
+00:04:46
+Theater Dortmund: "woman and scarecrow"/ Marina Carr (dt. Erstaufführung),Fischer, Ulrich,Eigenproduktion,Pflicht,
+23:29:34
+00:01:58
+Africa,Amadou & Mariam,Industrietonträger,,
+23:31:54
+00:05:01
+Aernout Mik erhält Kunstpreis Aachen,Gondorf, Ulrike,Eigenproduktion,Pflicht,
+23:36:51
+00:02:23
+Magossa,Amadou & Mariam,Industrietonträger,,
+23:39:08
+00:04:16
+Havanna: Bilanz des ibero-amerikanischen Filmfestivals,Hamdorf, Wolfgang Martin,Eigenproduktion,Pflicht,
+23:43:19
+00:03:36
+Unissons nous,Amadou & Mariam,Industrietonträger,,
+23:47:34
+00:03:48
+Deutsch-französisches Forschungszentrum "Centre Marc Bloch",Schönpflug, Daniel,Eigenproduktion,Frei,
+23:51:22
+00:00:25
+Zwischenmod.,Balzer, Vladimir,Eigenproduktion,,
+23:51:38
+00:04:13
+Kulturpresseschau,Brüning, Jens,Eigenproduktion,Pflicht,
+23:56:03
+00:03:44
+Bozos,Amadou & Mariam,Industrietonträger,,
+
+
+
+

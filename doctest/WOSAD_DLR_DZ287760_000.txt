@@ -1,0 +1,243 @@
+﻿
+Infotext
+05:00:00
+00:04:37
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:04:38
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:05:01
+00:03:31
+Where the World divides,Oysterband,Industrietonträger,,
+05:09:00
+00:03:38
+Die neue US Außen- und Sicherheitspolitik,Remme, Klaus,Eigenproduktion,Frei,
+05:12:45
+00:03:24
+Fracture social/-,Stremler,Thierry,Industrietonträger,,
+05:16:38
+00:03:30
+"Embedded Art" Ausstellung in der Akademie der Künste, Berlin,Wiegand, Barbara,Eigenproduktion,Wiederholung,
+05:20:20
+00:02:22
+Allegro aus: Nr.1 in d-moll,Concerto Köln,Industrietonträger,,
+05:23:05
+00:03:15
+Berlin:  Europaparteitag Grüne,Gudula Geuther,Eigenproduktion,,
+05:26:23
+00:02:42
+Say It Again,Bedingfield, Natasha,Industrietonträger,,
+05:29:05
+00:00:42
+Trailer Lange Nacht EINSATZ 23.01.2009 ("HEUTE NACHT 0.05 Uhr"),Höhne, Rita,Eigenproduktion,,
+05:29:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+05:29:47
+00:00:00
+Nachrichten 5.30,,,,
+05:30:01
+00:04:42
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:34:43
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:35:02
+00:02:36
+Groove me,Blue Mountain,Industrietonträger,,
+05:38:01
+00:03:15
+Frankfurt: Bankenkrise - Bad Bank die Lösung?,Braun, Michael,Eigenproduktion,Übernahme,
+05:41:17
+00:03:40
+Smackwater Jack,King,Carole,Industrietonträger,,DIGI_SOURCE$#
+05:45:00
+00:00:00
+Kalenderblatt,,,,
+05:45:23
+00:04:38
+Kalenderblatt 23.01. (1909 - Erster Notruf per Morsezeichen CQD),Schulenburg, Mathias,Eigenproduktion,,
+05:50:11
+00:02:35
+Symphonie Concertante in F-Dur: Allegro,Zürcher Kammerorchester/ Howard Griffiths,Industrietonträger,,
+05:52:47
+00:04:51
+Presseschau,Hörnle, Bernd,0,,
+05:57:36
+00:02:11
+One more lie in,Delays,Industrietonträger,,
+05:59:44
+00:00:00
+Ortszeit (6 - 7),,,,
+05:59:44
+00:00:00
+Nachrichten 6.00,,,,
+05:59:46
+00:00:12
+MFP Bad Salzungen,,Wiederholung,,
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	23.01.2009
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	March
+Redaktion:	Pianka/Wassmund
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Ameln
+Technik:	Lambart
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'39''	Guantanamo wird geschlossen,			
+			Obama verhängt Folterverbot -	frei		
+			.			
+			neue US-Außen und Sicherheitspolitik			
+			Autor: Klaus Remme			
+
+05:15		  3'31''	''Embedded Art. Kunst im Namen der			
+			Sicherheit''	Wdhl.		
+			.			
+			Autor: Barbara Wiegand			
+
+05:20		  3'16''	Bundesdelegiertenkonferenz			
+			B 90/Die Grünen in Dortmund	frei		
+			zur Europawahl			
+			.			
+			Autor: Gudula Geuther			
+
+05:40		  3'24''	Frankfurt: Bankenkrise - Bad Bank			
+			die Lösung?	Übern.		
+			.			
+			Autor: Michael Braun			
+
+05:44		  4'38''	KALENDERBLATT: Vor 100 Jahren	Wenner		
+			Das Passagierschiff ''Republic'' setzt	frei		
+			dem Morsezeichen CQD den ersten 			
+			ferntelegrafischen Notruf ab			
+			.			
+			Autor: Schulenburg, Mathias			
+
+05:52		  4'52''	Presseschau mit Bernd Hörnle			
+						
+			Zumwinkel-Prozess / Ausweitung der 			
+			Mindestlöhne auf neue Branchen / 			
+			Schliessung Guantanamos			
+
+
+06:10		  3'39''	Neue US-Außen- und Sicherheits-			
+			politik	Wdhl.		
+			Guantanamo wird geschlossen - Folter 			
+			wird verboten			
+			.			
+			Autor: Klaus Remme			
+
+06:15	dira	  3'41''	Länderplatz: Streit über Sportförderung	wa		ST
+			in Sachsen-Anhalt.	Pflicht		
+			.			
+			Autor: Susanne Arlt			
+
+06:23		  2'14''	Wort zum Tage (kath.)			
+						
+			.			
+			Autor: Juliane Bittner, Berlin			
+
+06:40		  3'53''	Aus den Feuilletons			
+				Wdhl.		
+			.			
+			Autor: Jens Brüning			
+
+06:44		  3'17''	Berlin: Erfahrungen und Hoffnungen	wa		BE
+			nach dem Gaza-Krieg.	Pflicht		
+			Hier lebende Palästinenser geben			
+			Auskunft.  			
+			.			
+			Autor: Caroline Kuban			
+
+06:50	LT	  6'37''	INTERVIEW I : Sigmar Gabriel, SPD,	wa		
+			Bundesumweltminister	frei		
+						
+			Kohlekraftwerke mit CO2-Speicherung 			
+			sind ''lange Übergangstechnologie'' / In 			
+			Deutschland gebe es nur 			
+			Speicherkapazitäten für eine 			
+			Kraftwerksgeneration von 40 Jahren / 			
+			die Technologie soll zwar bis 2020 von 			
+			der EU gefördert werden, dann stelle 			
+			sich aber die Frage der Wirtschaftlichkeit 			
+			/ Entwicklung der Kohlekraft in Indien 			
+			und China sei noch wesentlich wichtiger			
+
+
+07:10	LTG	  6'23''	Korrespondentengespräch:			
+			Lampedusa vor dem Kollaps	frei		
+			.			
+			Autor: Stefan Troendle			
+
+07:22		  4'15''	Politisches Feuilleton	Garber		
+			Schwerter zu Pflugscharen? - Die Bundes-	Pflicht		
+			wehr als Weltpolizei			
+			.			
+			Autor: Sibylle Tönnies			
+
+07:40		  2'27''	''Mensch Müller''			
+			Thema ''Mut''	Pflicht		
+			.			
+			Autor: Matthias Baxmann/Matthias 			
+			Eckoldt			
+
+07:45		  3'05''	Washington: George Mitchell			
+			als Obamas Nahost-Vermittler	Übern.		BR
+			.			
+			Autor: Borchers, Jens			
+
+07:50	LT	  5'51''	INTERVIEW II: Manfred Nowak,			
+			UN-Sonderberichterstatter über Folter			
+			Ludwig-Boltzmann-Institut für 			
+			Menschenrechte in Wien			
+			 			
+			Obama ''meint es ernst'' - möchte mit 			
+			der Politik der Bush-Regierung brechen 			
+			/ Folterverbot reicht nicht, Umsetzung 			
+			muss durchgesetzt werden / Opfer von 			
+			Menschenrechtsverletzungen müssen 			
+			Wiedergutmachung bekommen / 			
+			eventuelle Anklage gegen Ex-Präs. Bush 			
+			letztlich politische Frage / Europa muss 			
+			Guantanamo-Häftlinge aufnehmen / 			
+			Straftäter müssen vor einem 			
+			Bundesgericht faire Prozesse erhalten 			
+			und ggf. verurteilt werden			
+
+
+08:10	LT	  5'46''	Mediengespräch			
+			Neue Ruhr/Neue Rheinzeitung (NRZ) /Essen	frei		
+			Cornelia Färber, Gerichtsreporterin / ist 			
+			im Gerichtssaal dabei			
+			 			
+			zu: Zumwinkel-Prozeß			
+
+08:20		  6'12''	Die Übermorgenstadt - Oldenburg	ik		BE
+			ist ''Stadt der Wissenschaft 2009''	Pflicht		
+						
+			.			
+			Autor: Christina Selzer, Bremen			
+
+08:40		  3'59''	Erpressung der Liechtensteiner Bank			
+			nach Datenklau	Pflicht		
+			3 Männer angeklagt - mit 2300 			
+			Kontobelegen 13 Mio Euro erpreßt? 			
+			.			
+			Autor: Almuth Knigge			
+
+08:50		  3'58''	Kultur-Tipp - DVD-Tipp	Garber		
+			''W - ein missverstandenes Leben'' -	Pflicht		
+			Oliver Stone's Film über George Bush 			
+			.			
+			Autor: Stefan Keim			
+
+
+

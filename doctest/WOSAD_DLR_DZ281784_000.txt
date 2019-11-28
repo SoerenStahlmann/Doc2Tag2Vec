@@ -1,0 +1,120 @@
+﻿
+Infotext
+14:00:23
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+14:00:54
+00:00:49
+OZN13 Fricke: Etat 2009 ist Wahlkampfhaushalt - Nachtragshaushalt wahrscheinlic,Fricke, Otto, FDP, Vors. Haushaltsausschuss,Wiederholung,,
+14:02:00
+00:00:52
+OZN 13Brüssel Wettbewerbskommissarin Kroes gegen Subventionen für Autoindustrie,Becker, Michael,Übernahmen,,
+14:03:18
+00:00:35
+OZN 14 Bundespräsident kritisiert Bankgewerbe,Köhler, Horst,Übernahmen,,
+14:04:11
+00:00:46
+OZN 11 Kartellamt will Gasversorger zu Preissenkungen zwingen,Beckmann, Christian,Übernahmen,,
+14:05:15
+00:00:43
+OZN 14 Dieter Eilts neuer Trainer bei Hansa Rostock,Didjurgeit, Jan,Übernahmen,,
+14:06:54
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+14:06:59
+00:01:01
+Mod: Begrüßung,Vorschau,Scholl, Joachim,0,,
+14:08:00
+00:00:44
+Café Tabac,Marika Cailly,0,,
+14:09:00
+00:00:43
+Play the Melody,Sibbles, Leroy,Industrietonträger,,
+14:09:42
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+14:09:47
+00:10:25
+Der falsche Inder,Khider, Abbas,Eigenproduktion,,
+14:20:13
+00:00:11
+M160 Musik World (für RF),,Wiederholung,,
+14:20:13
+00:00:00
+Musik,,,,
+14:20:39
+00:03:32
+Come rock with me,Sibbles, Leroy,Industrietonträger,,
+14:24:15
+00:01:34
+Musikmod.,Petermann, Jutta,0,,
+14:25:27
+00:02:42
+You are my brother,Sibbles, Leroy,Industrietonträger,,
+14:28:26
+00:01:22
+Wurfpaket 5454 - 21.11.08 - P4,diverse,Eigenproduktion,,
+14:29:48
+00:00:00
+Kulturnachrichten,,,,
+14:29:48
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+14:29:56
+00:03:26
+Kulturnachrichten,,Eigenproduktion,,
+14:32:53
+00:00:00
+Kritik,,,,
+14:33:19
+00:00:07
+M130 DLRK Literatur (für RF),,,,DIGI_SOURCE$#
+14:33:26
+00:06:21
+Literatur: "Herbstfliegen" von Irene Nemirowsky / Manesse,Abenstein, Edelgard,Eigenproduktion,,
+14:39:44
+00:03:04
+Kulturtipps - Freitag, 21.11.2008 - 14.40 Uhr,Ufer, Gesa,Eigenproduktion,,
+14:42:49
+00:00:00
+Musik,,,,
+14:42:49
+00:00:09
+F122 Musik Cello (für RF),,Eigenproduktion,,
+14:43:13
+00:02:10
+Café Tabac,Marika Cailly,0,,
+14:45:24
+00:01:29
+Musikmod.,Petermann, Jutta,0,,
+14:46:50
+00:03:21
+Dominique,Marika Cailly,0,,
+14:50:11
+00:00:37
+Musikmod.,Petermann, Jutta,0,,
+14:50:42
+00:01:55
+Currywurst,Grönemeyer, Herbert,Industrietonträger,,
+14:52:35
+00:01:04
+Teaser Debatte  21.11.2008  14:50,Hock, Katharina,Eigenproduktion,,
+14:53:40
+00:00:16
+Mod.,Scholl, Joachim,0,,
+14:53:55
+00:05:29
+Kolumne "Dinge sind verzauberte Menschen",Jürgen Stratmann,Eigenproduktion,,
+14:59:24
+00:00:24
+Mod.,Scholl, Joachim,0,,
+14:59:44
+00:00:12
+MFP Arnstadt,,Eigenproduktion,,
+14:59:44
+00:00:00
+Radiofeuilleton (15 - 16),,,,
+14:59:44
+00:00:00
+Nachrichten 15.00,,,,
+

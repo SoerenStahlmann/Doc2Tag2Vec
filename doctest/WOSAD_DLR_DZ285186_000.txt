@@ -1,0 +1,129 @@
+﻿
+Infotext
+14:00:23
+00:00:02
+M002 Trenner Nachrichten,,Wiederholung,,
+14:00:47
+00:00:48
+OZN 14 Tel  Aviv:  Angriff und Reaktionen,Verenkotte, Clemens,Übernahmen,,
+14:02:27
+00:01:00
+OZN 13 Berlin:  BMI bestätigt Zunahme rechtsextremer Straftaten,Sturm, Klaus,Übernahmen,Übernahme,
+14:04:10
+00:00:42
+OZN 14 Gesundheitsfond - Start mit Unterfinanzierung,Adler, Sabine,Eigenproduktion,,
+14:05:05
+00:00:15
+M206 Opener Breitband,,0,,
+14:05:17
+00:01:30
+Begrüßung,,Eigenproduktion,,
+14:06:48
+00:02:50
+20081227 Netzmusik Teaser  Hton Accident Meet,,0,,
+14:09:37
+00:00:08
+M209 Rubrik Breitband Topic,,0,,
+14:09:46
+00:00:21
+Anmod.,,Eigenproduktion,,
+14:10:04
+00:03:10
+Vorsetzer Topic:  Entschleunigung,Meyer, Michael,Eigenproduktion,,
+14:13:14
+00:01:39
+Live-Gespräch - Mikro,,Eigenproduktion,,
+14:20:28
+00:00:08
+M215 Rubrik Breitband Netzmusik,,0,,
+14:20:37
+00:00:39
+Anmod. Musikred.,,Eigenproduktion,,
+14:21:12
+00:02:25
+20081227 Netzmusik 1: Hton Two pathetic guitars and a violin,,0,,
+14:23:59
+00:01:14
+20081227 Netzmusik 1: Tetra Pank Domaci Brend,,0,,
+14:25:12
+00:00:08
+Jingle: Offtopic,Linß, Vera,Eigenproduktion,,
+14:25:17
+00:02:35
+Live-Gespräch Mikro,,Eigenproduktion,,
+14:31:32
+00:00:08
+M214 Rubrik Breitband Medien u. Meinungen,,0,,
+14:31:40
+00:03:29
+Live-Netznachrichten,,Eigenproduktion,,
+14:32:36
+00:00:03
+M208 Trenner Breitband,,0,,
+14:33:26
+00:00:04
+M208 Trenner Breitband,,0,,
+14:34:08
+00:00:04
+M208 Trenner Breitband,,0,,
+14:35:06
+00:00:08
+M215 Rubrik Breitband Netzmusik,,0,,
+14:35:15
+00:00:16
+Mod. Musikred.,,Eigenproduktion,,
+14:35:27
+00:02:05
+20081227 Netzmusik 2 Nipplepeople - Broj,,0,,
+14:38:39
+00:02:04
+20081227 Netzmusik 2 Yammats - Nikog ja ne krivim,,0,,
+14:40:44
+00:00:08
+M211Rubrik Breitband Besprechung,,0,,
+14:40:53
+00:00:32
+Anmod.,,Eigenproduktion,,
+14:41:22
+00:05:25
+Besprechung : "Zero Comments",Jaedicke, Heidmeier,Eigenproduktion,,
+14:46:47
+00:00:11
+Abmod.,,Eigenproduktion,,
+14:46:57
+00:00:08
+M215 Rubrik Breitband Netzmusik,,0,,
+14:47:06
+00:00:09
+Mod. Musikred.,,Eigenproduktion,,
+14:47:11
+00:02:15
+20081227 Netzmusik 3 BILK - Objects,,0,,
+14:49:45
+00:03:08
+20081227 Netzmusik 3 BILK - Gone To Texas,,0,,
+14:52:55
+00:00:08
+M213 Rubrik Breitband Blogspiel,,0,,
+14:53:04
+00:00:11
+Anmod.,,Eigenproduktion,,
+14:53:11
+00:02:48
+Blogspiel der Woche,Linß, Vera,Eigenproduktion,,
+14:56:00
+00:00:34
+Abmod. und Verabschiedung,,Eigenproduktion,,
+14:56:36
+00:03:10
+20081227 Netzmusik Ersatztitel Hton Trains,,0,,
+14:59:44
+00:00:00
+Deutschlandrundfahrt,,,,
+14:59:44
+00:00:00
+Nachrichten 15.00,,,,
+14:59:46
+00:00:12
+MFP Heiligenstadt,,Wiederholung,,
+

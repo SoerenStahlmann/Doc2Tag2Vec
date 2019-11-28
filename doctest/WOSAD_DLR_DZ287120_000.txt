@@ -1,0 +1,263 @@
+﻿
+Infotext
+05:00:01
+00:04:33
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:04:35
+00:00:08
+M003 Opener OrtsZeit,,Wiederholung,,
+05:05:06
+00:02:57
+Tonight,Reamonn,Industrietonträger,,
+05:08:18
+00:02:35
+New York: Das Wunder vom Hudson ? Airbus-Notlandung im Fluss,Schmidt, Thomas,Übernahmen,Übernahme,
+05:10:53
+00:03:26
+Absurdo,da Mata, Vanessa,Industrietonträger,,
+05:14:46
+00:05:30
+Washington: George Bush- Abschied und Bilanz,Remme, Klaus,Eigenproduktion,Frei,
+05:20:05
+00:02:36
+Allegro aus: Concert in A-Dur,Bach-Collegium Stuttgart/Poppen,Christoph (v),Industrietonträger,,
+05:23:11
+00:02:50
+Tokio: Sugamo in Tokio - das Einkaufsparadies der älteren Generation,Kujath, Peter,Übernahmen,,
+05:26:08
+00:02:52
+She walks alone,Eva Be feat. Pegah Ferydoni,Industrietonträger,,
+05:28:56
+00:00:53
+Trailer Länderreport 16.01.2009 ("heute 13.07 Uhr"),Perez, Claudia,Eigenproduktion,,
+05:29:47
+00:00:00
+Nachrichten 5.30,,,,
+05:29:49
+00:00:09
+M001 DLRK (für Nachrichten),,Wiederholung,,
+05:30:01
+00:04:30
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:34:31
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:34:54
+00:03:04
+My Two Feet,Old 97's,Industrietonträger,,
+05:38:26
+00:02:28
+Varazdin: Vorbericht Handball-WM in Kroatien,Hoffmann, Kay,Übernahmen,Übernahme,
+05:40:55
+00:03:26
+Only Love Is Real/...,King,Carole,Industrietonträger,,
+05:44:26
+00:00:00
+Kalenderblatt,,,,
+05:45:07
+00:04:38
+Kalenderblatt 16.01. (1979 - Schah Resa Pahlevi flieht aus dem Ir,Mayer, Tobias,Eigenproduktion,,
+05:49:55
+00:02:07
+aus: Symphonie Nr.46 C-dur KV 96 (KV 111b),Academy Of St. Martin In The Fields/Marriner,Neville (Ltg); Marriner,Neville (L,Industrietonträger,,
+05:52:03
+00:03:53
+Presseschau,,0,,
+05:55:52
+00:03:54
+Like A Fire,Burke, Solomon,Industrietonträger,,
+05:59:44
+00:00:00
+Ortszeit (6 - 7),,,,
+05:59:44
+00:00:00
+Nachrichten 6.00,,,,
+05:59:45
+00:00:12
+MFP Flensburg,,Wiederholung,,
+
+
+
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	16.01.2009
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Ostermann
+Redaktion:	Giesen / Wassmund
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Ulbricht
+Technik:	Lehmann
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  2'35''	New York: Das Wunder vom Hudson?			
+			 Airbus-Notlandung im Fluss	Übern.		WR
+			.			
+			Autor: Thomas Schmidt			
+
+05:15		  5'30''	Washington: George Bush-			
+			Abschied und Bilanz	frei		dlr
+			.			
+			Autor: Klaus Remme			
+
+05:20		  2'51''	Tokio: Sugamo in Tokio- das			
+			Einkaufsparadies der älteren Generation	Übern.		ndr
+			.			
+			Autor: Peter Kujath			
+
+05:40		  2'29''	Varazdin: Vorbericht Handball-WM			
+			in Kroatien	Übern.		mdr
+						
+			.			
+			Autor: Kay Hoffmann			
+
+05:44		  4'38''	KALENDERBLATT	Wenner		
+			Vor 30 Jahren:	frei		
+			 Schah Mohammed Resa Pahlewi und 			
+			seine Frau Farah fliehen aus dem Iran 			
+			ins Exil			
+			.			
+			Autor: Tobias Mayer			
+
+05:52		  3'54''	Presseschau mit Ulrike Pollay			
+						
+			Themen:			
+			- EZB senkt Leitzinsen auf 0,5   			
+			Prozentpunkte			
+			- Birthler-Behörde soll noch länger   			
+			bestehen			
+
+
+06:10		  3'56''	Berlin: Intern. Grüne Woche beginnt			
+				Pflicht		
+			.			
+			Autor: Verena Kemna			
+
+06:15		  3'52''	Länderreport : Kommunen in Not -	wa		BB
+			Putlitz in Brandenburg hofft auf das	Pflicht		
+			Konjunkturpaket II. 			
+			 			
+			.			
+			Autor: Claudia van Laak			
+
+06:23		  2'54''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Pastorin Elke Drewes-Schulz, 			
+			Nienhagen			
+
+06:40		  4'11''	Aus den Feuilletons			
+				Wdhl.		
+			.			
+			Autor: Arno Orzessek			
+
+06:44		  3'18''	Berlin: Ökostrom für die Hauptstadt?	wa		BE
+				Pflicht		
+			.			
+			Autor: Philip Banse			
+
+06:50	LT	  6'21''	INTERVIEW I : Rußlands Min.Präs.	wa		
+			Putin bei Kanzlerin Merkel.	frei		
+			REINHARD KRUMM, Leiter der 			
+			Vertretung d. Friedrich-Ebert-Stiftung in 			
+			Moskau 			
+			Russland will deutlich machen, welche 			
+			Teile zum Einzugsgebiet zählen und wo 			
+			man Einfluss haben möchte/im 			
+			Gasstreit liegen aus Moskauer Sicht die 			
+			Ukrainer falsch/Russland zeigt Stärke, 			
+			wohlwissend dass man so stark nicht 			
+			ist/das Land verdient durch das Gas, 			
+			das Geld, welches Russland zur 			
+			Modenisierung des Landes aufbringen 			
+			muss/Medwedjew und Putin arbeiten 			
+			als Tandem zusammen- Medwedjew ist 			
+			Putin nicht hörig/  			
+			.			
+			Autor: Reinhard Krumm			
+
+
+07:10		  5'30''	Washington: George Bush- Abschied und			
+			Bilanz	Wdhl.		dlr
+			.			
+			Autor: Klaus Remme			
+
+07:20		  4'15''	Politisches Feuilleton: Obamas Amerika	Thies		
+				Pflicht		
+			.			
+			Autor: Hans-Ulrich Gumbrecht			
+
+07:22		  1'10''	Kulturtipp			
+						
+			.			
+			Autor: Roland Krüger			
+
+07:38		  2'24''	''Mensch Müller'' Hessen-Menschen			
+						
+			.			
+			Autor: Matthias Eckoldt, Matthias 			
+			Baxmann			
+
+07:40		  4'31''	Hessen vor der Wahl: Yanki Pürsün			HE
+			als liberaler Integrationsfaktor	Wdhl.		
+			.			
+			Autor: Sandra Schulz			
+
+07:50	Live ANG	  7'48''	Größte Verschuldung seit Bestehen der			
+			Bundesrepublik: Die Konsequenzen?			
+			Albrecht Ritschl. Wirtschaftshistoriker, 			
+			London School of Economics and 			
+			Political Science			
+			momentane Krise ist nicht mit den 			
+			Krisen der 1920/30er Jahren zu 			
+			vergleichen/Vergleiche sind unseriös/Dt. 			
+			hat bisher gar keinen so großen 			
+			Einbruch beim 			
+			BIP/Konjunkturprogramme bringen weit 			
+			weniger zusätzliches Einkommen als 			
+			erhofft/Haftungsregeln für 			
+			Bundesländer: diese müssen stärker 			
+			als bisher für eigene Defizite selbst 			
+			aufkommen/EZB hat klügere Politik als 			
+			in Banken in Amerika betrieben			
+			.			
+			Autor: Albrecht Ritschl			
+
+
+08:10	Live ANG	  7'56''	''Mediengespräch'':  Luffahrtpolitik::			
+			 Wettbewerbsfähigkeit der Deutschen?			
+			Volker Thomalla, CR, Flugrevue			
+			.			
+			Autor: Volker Thomalla			
+
+08:20		  6'08''	Teurer Stillstand: Wie die Finanzkrise	ebs		HH
+			den Hamburger Hafen trifft	Pflicht		
+			.			
+			Autor: Axel Schröder			
+
+08:28		  1'18''	Kuturtipp			
+						
+			.			
+			Autor: Roland Krüger			
+
+08:40		  4'12''	Sofia: Kein Gas aus Russland-			
+			Auswirkungen auf bulgarische Unternehmen	Übern.		br
+			.			
+			Autor: Andrea Mühlberger			
+
+08:50		  4'06''	Operetten-Tipp: Lehárs ‚Lustige Witwe',	Thies		
+				Pflicht		
+			Operetten-Tipp: Lehárs ‚Lustige Witwe', 			
+			Regie: Harry Kupfer, Premiere 			
+			Hamburgische Staatsoper			
+			.			
+			Autor: Ullrich Bohn			
+
+
+

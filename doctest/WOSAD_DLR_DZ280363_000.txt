@@ -1,0 +1,260 @@
+﻿
+Infotext
+06:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+06:00:46
+00:00:54
+OZN 6/Koalition einigt sich auf Erbschaftsteuerreform,Becker, Rüdiger,Übernahmen,Übernahme,
+06:02:05
+00:00:45
+OZN 6/Wiesbaden: Hessen vor Neuwahlen,Harms, Torsten,Übernahmen,Übernahme,
+06:03:17
+00:00:45
+OZN 6/Staatsanwaltschaft Bochum will Zumwinkel anklagen,Zurheide, Jürgen,Übernahmen,Übernahme,
+06:04:26
+00:00:56
+OZN:6/Washington: Obamas erste Personalentscheidung: Rahm Emanuel wird Stabsche,Kiendl, Robert,Übernahmen,Übernahme,
+06:05:36
+00:00:52
+Sportzusammenfassung 7.11.08,Gerth, Sonja,Eigenproduktion,Pflicht,
+06:06:42
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+06:07:20
+00:02:59
+Butterfly,Mraz, Jason,Industrietonträger,,
+06:10:55
+00:03:29
+Brüssel: Vorschau auf EU-Sondergipfel zur Finanzkrise,Finthammer, Volker,Eigenproduktion,Nein,
+06:14:30
+00:02:40
+Nowhere man,Beatles,The,Industrietonträger,,
+06:17:51
+00:03:57
+Modellversuch Demografischer Wandel Seniorenstadt Eggesin,Knigge, Almut,Eigenproduktion,Pflicht,
+06:21:55
+00:02:40
+I was young (CD der Woche),Vincent,Industrietonträger,,
+06:24:42
+00:02:32
+Wort zum Tage 07.11.2008 (Ev.),Steinwender-Schnitzius, Sabine,Eigenproduktion,Pflicht,
+06:26:35
+00:02:19
+2.Allegro aus: Divertimento G-dur,Sanderling,Barbara (Kontrabaß)/Other,Konrad (v)/Döhler,Rolf (violc),Industrietonträger,,
+06:28:54
+00:00:52
+Trailer Konzert 07.11.2008 ("heute 20.03 Uhr"),Lang, Stefan,Co-Produktion,,
+06:29:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+06:30:01
+00:04:19
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+06:34:20
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+06:34:52
+00:02:33
+Where the Wind may blow,Hooters, The,Industrietonträger,,
+06:37:29
+00:03:51
+Aus den Feuilletons 07.11.2008,Timm, Ulrike,Eigenproduktion,Wiederholung,
+06:41:20
+00:02:18
+Un Africain  à Paris,Ja Fakoly, Tikken,Industrietonträger,,
+06:44:21
+00:03:42
+Berlin: Steuerdebatte um Pflegefamilien behinderter Menschen,Rosbach, Jens,Eigenproduktion,Pflicht,
+06:48:03
+00:02:40
+Fool Me Again,Magness, Janiva,Industrietonträger,,
+06:50:34
+00:07:02
+Wie geht es weiter in Hessen - Neuwahlen mit neuen Spitzenkandidaten?,Schaub, Manfred, SPD-Hessen, stellv. Landesvorsitzender,Eigenproduktion,Frei,
+06:51:42
+00:00:05
+Wie geht es weiter in Hessen - Neuwahlen mit neuen Spitzenkandidaten?,Schaub, Manfred, SPD-Hessen, stellv. Landesvorsitzender,Wiederholung,Frei,
+06:57:35
+00:02:10
+If You See Kay,Script,The,Industrietonträger,,
+06:59:44
+00:00:12
+MFP Düsseldorf,,Wiederholung,,
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	07.11.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Pindur
+Redaktion:	Behrendt/Brammer
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Mavroidis (x)
+Technik:	Stürmer
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'31''	Berlin: Koalition berät über			
+			Erbschaftssteuer	frei		
+			.			
+			Autor: Dirk Oliver Heckmann			
+
+05:15		  3'24''	'Auftakt der Reise von Bundespräsident			
+			Köhler zur Afrika-Konferenz in Abuja	frei		
+			.			
+			Autor: Jule Reimer			
+
+05:20		  3'12''	'Kiel: HSH-Nordbank sorgt für 70 Million			
+			en Euro Verlust im Landeshaushalt	Pflicht		
+			.			
+			Autor: Günther, Matthias			
+
+05:40		  3'14''	'Wiesbaden: Hessen vor der Neuwahl			HE
+				Pflicht		
+			.			
+			Autor: Petermann, Anke			
+
+05:44		  4'27''	KALENDERBLATT	Wenner		
+			Vor 90 Jahren:	frei		
+			Nach dem Ausbruch der 			
+			November-Revolution proklamiert Kurt 			
+			Eisner in München den 'Freistaat Bayern' 			
+			.			
+			Autor: Michael Langer			
+
+05:52		  4'07''	Presseschau			
+						
+			 Themen:			
+			- Neuwahlen in Hessen			
+			- USA nach den Wahlen			
+
+
+06:10		  3'30''	Brüssel: EU Sondergipfel zur			
+			Finanzkrise	frei		
+			.			
+			Autor: Volker Finthammer			
+
+06:20		  3'58''	Länderplatz: Modellversuch demo-			MV
+			grafischer Wandel in Mecklenburg	Pflicht		
+			Vorpommern 			
+			.			
+			Autor: Almut Knigge			
+
+06:25		  2'33''	Wort zum Tage (evang.)			
+						
+			Pastorin Sabine Steinwender-Schnitzius 			
+			kommt aus Wuppertal			
+			.			
+			Autor: Pastorin Sabine 			
+			Steinwender-Schnitzius,			
+
+06:40		  4'03''	Aus den Feuilletons			
+						
+			.			
+			Autor: Ulrike Timm			
+
+06:45		  3'42''	Besteuerrung des Pflegeentgelts			
+			soll wegfallen			
+			aus der Sicht der betroffenen Verbände. 			
+			- Für Info bitte Fenster öffnen - 			
+			.			
+			Autor: Jens Rosbach			
+
+06:50		  7'03''	INTERVIEW II			
+			Wie weiter in Hessen?			
+			Manfred Schaub, stellvertretender 			
+			SPD-Landesvorsitzender Hessen 			
+			Landeschef Hessen Nord:			
+			-Kein Ausschluss von Koalitionen mehr/			
+			Verhalten der Abweichler muss 			
+			Konsequenzen haben/die Antwort auf 			
+			die Frage, ob Ypsilanti erneut 			
+			Spitzenkandidatin sein wird, ließ er offen 			
+			und verwies auf den morgen tagenden 			
+			Landesparteirat			
+			.			
+			Autor: Schaub, Manfred, SPD-Hessen;			
+
+
+07:10		  6'22''	'Nairobi: Krisengipfel zur Lage in Kongo			
+				Übern.		WDR
+			 Leitung über Dispo bestellt			
+			.			
+			Autor: Dohrenbusch, Wim			
+
+07:22		  4'44''	Politisches Feuilleton			
+			Ypsilanti und andere Flops	Pflicht		
+			 Das Personalproblem der Parteien			
+			.			
+			Autor: Klaus Schroeder			
+
+07:40		  2'25''	'Mensch Müller: Radio			
+				Pflicht		
+			.			
+			Autor: Baxmann, Matthias; Eckholdt, 			
+			Matthias			
+
+07:45		  3'22''	Washington: Die USA am Tag 2 nach			
+			dem Sieg von Obama			
+			.			
+			Autor: Klaus Remme			
+
+07:50		  8'13''	INTERVIEW I			
+			EU Sondergipfel zur Finanzkrise			
+			Jean Claude Juncker;			
+			Vorsitzender der Euro-Gruppe; Finanz- 			
+			und Premierminister Luxemburgs			
+			spricht sich für ein Stück mehr Europa 			
+			aus und fordert eine Europäische Rating 			
+			Agentur und Neubewertung der alten, 			
+			die brutal versagt hätten/ dem IWF 			
+			komme eine größere Bedeutung zu 			
+			/Nationale Wirtschafts-Pläne in der EU 			
+			müssen zusammen passen/ man 			
+			müsse die Kaufkraft der sozial 			
+			Schwächeren stärken/ 			
+			.			
+			Autor: Juncker, Jean-Claude; Vors. 			
+			Euro-Gruppe			
+
+
+08:10		  6'06''	''Mediengespräch'' taz zu Obama und Cast			
+			or;   Berlin, 89, 6 kHz			
+			 Die neue Identität Amerikas - ein 			
+			Kulturphänomen			
+			- Obamas Team und das unheimliche 			
+			Tempo			
+			-Situation in den Südstaaten			
+			.			
+			Autor: Metzger, Rainer, taz, stellv. 			
+			Chefred.			
+
+08:20		  6'08''	T: fertig Zeugen der Shoah- das digitale	kbi		BE
+			Archiv des Holocausts in Berlin	Pflicht		
+			s. 9. November 			
+	Milchmeyer		.			
+			Autor: Jens Rosbach			
+
+08:40		  4'21''	Die Opposition in Georgien formiert			
+			sich neu	Gema		
+			 Wdh Europa heute von Do			
+			steht im W-Speicher			
+			.			
+			Autor: Gesine Dornblüth			
+
+08:50		  4'06''	Kultur-Tipp			
+			Operntipp: 'Alcina' im Schloßtheater	Pflicht		
+			Potsdam			
+			.			
+			Autor: Uwe Friedrich			
+
+08:55			Übergabe Radiofeuilleton			
+						
+						
+
+
+

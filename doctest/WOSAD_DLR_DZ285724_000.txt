@@ -1,0 +1,102 @@
+﻿
+Infotext
+09:01:05
+00:00:53
+OZN 6 Gaza: Israelische Armee setzt Angriffe fort,Verenkotte,Clemens,Übernahmen,Übernahme,
+09:02:13
+00:00:33
+OZN8 Berlin: Gesundheitsministerin Schmidt verteidigt Gesundheitsfonds,Schmidt, Ulla; SPD, Bundesgesundheitsministerin,Wiederholung,,
+09:03:03
+00:00:38
+OZN9 Berlin: Unions-Mittelstandsvereinigung für Steuersenkungen,Schlarmann, Josef; CDU, Bundesvorsitzender der Mittelstands- und Wirtschaftsver,Eigenproduktion,,
+09:03:56
+00:00:45
+OZN6 Salzburg: Thüringens MP Althaus nach Skiunfall im künstlichen Koma,Meyer-Feist, Andreas,Übernahmen,Übernahme,
+09:04:57
+00:00:42
+OZN8 Hannover: Bundesamt für Strahlenschutz übernimmt Atommüllager Asse,König, Wolfgang; Präsident des Bundesamtes für Strahlenschutz,Wiederholung,,
+09:05:57
+00:00:45
+OZN8 Colombo: Truppen erobern offenbar Rebellen-Hochburg in Sri Lanka,Küstner, Kai,Übernahmen,,
+09:06:59
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:07:04
+00:01:57
+Mod: Begrüßung,Vorschau,Müller, Andreas,0,,
+09:08:34
+00:00:00
+Musik,,,,
+09:09:01
+00:04:16
+Turn on, tune in, cop out,Freak Power,Industrietonträger,,
+09:14:39
+00:04:43
+One nation one ride,Freak Power,Industrietonträger,,
+09:19:47
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+09:19:54
+00:09:20
+Weg mit der Zwangsbeschallung im öffentlichen Raum,Androsch, Peter,Eigenproduktion,Frei,
+09:29:11
+00:00:54
+Trailer Konzert 02.01.2008 ("heute 20.03 Uhr"),Lang, Stefan,Wiederholung,,
+09:30:00
+00:00:00
+Kulturnachrichten,,,,
+09:30:05
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+09:30:12
+00:02:55
+Kulturnachrichten,,Eigenproduktion,,
+09:33:05
+00:00:00
+Kritik,,,,
+09:33:06
+00:00:07
+M131 DLRK Sachbuch,,Wiederholung,,DIGI_SOURCE$#
+09:33:13
+00:05:50
+Sachbuch live: Jan Eik, Der Berliner Jargon / Jaron Verlag, Berlin 2008,Billerbeck, Liane von,Eigenproduktion,Pflicht,
+09:38:59
+00:02:52
+Kulturtipps - Freitag, 02.01.2009 - 09.40 Uhr,Wenzel, Tobias,Eigenproduktion,,
+09:41:52
+00:00:00
+Musik,,,,
+09:41:54
+00:00:11
+M160 Musik World (für RF),,Wiederholung,,
+09:42:35
+00:04:14
+Söhret Yolu,Sultana,0,,
+09:48:21
+00:04:16
+Gözyasi Sisesi,Ars Longa,0,,
+09:52:45
+00:01:31
+Wurfpaket 5501 - 02.01.09 - P2,div.,Eigenproduktion,,
+09:54:16
+00:00:00
+Kalenderblatt,,,,
+09:54:16
+00:00:05
+M101 Kalenderblatt (mit DLRK),,Wiederholung,,
+09:54:21
+00:00:32
+Anmoderation,Müller, Andreas,0,,
+09:54:53
+00:04:36
+Kalenderblatt: Vor 25 Jahren - RTL nimmt seinen Sendebetrieb in Luxemburg auf,Bräunlein, Jürgen,Wiederholung,,
+09:59:44
+00:00:00
+Radiofeuilleton (10 - 11),,,,
+09:59:44
+00:00:00
+Nachrichten 10.00,,,,
+09:59:45
+00:00:12
+MFP Straubing 88,7,,Wiederholung,,
+

@@ -1,0 +1,75 @@
+﻿
+Infotext
+12:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:45
+00:00:46
+OZN 12 Bundestag stimmt Arbeitsmarktgesetzen zu,Langlott, Walter,Übernahmen,,
+12:02:00
+00:00:50
+OZN 11 Clever, Beitrag zur Arbeitslosenversicherung u. Rentenvers. senken,Clever, Peter, Vors. des Verwaltungsrates BA,Wiederholung,Wiederholung,
+12:03:21
+00:00:37
+OZN 12 Bundesrat stimmt für Konjunktur-Paket,Sturm, Klaus,Übernahmen,,
+12:04:12
+00:00:43
+OZN 11 Patriarch Alexij II - Nachruf,Hartbrich, Esther,Übernahmen,,
+12:05:24
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:05:42
+00:00:43
+Börse für 12 Uhr,Herrmann,Ulla,Übernahmen,,
+12:06:59
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:07
+00:03:35
+Washington/Rettung für die Autobauer?,Remme, Klaus,Wiederholung,Frei,
+12:12:14
+00:02:47
+Kommentar: Auswirkungen einer mögl.Fusion von GM+Chrysler,Braun, Michael,Eigenproduktion,Pflicht,
+12:15:04
+00:01:53
+Sing their Souls back Home,Bragg,Billy,Industrietonträger,,
+12:17:19
+00:03:16
+Berlin : Bundesrat zu Konjunkturpaket,Heckmann, Dirk-Oliver,Eigenproduktion,Frei,
+12:20:57
+00:03:24
+Bundestag Arbeitsmarkt-Debatte,Baum, Andreas,Eigenproduktion,Frei,
+12:24:48
+00:02:08
+Brown lädt vor EU-Gipfel zur Beratung ein - ohne BK Merkel -,Labuhn, Wolfgang,Eigenproduktion,Frei,
+12:27:20
+00:02:12
+Bundesmarine gegen  See-Piraten,Groth, Michael,Eigenproduktion,Nein,
+12:29:32
+00:04:23
+Notstand in Simbabwe (Cholera),Räther, Frank,Eigenproduktion,Honorar,
+12:33:55
+00:03:15
+Moskau: Patriarch Alexi II gestorben,Baag, Robert,Eigenproduktion,Frei,
+12:37:35
+00:02:23
+Heute Abend: FC Bayern - Hoffenheim: Weltklub gegen Dorftruppe?,Breyer, Jochen,Übernahmen,,
+12:40:01
+00:01:51
+Lover's moon,Luscious Jackson,Industrietonträger,,
+12:41:53
+00:05:47
+Int. Pressegespräch (Russland, Putins Fragestunde),Pogorschelski, Dimitri - Moskau,Eigenproduktion,,
+12:47:40
+00:03:28
+Laquelle de toi,Hallyday,Johnny,Industrietonträger,,
+12:51:46
+00:04:53
+Der Präsident und sein Thema - Horst Köhlers Stimme in der Finanzkrise,Thelen, Friedrich,Wiederholung,Pflicht,
+12:56:54
+00:02:51
+Becoming more like Alfie,Divine Comedy,The,Industrietonträger,,
+12:59:44
+00:00:12
+MFP Hamburg,,Wiederholung,,
+

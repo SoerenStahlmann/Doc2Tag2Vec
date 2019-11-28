@@ -1,0 +1,126 @@
+﻿
+Infotext
+09:00:21
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+09:00:41
+00:00:41
+OZN 8: Verabschiedung Konjunkturprogramm EU-Gipfel wahrscheinlich,Richardson, Irmtraud,Übernahmen,,
+09:01:46
+00:00:39
+OZN 8: Janusz Reiter zur UN-Klimakonferenz in Posen,Reiter, Janusz,Wiederholung,,
+09:02:50
+00:00:48
+OZN 9: Autorettungspaket scheitert im US-Senat,Aischmann, Frank,Übernahmen,,
+09:04:27
+00:00:49
+OZN 7: Schon bald Kfz-Steuer auf Kohlendioxid-Basis?,Becker, Rüdiger,Übernahmen,,
+09:05:33
+00:00:48
+OZN 6: Schweiz wird Schengen-Mitglied,Lechler, Pascal,Übernahmen,Übernahme,
+09:06:47
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:06:53
+00:00:34
+Mod: Begrüßung,Vorschau,König, Jürgen,0,,
+09:07:27
+00:00:44
+Ce N'est Pas Bon,Amadou & Mariam,Industrietonträger,,
+09:08:48
+00:00:23
+Die Liebe ist ein seltsames Spiel,Francis, Connie,Industrietonträger,,
+09:09:11
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+09:09:17
+00:12:22
+Warum der Börsenverein neue EU-Prüfungsbestimmungen für Pappbilderbücher forder,Herre, Renate,Eigenproduktion,,
+09:12:48
+00:08:48
+Die EU-Normungsbehörde zwischen Normungswut und berechtigtem Sicherheitsdenken,Rühle, Heide,Eigenproduktion,,
+09:19:49
+00:00:00
+Musik,,,,
+09:21:37
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+09:21:59
+00:02:38
+Die Liebe ist ein seltsames Spiel,Francis, Connie,Industrietonträger,,
+09:24:37
+00:01:50
+Musikmod.,Müller, Andreas,0,,
+09:26:26
+00:02:43
+Mack the knife,Francis, Connie,Industrietonträger,,
+09:29:15
+00:00:56
+Trailer Konzert 12.12.2008 ("heute 20.03 Uhr"),Pöllmann, Rainer,Wiederholung,,
+09:30:00
+00:00:00
+Kulturnachrichten,,,,
+09:30:19
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+09:30:26
+00:02:51
+Kulturnachrichten,,Eigenproduktion,,
+09:33:15
+00:00:00
+Kritik,,,,
+09:33:15
+00:00:07
+M131 DLRK Sachbuch,,Wiederholung,,DIGI_SOURCE$#
+09:33:22
+00:04:56
+Sachbuch Musik: "Jimi Hendrix - eine Biographie" v. Theweleit/Höltschl / Rowohl,Schwesig, Oliver,Eigenproduktion,,
+09:38:15
+00:03:06
+Kulturtipps - Freitag, 12.12.2008 - 09.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+09:41:22
+00:01:30
+Wurfpaket 5504 - 12.12.08 - P1,div.,Eigenproduktion,,
+09:42:53
+00:00:00
+Musik,,,,
+09:42:53
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+09:43:25
+00:03:37
+Magossa,Amadou & Mariam,Industrietonträger,,
+09:47:00
+00:03:03
+Musikmod.,Müller, Andreas,0,,
+09:50:03
+00:03:25
+Africa,Amadou & Mariam,Industrietonträger,,
+09:53:28
+00:01:02
+Teaser Essigs Essenzen 12.12.2008,Ameln, Leonard,Eigenproduktion,,
+09:54:30
+00:00:00
+Kalenderblatt,,,,
+09:54:31
+00:00:05
+M101 Kalenderblatt (mit DLRK),,Wiederholung,,
+09:54:36
+00:00:17
+Mod.,König, Jürgen,0,,
+09:54:53
+00:04:37
+Kalenderblatt: 12.12.1948 - Die FDP wird gegründet,Langels, Otto,Wiederholung,,
+09:59:30
+00:00:15
+Mod.,König, Jürgen,0,,
+09:59:44
+00:00:00
+Radiofeuilleton (10 - 11),,,,
+09:59:44
+00:00:00
+Nachrichten 10.00,,,,
+09:59:45
+00:00:12
+MFP Nürnberg,,Wiederholung,,
+

@@ -1,0 +1,265 @@
+﻿
+Infotext
+07:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+07:00:48
+00:00:53
+OZN 6 Gaza: Israelische Armee setzt Angriffe fort,Verenkotte,Clemens,Übernahmen,Übernahme,
+07:02:21
+00:00:44
+OZN6 Moskau: USA und EU besorgt über Stopp der Gaslieferung in die Ukraine,Hartbrich, Esther,Übernahmen,,
+07:03:38
+00:00:46
+OZN7 Havanna: Kuba begeht 50. Jahrestag der Revolution,Castritius, Michael,Übernahmen,,
+07:04:48
+00:00:43
+OZN7 Schwarzach: Thüringens MP Althaus weiter im künstlichen Koma,Böhme, Ulrich,Übernahmen,,
+07:06:36
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:06:44
+00:02:59
+Easy lover/...,Collins,Phil/Bailey,Phillipp,Industrietonträger,,DIGI_SOURCE$#
+07:10:10
+00:02:29
+Mexico/Kuba Feier 50. Jahrestag Revolution,Castritius, Michael,Übernahmen,,
+07:12:39
+00:06:09
+KorrGespräch- 50 Jahre Revolution auf Kuba,Hafkemeyer, Jörg,Eigenproduktion,Honorar,
+07:18:49
+00:01:10
+Kulturtipp - Freitag, 02.01.2009 - 07.30 Uhr,Hansen, Nicolas,Eigenproduktion,,
+07:19:59
+00:02:33
+Ich habe keine Tränen mehr,Dittrich, Olli,0,,
+07:22:55
+00:00:00
+Politisches Feuillton,,,,
+07:22:55
+00:04:11
+Politik trotz Wahlen? Innenpolitische Erwartungen an 2009,Hofmann, Gunter,Eigenproduktion,Pflicht,
+07:27:20
+00:01:34
+John Brown,Muldaur, Maria,Industrietonträger,,
+07:28:52
+00:00:55
+Trailer Lange Nacht - Einsatz 02.01.2009 ("heute Nacht 0.05 Uhr"),Höhne, Rita,Co-Produktion,,
+07:29:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+07:29:47
+00:00:00
+Nachrichten 7.30,,,,
+07:30:01
+00:04:32
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+07:34:33
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:35:02
+00:02:54
+Song with Rose,Elvis Costello & The Imposters; Cash,Rosanna,Industrietonträger,,
+07:37:59
+00:00:08
+Opener Mensch Müller 09.04. lang,Seyffert,Wiederholung,,
+07:38:05
+00:02:27
+"Mensch Müller"  -  Vorsätze,Baxmann, Matthias ; Eckoldt, Matthias,Eigenproduktion,,
+07:39:35
+00:03:24
+Allegro aus: Concerto No.8,Academy Of Ancient Music,The,Industrietonträger,,
+07:43:50
+00:03:58
+Länderreport: Traditionsunternehmen Wiking verläßt Berlin,Kemna ,Verena,Eigenproduktion,Pflicht,
+07:47:58
+00:02:24
+Se eu mandasse nas Palavras,Mariza,Industrietonträger,,
+07:51:18
+00:06:15
+Interview II - Krieg in Gaza,Zuckermann, Moshe, Direktor Institut für  deutsche Geschichte, Tel Aviv,Eigenproduktion,,
+07:56:33
+00:03:15
+Sidestep,Thicke,Robin,Industrietonträger,,
+07:59:44
+00:00:00
+Ortszeit (8 - 9),,,,
+07:59:44
+00:00:00
+Nachrichten 8.00,,,,
+07:59:46
+00:00:12
+MFP Kiel,,Wiederholung,,
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	02.01.2009
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Kolkmann
+Redaktion:	Brammer/Pianka
+Musikredaktion:	Hälbig/ Neumann
+Assistenz:	Grampes
+Technik:	Boortz
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'59''	Gesundheitsfonds tritt in Kraft			
+				frei		
+			.			
+			Autor: Steinhage, Martin			
+
+05:15		  3'15''	Vom wachsenden Interesse der Golf-Araber			
+			an ihrer Kultur	Übern.		BR
+						
+			.			
+			Autor: Kühntopp, Carsten			
+
+05:20		  3'10''	Im Jahr der Astronomie 2009:			
+			Weltraumteleskop ''Hubble'' wird ausge-	Übern.		HR
+			mustert			
+			.			
+			Autor: Kiendl, Robert			
+
+05:40		  4'37''	KALENDERBLATT	Wenner		
+			Vor 25 Jahren in Luxemburg:	frei		
+			Privatsender RTL plus nimmt 			
+			Sendebetrieb auf			
+			.			
+			Autor: Bräunlein, Jürgen			
+
+05:45		  5'57''	Korrespondentengespräch:			
+			Lage in Gaza / Situation in Israel	frei		
+			.			
+			Autor: Verenkotte, Clemens			
+
+05:52		  3'40''	Presseschau mit Georg Scharegg			
+						
+			 Themen:			
+			- Zuversicht angebracht? Ausblick auf 			
+			2009;			
+			- Gasstreit zwischen Moskau und Kiew			
+
+
+06:10		  2'37''	Amman: Große Hilfsbereit-			
+			schaft in Jordanien für leidende Bevöl-	Übern.		WR
+			kerung in Gaza			
+			.			
+			Autor: Leidholdt, Ulrich			
+
+06:15		  4'05''	Länderreport			BW
+			Staufen/ Freiburg:	Pflicht		
+			Tiefe Risse in Gebäuden durch			
+			ungleichmäßige Bodenerhebungen			
+			.			
+			Autor:  Wagner, Thomas			
+
+06:23		  3'00''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Pastor Diederich Lüken, Stuttgart			
+
+06:40		  4'13''	Aus den Feuilletons			
+				Wdhl.		
+			 WH FAZIT			
+			.			
+			Autor: Timm, Ulrike			
+
+06:45		  2'18''	Thüringer MP Althaus: Gesundheitszustand			
+			nach schwerem Ski-Unfall	Übern.		
+			.			
+			Autor: Böhme, Ulrich			
+
+06:50		  7'27''	INTERVIEW I			
+			 Ulla Schmidt (SPD) BM für Gesundheit			
+			Thema: Start des Gesundheitsfonds			
+			- Krankenkassenbeiträge würden nicht 			
+			in dem Maße steigen, wie es teils 			
+			prognostiziert wird;			
+			- Der Fonds gebe den Krankenkassen 			
+			finanzielle Planungssicherheit;			
+			- Staat stehe auch in der 			
+			Wirtschaftskrise als Garant: fehlende 			
+			Einnahmen in Fonds seien 			
+			kompensierbar durch Steuerzuschüsse;			
+			- diese könnten auch verwendet werden, 			
+			damit die bisherigen Zusatzbeiträge 			
+			wegfallen  			
+
+
+07:09		  2'29''	Kuba: 50. Jahrestag der Revolution			
+				Übern.		RBB
+			.			
+			Autor: Castritius, Michael			
+
+07:10		  6'10''	Korrespondentengespräch zum 50. Jahres-			
+			tag der Revolution in Kuba	Pflicht		
+			.			
+			Autor:  Hafkemeyer, Jörg			
+
+07:22		  4'12''	Politisches Feuilleton			
+			Politik trotz Wahlen? Innenpolitische	Pflicht		
+			Erwartungen an 2009  			
+			.			
+			Autor: Gunter Hofmann			
+
+07:40		  2'27''	''Mensch Müller '' - Vorsätze			
+				Pflicht		
+			.			
+			Autor: Baxmann / Eckkoldt			
+
+07:45		  3'59''	Firma ''Wiking-Modellbau'' verlässt die			
+			Produktionshallen in Tempelhof	Pflicht		
+			.			
+			Autor: Kemna, Verena			
+
+07:50		  6'15''	INTERVIEW II			
+			Moshe Zuckermann, Soziologe/ Historiker			
+			an der Uni Tel Aviv                                   			
+			Thema: Der Krieg in Gaza			
+			-Intention der israelischen Angriffe sei 			
+			unklar;			
+			-Vermutung: Kompensation des zweiten 			
+			Libanonkrieges und Wahlkampf könnten 			
+			entscheidende Beweggründe sein;			
+			-Selbst wenn es einen Waffenstillstand 			
+			gäbe, neue Gewalt sei nur eine Frage 			
+			der Zeit;			
+			-Konflikt sei dennoch lösbar, Israel 			
+			könne initiativ entscheidenden Anteil 			
+			daran erbringen durch 			
+			Friedensverhandlungen mit der Hamas;			
+			-Hilfe von außen/ anderen Staaten keine 			
+			Lösung			
+
+
+08:10		  4'54''	Mediengespräch			
+			mit Thorsten Kleditzsch, stv. CR			
+			Mitteldeutsche Ztg. (Halle)			
+			Themen: 			
+			-Gazprom stoppt Gaslieferungen an die 			
+			Ukraine;			
+			-Schwerer Skiunfall von Dieter Althaus, 			
+			MP Thüringen			
+
+08:20		  5'50''	Tierische Luftfracht - in der	hae		NW
+			''Animal Lounge'' warten Tiere auf ihre	Pflicht		
+			Flugreise			
+			.			
+			Autor: Lachnit, Stefanie			
+
+08:40		  6'03''	Interview			
+			Humorvolle Abrechnung:			
+			Hans Well, Biermösl Blosn, zum ''Mythos 			
+			CSU''			
+
+08:50		  3'57''	Kultur-Tipp			
+			TV-Tipp: 'Annas 2. Chance' im ARD	Pflicht		
+			.			
+			Autor: Marchewka, Petra			
+
+

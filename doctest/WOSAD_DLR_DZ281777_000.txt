@@ -1,0 +1,258 @@
+﻿
+Infotext
+07:00:22
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+07:00:48
+00:00:43
+OZN 7/Einahmen runter, Ausgaben rauf - Bund muss 2009 deutlich mehr,Guenther, Oliver,Übernahmen,Übernahme,
+07:01:54
+00:00:41
+OZN 7/US-Kongress genehmigt zunächst keine Finanzhilfen,Kiendl, Robert,Übernahmen,Übernahme,
+07:02:52
+00:00:48
+OZN 6/US-Bundesrichter: 5 Guantanamogefangene sind freizulassen,Aischmann, Frank,Übernahmen,Übernahme,
+07:04:12
+00:00:50
+OZN 7/Piraten: UN will Santionen gegen Somalia ausweiten,Schmidt, Thomas,Übernahmen,Übernahme,
+07:05:22
+00:00:54
+OZN 7/Stichwahl Royal gegen Aubry um Parteivorsitz,Teska, Andreas,Übernahmen,Übernahme,
+07:06:39
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:07:10
+00:03:08
+Could Shoulder,Adele,Industrietonträger,,
+07:10:16
+00:05:34
+Korrespondentengespräch: Obamas Kabinett und die US-Autoindustrie,Kolkmann, Birgit / Remme, Klaus,Eigenproduktion,,
+07:15:57
+00:03:05
+Allegro 1 aus: Concerto op.4 No.12,Musica Antiqua Köln,Industrietonträger,,
+07:19:02
+00:00:00
+Politisches Feuillton,,,,
+07:19:41
+00:04:42
+Wirtschaftsfaktor Kind,Kostas Petropulos,Eigenproduktion,Wiederholung,
+07:24:57
+00:03:54
+The World is gray,Bang Gang,Industrietonträger,,
+07:28:50
+00:00:57
+Trailer Einstand 21.11.2008 ("heute 22.00 Uhr"),Malter, Carola,Co-Produktion,,
+07:29:47
+00:00:00
+Nachrichten 7.30,,,,
+07:29:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+07:30:01
+00:03:54
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+07:33:56
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:34:22
+00:03:05
+Make It Mine,Mraz, Jason,Industrietonträger,,
+07:37:48
+00:00:08
+Opener Mensch Müller 09.04. lang,Seyffert,Wiederholung,,
+07:37:54
+00:02:26
+"Mensch Müller" -  Friedhof,Baxmann, Matthias; Eckoldt, Matthias,Eigenproduktion,Pflicht,
+07:40:20
+00:03:46
+Two Silver Trees,Calexico,Industrietonträger,,
+07:44:26
+00:01:38
+Verabschiedung des Haushaltentwurfs 2009 im Bundestag,Starke, Frank-Christian,Übernahmen,Übernahme,
+07:46:10
+00:03:37
+Ich und Du,Poisel, Philipp,Industrietonträger,,
+07:49:48
+00:06:36
+Ist der Qualitätsjournalismus durch Einsparungen in den Zeitungen in Gefahr?,Röper, Horst; Zeitungsforscher, Formatt-Institut, Dortmund,Eigenproduktion,Frei,
+07:56:20
+00:02:57
+Two Bare Feet,Melua, Katie,Industrietonträger,,
+07:59:14
+00:00:31
+Just dream/instr....,Mac Pac,The,Industrietonträger,,
+07:59:44
+00:00:00
+Ortszeit (8 - 9),,,,
+07:59:44
+00:00:00
+Nachrichten 8.00,,,,
+07:59:44
+00:00:12
+MFP Leipzig,,Wiederholung,,
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	21.11.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Kolkmannn
+Redaktion:	Behrendt/Barthold
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Ameln
+Technik:	Boortz
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10	LTG	  5'42''	Washington: Obamas Kabinett nimmt			
+			Form an	frei		
+			.			
+			Autor: Remme Klaus			
+
+05:15		  3'32''	Warschau: Kopernikus-Grab gefunden			
+				Übern.		RBB
+			.			
+			Autor: Rautenberg, Thomas			
+
+05:20		  2'32''	UN will Sanktionen gegen Piraten			
+						DLF
+			.			
+			Autor: Schmidt, Thomas			
+
+05:40		  3'49''	Maastricht: Bürgermeister lässt Coffee-			
+			shops schließen / Niederlande ergreifen	frei		
+			Massnahmen gegen Drogentouristen  			
+			.			
+			Autor: Stephan Beuting			
+
+05:44		  4'38''	KALENDERBLATT: Vor  225 Jahren	Wenner		
+				frei		
+			Die Gebrüder Montgolfier starten in 			
+			Paris ihren ersten bemannten 			
+			Heißluftballon 			
+			.			
+			Autor: Rückert, Ulrike			
+
+05:52		  4'09''	Presseschau mit Ulrike Pollay			
+						
+			Reform der EU-Agrarsubventionen / 			
+			ifo-Analyse zur Lage der Weltwirtschaft			
+
+
+06:10		  6'02''	Lage im Osten Kongos			
+				frei		
+			Dohrenbusch ist in Goma im Osten 			
+			Kongos			
+			.			
+			Autor: Dohrenbusch, Wim			
+
+06:15		  3'42''	Länderreport: Mutter auf Probe: Babybe-	cg/ kh		
+			denkzeit Projekt in Bremen	Pflicht		dlr
+			.			
+			Autor: Christina Selzer			
+
+06:23		  2'38''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Vikarin Christina-Maria Bammel, 			
+			Berlin			
+
+06:40		  3'29''	Aus den Feuilletons			
+						
+			.			
+			Autor: Jens Brüning			
+
+06:45	LTG	  4'14''	Paris: Wahl des neuen Parteichefs der			
+			Sozialisten	frei		
+			.			
+			Autor: Burkhard Birke			
+
+06:50	LT	  6'34''	INTERVIEW I: Friedrich-Wilhelm			
+			Graefe zu Baringdorf / B90-Grüne			
+			Stellv .Vors. im Agrarausschuss			
+			 			
+			fordert dauerhafte Hilfe für 			
+			Entwicklungsländer bei der Produktion 			
+			von Nahrungsmitteln / der 			
+			entsprechende Vorschlag der 			
+			EU-Kommission sei ein 			
+			„Schnellschuss“ gewesen / wirft der 			
+			Kommission vor, dabei das 			
+			EU-Parlament und die 			
+			EU-Mitgliedsstaaten übergangen zu 			
+			haben / ein Kompromiss zwischen 			
+			Mitgliedsstaaten, Kommission und 			
+			Parlament im Streit um den Fonds sei 			
+			möglich			
+
+
+07:10	WH 5:10	  5'42''	Washington: Obamas Kabinett nimmt Form			
+			an	frei		
+			.			
+			Autor: Remme, Klaus			
+
+07:22		  4'43''	Politisches Feuilleton			
+			Wirtschaftsfaktor Kind. Die Verschwen-	Pflicht		
+			dung der demographischen Rendite 			
+			.			
+			Autor: Kostas Petropulos			
+
+07:40		  2'26''	Mensch Müller	Deg		
+			Friedhof			
+			.			
+			Autor: Baxmann, Matthias / Eckoldt, 			
+			Matthias			
+
+07:45		  1'34''	Verabschiedung des Haushaltentwurfs 2009			BE
+			im Bundestag	Übern.		
+			.			
+			Autor: Starke, Frank-Christian			
+
+07:50		  6'37''	INTERVIEW II: Horst Röper,			
+			Zeitungsforscher			
+			 			
+			wie schlimm es für die Verlage kommen 			
+			wird, ist noch nicht absehbar / bisher 			
+			''reden wir nur von einer erwarteten 			
+			Krise'' / Stellenabbau in der 			
+			Zeitungsbranche, wie z.B. beim 			
+			WAZ-Konzern, bisher ''größte 			
+			Konzentration'' im Medienbereich / 			
+			Entwicklung lässt kaum noch 			
+			Qualitätsjournalismus erwarten / 			
+			Verlage streben danach, einzelne 			
+			journalistische Leistungen für möglichst 			
+			viele Angebote zu nutzen - also Internet, 			
+			Zeitung, Zeitschrift, TV usw. / 			
+			Meinungsvielfalt ''längst in Gefahr''			
+
+
+08:10	LT	  5'38''	Mediengespräch: Wolfgang Molitor			
+			stellv. CR, Stuttgarter Nachrichten			
+			 			
+			Daimler Chef rechnet mit Verschärfung 			
+			der Autokrise			
+
+08:20		  6'03''	Deutsch-vietnamesische	ebs		
+			Hochschule in Saigon	frei		
+			.			
+			Autor: Ulrich Ziegler			
+
+08:40		  5'56''	Laute Kinder, dreckige Treppenhäuser			
+			Vermittlung in Nachbarschaftskonflikten			
+						
+			.			
+			Autor: Müller, Ludolf, 			
+			Nachbarschaftsvermittler			
+
+08:50		  4'05''	Kultur-Tipp: Filmtipp			
+			'Novemberkind'	Pflicht		
+			.			
+			Autor: Hartwig Tegeler			
+
+
+
+

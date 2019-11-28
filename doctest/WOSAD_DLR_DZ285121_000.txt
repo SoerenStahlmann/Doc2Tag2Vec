@@ -1,0 +1,96 @@
+﻿
+Infotext
+09:00:01
+00:04:54
+NACHRICHTEN (eigene),,Eigenproduktion,,
+09:04:56
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:05:01
+00:00:36
+Mod: Begrüßung,Vorschau / Hook,Moderator/in,0,,
+09:05:39
+00:00:28
+C'est Si Bon,Kitt, Eartha,Industrietonträger,,
+09:06:24
+00:00:25
+Harry Lime Theme,Karas, Anton,Industrietonträger,,
+09:06:51
+00:00:07
+M234 Rubrik Kulturgespräch,,0,,
+09:08:27
+00:16:46
+"Ich habe die Hoffnung auf Prager Dachböden " -  Klaus Wagenbach über Kafka,Wagenbach, Klaus,Eigenproduktion,Frei,
+09:25:25
+00:00:08
+M189 Musik Klavier II (für RF),Braunschmid,Wiederholung,,
+09:25:56
+00:02:04
+Eins und eins, das macht zwei,Knef, Hildegard,Industrietonträger,,
+09:28:45
+00:00:56
+Musik-Moderation,,0,,
+09:28:52
+00:01:30
+Harry Lime Theme,Karas, Anton,Industrietonträger,,
+09:30:00
+00:00:00
+Kulturnachrichten,,,,
+09:30:36
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+09:30:43
+00:03:00
+Kulturnachrichten,,Eigenproduktion,,
+09:33:41
+00:00:51
+Wurfpaket 3086 - 26.12.08 - P1,div.,Eigenproduktion,,
+09:34:32
+00:00:00
+Kritik,,,,
+09:34:35
+00:00:06
+M131 DLRK Sachbuch,,Wiederholung,,DIGI_SOURCE$#
+09:35:17
+00:05:28
+Sachbuch MUSIK: Kesting, Jürgen: Die großen Sänger.,Noltze, Holger,Eigenproduktion,Pflicht,
+09:41:01
+00:03:08
+Kulturtipps - Freitag, 26.12.2008 - 09.40 Uhr,Brendel, gerd,Eigenproduktion,,
+09:44:09
+00:00:00
+Musik,,,,
+09:44:11
+00:00:12
+M190 Musik Pop II (für RF),Braunschmid,Wiederholung,,
+09:44:37
+00:03:00
+C'est Si Bon,Kitt, Eartha,Industrietonträger,,
+09:47:38
+00:02:05
+Musik-Moderation,,0,,
+09:49:38
+00:04:17
+Where Is My Man,Kitt, Eartha,Industrietonträger,,
+09:54:02
+00:00:00
+Kalenderblatt,,,,
+09:54:02
+00:00:05
+M101 Kalenderblatt (mit DLRK),,Wiederholung,,
+09:54:07
+00:00:54
+Anmod,,0,,
+09:55:02
+00:04:37
+Vor 100 Jahren - Jack Johnson wird erster farbiger Weltmeister im Boxen,Hoffmann, Eduard,Wiederholung,,
+09:59:44
+00:00:00
+Radiofeuilleton (10 - 11),,,,
+09:59:44
+00:00:00
+Nachrichten 10.00,,,,
+09:59:45
+00:00:12
+MFP Oberursel,Braunschmid,Wiederholung,,
+

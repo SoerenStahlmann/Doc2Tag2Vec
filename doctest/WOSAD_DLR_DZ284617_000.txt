@@ -1,0 +1,63 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:31:06
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:36
+00:00:59
+Collage: Bundestagsdebatte zu Atalanta-Marine-Einsatz,Groth, Michael,Eigenproduktion,,
+22:32:48
+00:03:10
+Kommentar: Bundestag genehmigt Anti-Pirateneinsatz,Clement, Rolf,Wiederholung,Frei,
+22:36:25
+00:03:16
+Zypries und Schäuble legen Streit wg. Terrorcamps bei,Geuther, Gudula,Wiederholung,Frei,
+22:40:02
+00:02:02
+Alois Mannichl verlässt das Krankenhaus in Passau,Wolf, Heidi,Übernahmen,Frei,
+22:42:04
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:42:07
+00:02:50
+Nachrichten-Block 1,,Eigenproduktion,,
+22:44:56
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:45:08
+00:00:51
+Börse,Wehrle,Claudia,Übernahmen,,
+22:46:21
+00:02:43
+Regierung Bush rettet Autoindustrie mit einem Überbrückungskredit,Paulert, Rüdiger,Übernahmen,Frei,
+22:49:26
+00:02:13
+Arbeitsminister Scholz trifft DAX-Personalvorstände,Baum, Andreas,Wiederholung,Frei,
+22:51:58
+00:02:50
+Wieder Regierungskrise in Belgien,Simon, Doris,Eigenproduktion,Frei,
+22:54:48
+00:00:06
+M009 DropIn Sport,,Wiederholung,,
+22:55:32
+00:00:58
+Fußball: Nach CL-Auslosung Bayern - Lissabon BmE /Achim Hofbauer,Hofbauer, Achim,Übernahmen,Nein,
+22:57:03
+00:01:21
+Eiskunstlaufen: DM Oberstdorf Nach Entscheidung Herren BmE  Kellermann,Kellermann, Christine,Übernahmen,Nein,
+22:58:46
+00:00:34
+Ski Alpin: WC St. Moritz Kattenbeck,Kattenbeck, Thomas,Übernahmen,Nein,
+22:59:46
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+22:59:46
+00:00:00
+Fazit,,,,
+22:59:46
+00:00:00
+Nachrichten 23.00,,,,
+

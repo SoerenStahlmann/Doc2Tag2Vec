@@ -1,0 +1,129 @@
+﻿
+Infotext
+16:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+16:00:52
+00:00:46
+OZN 16 Merkel und Steinbrück: optimistisch zum Weltfinanzgipfel,Weidemann, Michael,Übernahmen,,
+16:02:07
+00:00:57
+OZN 16 EU-Russland-Gipfel - die Krise ist überwunden,Becker, Michael,Übernahmen,,
+16:03:15
+00:00:54
+OZN 16  Update Telekom Affäre,Hilgers, Jochen,Übernahmen,,
+16:04:26
+00:00:40
+OZN 16 Metzger kandidiert nicht mehr für hessischen Landtag,Schmidt-Lunau, Christoph,Übernahmen,,
+16:05:29
+00:00:54
+OZN 16  Eskalation der Gewalt in Nahost,Verenkotte, Clemens,Übernahmen,,
+16:06:57
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+16:07:01
+00:00:38
+Mod: Begrüßung,Vorschau,Moderator/in,0,,
+16:07:57
+00:01:00
+Me, Myself and I,Randy Crawford & Joe Sample,Industrietonträger,,
+16:09:15
+00:00:51
+Frammenti orfici,Trovesi, Gianluigi,Industrietonträger,,
+16:10:04
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+16:10:47
+00:02:55
+Yes Men,Marzahl, Thomas,Eigenproduktion,,
+16:13:43
+00:06:58
+Über die Strategien der Kommunikationsguerilla,Werner-Lobo, Klaus,Eigenproduktion,,
+16:20:41
+00:00:00
+Musik,,,,
+16:20:41
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+16:21:07
+00:02:19
+Intrecciar Ciaccone,Trovesi, Gianluigi,Industrietonträger,,
+16:24:06
+00:02:06
+Ah, fors'è che l'anima,Trovesi, Gianluigi,Industrietonträger,,
+16:24:34
+00:01:04
+Musikpräsentation,,Wiederholung,,
+16:26:25
+00:00:34
+Musikpräsentation,,Wiederholung,,
+16:26:29
+00:02:58
+Largo al factotum,Trovesi, Gianluigi,Industrietonträger,,
+16:29:59
+00:00:00
+Kulturnachrichten,,,,
+16:29:59
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+16:30:07
+00:03:06
+Kulturnachrichten,,Eigenproduktion,,
+16:33:04
+00:00:00
+Kritik,,,,
+16:33:11
+00:00:05
+M131 DLRK Sachbuch,,,,DIGI_SOURCE$#
+16:33:18
+00:00:33
+Anmod,,0,,
+16:33:47
+00:05:05
+Sachbuch: "John Lennon - Die Biografie" von Philipp Norman,Golz, Uwe,Wiederholung,Wiederholung,
+16:38:52
+00:00:23
+Abmod,,0,,
+16:39:15
+00:03:00
+Kulturtipps - Freitag, 14. November 2008 - 16.40 Uhr,Krüger, Roland,Eigenproduktion,,
+16:42:19
+00:01:49
+Wurfpaket 5407 - 14.11.08 - P6,diverse,Eigenproduktion,,
+16:44:08
+00:00:00
+Musik,,,,
+16:44:08
+00:00:10
+M016 Musik Klassik (für RF),,,,
+16:44:39
+00:02:44
+Starting All Over Again,Randy Crawford & Joe Sample,Industrietonträger,,
+16:48:48
+00:02:12
+Musikpräsentation,,Eigenproduktion,,
+16:49:16
+00:03:57
+Just One Smile,Randy Crawford & Joe Sample,Industrietonträger,,
+16:53:15
+00:00:11
+M133 DLRK Elektronische Welten,,,,DIGI_SOURCE$#
+16:53:28
+00:00:41
+Anmod,,0,,
+16:54:04
+00:05:16
+DVD-Tipp : Die Zwei- special Collectors Edition,Claus, Peter,Eigenproduktion,,
+16:59:20
+00:00:24
+Abmod,,0,,
+16:59:43
+00:00:00
+Ortszeit 17 Uhr,,,,
+16:59:43
+00:00:00
+Nachrichten 17.00,,,,
+16:59:43
+00:00:12
+MFP Bremen,,Eigenproduktion,,
+

@@ -1,0 +1,66 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:30:54
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:24
+00:03:12
+Lage Bombay,Matthay, Sabina,Übernahmen,Frei,
+22:35:02
+00:02:18
+Bangkok: Lage in Thailand/ Politische Krise spitzt sich  zu,Musch-Borowska, Bernd,Übernahmen,Frei,
+22:37:40
+00:02:10
+Pristina: BND-Agenten im Kosovo aus Untersuchungshaft frei,Paas, Jörg,Übernahmen,,
+22:39:50
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:39:53
+00:01:30
+Nachrichten-Block 1,,Eigenproduktion,,
+22:41:22
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:41:39
+00:00:53
+Börse,Krause, Marco,Übernahmen,,
+22:42:54
+00:02:25
+Berlin: Bundesrat lehnt BKA Gesetz ab,Geuther, Gudula,Wiederholung,,
+22:45:44
+00:02:32
+Berlin: Bundestag mit Etat 2009,Steinhage, Martin,Wiederholung,Frei,
+22:48:45
+00:02:37
+Architektenwettbewerb Humboldtforum entschieden,Hatting, André,Wiederholung,Ja,
+22:51:30
+00:03:08
+Sieg der Gelassenheit,Zohlen, Gerwin,Eigenproduktion,,
+22:54:44
+00:00:06
+M009 DropIn Sport,,Wiederholung,,
+22:55:09
+00:00:43
+Fußball/BLO akt. Flash Hertha BSC - 1.FC Köln,Riedel, Christian,Übernahmen,Übernahme,
+22:56:27
+00:00:26
+FC Bayern vor Leverkusen O-Ton Jürgen Klinsmann,Breyer, Jochen,Übernahmen,Übernahme,
+22:57:12
+00:00:58
+BL2: 1.FCKaiserslautern vs. Alemania Aachen/MmE,Mühlenbrock,Frank,Übernahmen,Übernahme,
+22:58:45
+00:00:27
+Ski nordisch/Weltcupauftakt Kuusamo/ MmE,vom Wege,Thorsten,Übernahmen,Übernahme,
+22:59:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+22:59:47
+00:00:00
+Fazit,,,,
+22:59:47
+00:00:00
+Nachrichten 23.00,,,,
+

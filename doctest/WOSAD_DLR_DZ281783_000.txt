@@ -1,0 +1,114 @@
+﻿
+Infotext
+11:00:20
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+11:00:40
+00:00:38
+OZN 11 Bankenkongrss: Köhler kritisiert Finanzbranche,Wolff, Stefan,Übernahmen,,
+11:01:38
+00:00:45
+OZN 11 Haushälter billigen 18,5 Mrd. Euro neue Schulden - Reaktionen,Sturm, Klaus,Übernahmen,,
+11:02:41
+00:00:46
+OZN 11 Kartellamt will Gasversorger zu Preissenkungen zwingen,Beckmann, Christian,Übernahmen,,
+11:04:04
+00:00:46
+OZN 8/Jung sagt Ban Ki Moon weitere Beteiligung Dtschl. gegen Piraterie zu,Schmidt, Thomas,Übernahmen,Übernahme,
+11:05:08
+00:00:46
+OZN 11 Moskau erteilt befristete Erlaubnis für Waffentransporte auf Landweg,Hartbrich, Esther,Übernahmen,,
+11:06:59
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+11:07:03
+00:00:41
+Mod: Begrüßung,Vorschau,Kassel, Dieter,0,,
+11:07:58
+00:00:38
+Roll Over Beethoven,Berry, Chuck,0,,
+11:08:50
+00:00:47
+That's what's the matter,Hampson, Thomas,Industrietonträger,,
+11:09:35
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+11:09:41
+00:11:12
+Essigs Essenzen,Essig, Rolf-Bernhard,Eigenproduktion,,
+11:19:39
+00:00:00
+Musik,,,,
+11:20:51
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+11:21:18
+00:02:48
+Excursions No. 1,Margalit, Israela,Industrietonträger,,
+11:24:07
+00:01:36
+Musikmod.,Beyer, Carsten,0,,
+11:25:43
+00:04:16
+In the Inn,Metzmacher, Ingo,Industrietonträger,,
+11:30:00
+00:00:00
+Kulturnachrichten,,,,
+11:30:09
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+11:30:16
+00:02:49
+Kulturnachrichten,,Eigenproduktion,,
+11:33:03
+00:01:58
+Wurfpaket 5453 - 21.11.08 - P3,diverse,Eigenproduktion,,
+11:35:02
+00:00:00
+Kritik,,,,
+11:35:02
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+11:35:34
+00:04:59
+Hörbuch: "Apokalypsen" von Gerhard Polt / Kein und Aber,Bunk, Lutz,Eigenproduktion,Wiederholung,
+11:40:49
+00:03:10
+Kulturtipps - Freitag - 21.11.2008 - 11.40 Uhr,Gerischer, Christiane,Eigenproduktion,,
+11:44:00
+00:00:00
+Musik,,,,
+11:44:03
+00:00:10
+F018 Musik Rock (für RF),,Wiederholung,,
+11:44:32
+00:03:11
+Sweet Little Sixteen,Berry, Chuck,0,,
+11:47:44
+00:01:50
+Musikmod.,Beyer, Carsten,0,,
+11:49:29
+00:02:45
+Great Balls of Fire,Lewis, Jerry Lee,0,,
+11:52:44
+00:01:58
+Rocket man (I think it's going be a long, long time)/,John,Elton,Industrietonträger,,
+11:54:40
+00:00:06
+F088 Station ID 3,,Wiederholung,,
+11:54:46
+00:00:32
+Mod.,Kassel, Dieter,0,,
+11:55:16
+00:03:59
+Kino-Start "die osmanische Republik",Bormann, Thomas,Eigenproduktion,,
+11:59:44
+00:00:00
+Ortszeit 12 Uhr,,,,
+11:59:44
+00:00:00
+Nachrichten 12.00,,,,
+11:59:45
+00:00:12
+MFP Berlin,,Wiederholung,,
+

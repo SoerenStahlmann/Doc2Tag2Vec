@@ -1,0 +1,81 @@
+﻿
+Infotext
+12:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:50
+00:00:42
+OZN 11- Tel Aviv/Israel befürchtet Unruhen im Westjordanland und Ost-Jerusal,Engelbrecht, Sebastian,Übernahmen,,
+12:02:08
+00:00:40
+OZN 12 - Moskau/Gazprom verschärft den Ton im Gasstreit-kurz,Hartbrich, Esther,Übernahmen,,
+12:03:08
+00:00:45
+OZN8 Colombo: Truppen erobern offenbar Rebellen-Hochburg in Sri Lanka,Küstner, Kai,Übernahmen,,
+12:04:42
+00:00:33
+OZN8 Berlin: Gesundheitsministerin Schmidt verteidigt Gesundheitsfonds,Schmidt, Ulla; SPD, Bundesgesundheitsministerin,Wiederholung,,
+12:05:40
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:06:02
+00:00:27
+OZN 12 - Börse,Holz, Dorothee,Übernahmen,,
+12:06:48
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:30
+00:03:15
+Tel Aviv: Israel bereitet sich auf höhere Reichweite der Raketen aus,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+12:12:18
+00:03:23
+Tel Aviv: Zorn auf Abbas-Was Palästinenser im Westjordanland von der Krise hal,Teichmann, Torsten,Übernahmen,,
+12:15:57
+00:03:50
+A Beautiful Place,Good Charlotte,Industrietonträger,,
+12:20:21
+00:02:24
+Moskau: Gazprom verschärft den Ton im Gasstreit,Hartbrich, Esther,Übernahmen,,
+12:23:22
+00:03:31
+Berlin: Unionsdebatte um Steuersenkung und Koalitionsspiele,Heckmann, Dirk-Oliver,Eigenproduktion,,
+12:27:24
+00:03:08
+Berlin: Einführung des Gesundheitsfonds,Steinhage, Martin,Eigenproduktion,,
+12:31:02
+00:02:41
+Erfurt: Nach dem Skiunfall von Thüringens MP Althaus,Greim, Ulrike,Eigenproduktion,Pflicht,
+12:34:05
+00:02:40
+Neu Delhi: Vorentscheidung auf Sri Lanka? Truppen in Kilinochchi,Küstner, Kai,Übernahmen,,
+12:36:54
+00:02:36
+Right as Rain,Adele,Industrietonträger,,
+12:40:00
+00:02:29
+Mexico/Kuba Feier 50. Jahrestag Revolution,Castritius, Michael,Übernahmen,,
+12:42:29
+00:06:07
+Intern. Pressegespräch: Kuba,Mendes, Eduardo (DW-Redakteur),Eigenproduktion,,
+12:48:29
+00:03:13
+3 am,Matchbox Twenty,Industrietonträger,,
+12:52:06
+00:00:00
+Politisches Feuillton,,,,
+12:52:09
+00:04:11
+Politik trotz Wahlen? Innenpolitische Erwartungen an 2009,Hofmann, Gunter,Wiederholung,Pflicht,
+12:56:54
+00:02:52
+Snow (Hey Oh),Red Hot Chili Peppers,Industrietonträger,,
+12:59:44
+00:00:00
+Länderreport,,,,
+12:59:44
+00:00:00
+Nachrichten 13.00,,,,
+12:59:46
+00:00:12
+MFP Gera,,Wiederholung,,
+

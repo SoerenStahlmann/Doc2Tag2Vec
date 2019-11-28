@@ -1,0 +1,123 @@
+﻿
+Infotext
+14:00:23
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+14:00:55
+00:01:05
+OZN 12 Gaza-Krieg: Hoffnung auf Waffenruhe,Verenkotte, Clemens,Übernahmen,,
+14:02:26
+00:00:56
+OZN 14: Brüssel/Gasstreit und EU-Russland Beziehungen,Brand, Katrin,Übernahmen,Übernahme,
+14:03:48
+00:00:55
+OZN 14: Düstere Prognose für Hilfsorganisationen in Afghanistan,Matthay, Sabina,Übernahmen,Übernahme,
+14:05:13
+00:00:55
+OZN 14: Details zur Abwrackprämie,Guenther, Oliver,Übernahmen,Übernahme,
+14:06:52
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+14:06:57
+00:00:56
+Mod: Begrüßung,Vorschau,Meyer, Frank,0,,
+14:07:52
+00:00:34
+I can't be Satisfied,Howell, Steve,Industrietonträger,,
+14:08:49
+00:00:32
+Saul,Concerto Köln u. RIAS-Kammerchor,Industrietonträger,,
+14:09:21
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+14:10:10
+00:01:26
+Twitter-Beispiele von TSG und Titanic,Original, Echte,Eigenproduktion,Frei,
+14:11:36
+00:08:48
+Vor der Landtagswahl in Hessen - Die Rolle des Internets im Wahlkampf,Beckedahl, Markus,Eigenproduktion,,
+14:19:36
+00:00:00
+Musik,,,,
+14:20:24
+00:00:09
+F017 Musik Gitarre (für RF),,Wiederholung,,
+14:20:37
+00:03:12
+Steady Rollin Man,Howell, Steve,Industrietonträger,,
+14:23:49
+00:01:31
+MusikMod,Risel, Martin,Eigenproduktion,,
+14:24:58
+00:04:08
+I can't be Satisfied,Howell, Steve,Industrietonträger,,
+14:29:19
+00:00:40
+Trailer Art's Birthday 16.01.2009 ("heute 22.00 Uhr"),Gammel, Marcus,Wiederholung,,
+14:30:00
+00:00:00
+Kulturnachrichten,,,,
+14:30:18
+00:00:06
+M019 Kulturnachrichten,,,,
+14:30:26
+00:03:15
+Kulturnachrichten,,Eigenproduktion,,
+14:33:23
+00:00:00
+Kritik,,,,
+14:33:39
+00:00:07
+M130 DLRK Literatur (für RF),,,,DIGI_SOURCE$#
+14:33:46
+00:06:03
+Belletristik: "Arthur Gordon Pym" von Edgar Allan Poe, Marebuchverlag,Bunk, Lutz,Eigenproduktion,,
+14:39:45
+00:03:00
+Kulturtipps - Freitag, 16.01.2009 - 14.40 Uhr,Krüger, Roland,Eigenproduktion,,
+14:42:49
+00:01:20
+Wurfpaket 5671 - 16.01.09 - P4,div.,Eigenproduktion,,
+14:44:08
+00:00:00
+Musik,,,,
+14:44:08
+00:00:09
+M122 Musik Cello (für RF),,Eigenproduktion,,
+14:44:37
+00:03:02
+Saul (1),Concerto Köln,0,,
+14:47:06
+00:04:56
+Saul (2),Concerto Köln u. RIAS-Kammerchor,Industrietonträger,,
+14:52:03
+00:01:16
+MusikMod,Risel, Martin,Eigenproduktion,,
+14:52:12
+00:01:03
+Teaser Debatte 16.01.2009   14:50,Kochendörfer, Judith,Eigenproduktion,,
+14:53:17
+00:00:06
+M137 DLRK Kolumne,,Eigenproduktion,,
+14:53:25
+00:00:15
+Mod,Meyer, Frank,Eigenproduktion,,
+14:53:37
+00:05:45
+Kolumne - Meine Woche 16.1.,Stratmann, Jürgen,Eigenproduktion,,
+14:59:22
+00:00:26
+Mod,Meyer, Frank,Eigenproduktion,,
+14:59:44
+00:00:00
+Radiofeuilleton (15 - 16),,,,
+14:59:44
+00:00:00
+Nachrichten 15.00,,,,
+14:59:46
+00:00:12
+MFP Zweibrücken,,Eigenproduktion,,
+
+
+
+

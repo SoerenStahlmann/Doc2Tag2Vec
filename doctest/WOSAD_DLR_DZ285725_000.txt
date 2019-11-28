@@ -1,0 +1,274 @@
+﻿
+Infotext
+08:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+08:00:43
+00:00:53
+OZN 6 Gaza: Israelische Armee setzt Angriffe fort,Verenkotte,Clemens,Übernahmen,Übernahme,
+08:02:05
+00:00:44
+OZN6 Moskau: USA und EU besorgt über Stopp der Gaslieferung in die Ukraine,Hartbrich, Esther,Übernahmen,,
+08:03:04
+00:00:33
+OZN8 Berlin: Gesundheitsministerin Schmidt verteidigt Gesundheitsfonds,Schmidt, Ulla; SPD, Bundesgesundheitsministerin,Eigenproduktion,,
+08:03:57
+00:00:24
+OZN8 Berlin: SPD-Generalsekretär Heil attakiert Bundeskanzlerin Merkel,Heil, Hubertus; SPD-Generalsekretär,Übernahmen,,
+08:04:51
+00:00:42
+OZN8 Hannover: Bundesamt für Strahlenschutz übernimmt Atommüllager Asse,König, Wolfgang; Präsident des Bundesamtes für Strahlenschutz,Eigenproduktion,,
+08:05:56
+00:00:43
+OZN7 Schwarzach: Thüringens MP Althaus weiter im künstlichen Koma,Böhme, Ulrich,Übernahmen,,
+08:07:00
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+08:07:27
+00:02:57
+One more lie in,Delays,Industrietonträger,,
+08:10:56
+00:04:53
+Mediengespräch - Mitteldeutsche Zeitung (Halle),stellv. Chefredakteur Thorsten Kleditzsch,Eigenproduktion,,
+08:15:13
+00:03:47
+Allegro aus: Concerto G-Dur,Frati,Dorina (mand)/Symphonia Perusina,Industrietonträger,,
+08:19:02
+00:00:00
+Reportage,,,,
+08:19:39
+00:05:49
+Tierische Luftfracht - Die Animal Lounge am Frankfurter Flughafen,Stephanie Lachnit,Eigenproduktion,,
+08:25:34
+00:01:09
+Kulturtipp - Freitag, 02.01.2009 - 08.30 Uhr,Hansen, Nicolas,Eigenproduktion,,
+08:26:45
+00:02:07
+October Daze,Sawhney, Nitin feat. Grace, Tina,Industrietonträger,,
+08:28:50
+00:00:57
+Trailer Länderreport 02.01.2009 ("heute 13.07 Uhr"),Perez, Claudia,Wiederholung,,
+08:29:47
+00:00:00
+Nachrichten 8.30,,,,
+08:29:47
+00:00:09
+M001 DLRK (für Nachrichten),,Wiederholung,,
+08:30:01
+00:04:38
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+08:34:39
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+08:35:02
+00:03:06
+Mercy,Duffy,Industrietonträger,,
+08:38:08
+00:06:03
+Interview Hans Well, Biermösl Blosn zu CSU-Niedergang,Kolkmann, Birgit,Eigenproduktion,Frei,
+08:44:11
+00:02:23
+Presto aus: Sinfonia A-Dur,Capella Istropolitana,Industrietonträger,,
+08:46:35
+00:00:00
+Kulturtipp,,,,
+08:47:08
+00:03:56
+TV-Tipp: 'Annas zweite Chance',Petra Marchewka,Eigenproduktion,Pflicht +15%,
+08:51:12
+00:03:20
+Pirraca,da Mata, Vanessa,Industrietonträger,,
+08:54:33
+00:01:00
+Kurzgespräch mit  RF-Moderator / Absage,,0,,
+08:55:31
+00:03:22
+City Livin,G. Love & Special Sauce,Industrietonträger,,
+08:58:51
+00:00:55
+Trailer Lange Nacht - Einsatz 02.01.2009 ("heute Nacht 0.05 Uhr"),Höhne, Rita,Wiederholung,,
+08:59:44
+00:00:00
+Radiofeuilleton 9 bis 12,,,,
+08:59:44
+00:00:00
+Radiofeuilleton (9 - 10),,,,
+08:59:44
+00:00:00
+Nachrichten 9.00,,,,
+08:59:46
+00:00:12
+MFP Merseburg,,Wiederholung,,
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	02.01.2009
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Kolkmann
+Redaktion:	Brammer/Pianka
+Musikredaktion:	Hälbig/ Neumann
+Assistenz:	Grampes
+Technik:	Boortz
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'59''	Gesundheitsfonds tritt in Kraft			
+				frei		
+			.			
+			Autor: Steinhage, Martin			
+
+05:15		  3'15''	Vom wachsenden Interesse der Golf-Araber			
+			an ihrer Kultur	Übern.		BR
+						
+			.			
+			Autor: Kühntopp, Carsten			
+
+05:20		  3'10''	Im Jahr der Astronomie 2009:			
+			Weltraumteleskop ''Hubble'' wird ausge-	Übern.		HR
+			mustert			
+			.			
+			Autor: Kiendl, Robert			
+
+05:40		  4'37''	KALENDERBLATT	Wenner		
+			Vor 25 Jahren in Luxemburg:	frei		
+			Privatsender RTL plus nimmt 			
+			Sendebetrieb auf			
+			.			
+			Autor: Bräunlein, Jürgen			
+
+05:45		  5'57''	Korrespondentengespräch:			
+			Lage in Gaza / Situation in Israel	frei		
+			.			
+			Autor: Verenkotte, Clemens			
+
+05:52		  3'40''	Presseschau mit Georg Scharegg			
+						
+			 Themen:			
+			- Zuversicht angebracht? Ausblick auf 			
+			2009;			
+			- Gasstreit zwischen Moskau und Kiew			
+
+
+06:10		  2'37''	Amman: Große Hilfsbereit-			
+			schaft in Jordanien für leidende Bevöl-	Übern.		WR
+			kerung in Gaza			
+			.			
+			Autor: Leidholdt, Ulrich			
+
+06:15		  4'05''	Länderreport			BW
+			Staufen/ Freiburg:	Pflicht		
+			Tiefe Risse in Gebäuden durch			
+			ungleichmäßige Bodenerhebungen			
+			.			
+			Autor:  Wagner, Thomas			
+
+06:23		  3'00''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Pastor Diederich Lüken, Stuttgart			
+
+06:40		  4'13''	Aus den Feuilletons			
+				Wdhl.		
+			 WH FAZIT			
+			.			
+			Autor: Timm, Ulrike			
+
+06:45		  2'18''	Thüringer MP Althaus: Gesundheitszustand			
+			nach schwerem Ski-Unfall	Übern.		
+			.			
+			Autor: Böhme, Ulrich			
+
+06:50		  7'27''	INTERVIEW I			
+			 Ulla Schmidt (SPD) BM für Gesundheit			
+			Thema: Start des Gesundheitsfonds			
+			- Krankenkassenbeiträge würden nicht 			
+			in dem Maße steigen, wie es teils 			
+			prognostiziert wird;			
+			- Der Fonds gebe den Krankenkassen 			
+			finanzielle Planungssicherheit;			
+			- Staat stehe auch in der 			
+			Wirtschaftskrise als Garant: fehlende 			
+			Einnahmen in Fonds seien 			
+			kompensierbar durch Steuerzuschüsse;			
+			- diese könnten auch verwendet werden, 			
+			damit die bisherigen Zusatzbeiträge 			
+			wegfallen  			
+
+
+07:09		  2'29''	Kuba: 50. Jahrestag der Revolution			
+				Übern.		RBB
+			.			
+			Autor: Castritius, Michael			
+
+07:10		  6'10''	Korrespondentengespräch zum 50. Jahres-			
+			tag der Revolution in Kuba	Pflicht		
+			.			
+			Autor:  Hafkemeyer, Jörg			
+
+07:22		  4'12''	Politisches Feuilleton			
+			Politik trotz Wahlen? Innenpolitische	Pflicht		
+			Erwartungen an 2009  			
+			.			
+			Autor: Gunter Hofmann			
+
+07:40		  2'27''	''Mensch Müller '' - Vorsätze			
+				Pflicht		
+			.			
+			Autor: Baxmann / Eckkoldt			
+
+07:45		  3'59''	Firma ''Wiking-Modellbau'' verlässt die			
+			Produktionshallen in Tempelhof	Pflicht		
+			.			
+			Autor: Kemna, Verena			
+
+07:50		  6'15''	INTERVIEW II			
+			Moshe Zuckermann, Soziologe/ Historiker			
+			an der Uni Tel Aviv                                   			
+			Thema: Der Krieg in Gaza			
+			-Intention der israelischen Angriffe sei 			
+			unklar;			
+			-Vermutung: Kompensation des zweiten 			
+			Libanonkrieges und Wahlkampf könnten 			
+			entscheidende Beweggründe sein;			
+			-Selbst wenn es einen Waffenstillstand 			
+			gäbe, neue Gewalt sei nur eine Frage 			
+			der Zeit;			
+			-Konflikt sei dennoch lösbar, Israel 			
+			könne initiativ entscheidenden Anteil 			
+			daran erbringen durch 			
+			Friedensverhandlungen mit der Hamas;			
+			-Hilfe von außen/ anderen Staaten keine 			
+			Lösung			
+
+
+08:10		  4'54''	Mediengespräch			
+			mit Thorsten Kleditzsch, stv. CR			
+			Mitteldeutsche Ztg. (Halle)			
+			Themen: 			
+			-Gazprom stoppt Gaslieferungen an die 			
+			Ukraine;			
+			-Schwerer Skiunfall von Dieter Althaus, 			
+			MP Thüringen			
+
+08:20		  5'50''	Tierische Luftfracht - in der	hae		NW
+			''Animal Lounge'' warten Tiere auf ihre	Pflicht		
+			Flugreise			
+			.			
+			Autor: Lachnit, Stefanie			
+
+08:40		  6'03''	Interview			
+			Humorvolle Abrechnung:			
+			Hans Well, Biermösl Blosn, zum ''Mythos 			
+			CSU''			
+
+08:50		  3'57''	Kultur-Tipp			
+			TV-Tipp: 'Annas 2. Chance' im ARD	Pflicht		
+			.			
+			Autor: Marchewka, Petra			
+
+
+

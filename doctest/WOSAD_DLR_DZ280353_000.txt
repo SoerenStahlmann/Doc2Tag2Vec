@@ -1,0 +1,66 @@
+﻿
+Infotext
+22:29:56
+00:00:00
+Ortszeit 22.30,,,,
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:30:30
+00:02:40
+Obamas Treffen mit Wirtschaftsvertretern,Remme, Klaus,Eigenproduktion,Frei,
+22:31:05
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:35:02
+00:02:28
+Ergebnisse des EU-Finanzgipfels in Brüssel,Simon, Doris,Eigenproduktion,,
+22:37:43
+00:02:44
+Kommentar: Neue Kontrolle des Weltfinanzsystems?,Finthammer, Volker,Wiederholung,,
+22:40:30
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:40:33
+00:02:25
+Nachrichten-Block 1,,Eigenproduktion,,
+22:42:57
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:43:15
+00:00:36
+Börse für 22.30 Uhr,Barths,Ulrich,Übernahmen,,
+22:44:26
+00:02:32
+Hessen SPD debattiert über Zukunft Ypsilantis,Petermann, Anke,Wiederholung,,
+22:47:31
+00:03:00
+Wendländer erwarten den Castor-Transport,Schrammar, Susanne,Übernahmen,Pflicht,
+22:51:08
+00:02:19
+Kongo-Krisengipfel ruft zu sofortigem Waffenstillstand auf.,Dohrenbusch, Wim,Übernahmen,,
+22:53:27
+00:00:05
+M009 DropIn Sport,,Wiederholung,,
+22:54:10
+00:00:49
+Fußball: Bundesliga 1. FC Köln - Hannover 96 2:1,Lehmann, Armin,Übernahmen,Übernahme,
+22:55:26
+00:00:46
+Fußball: 2. Bundesliga Wehen-Wiesbaden - K`lautern 4:2,Litzenberg, Sven,Übernahmen,Übernahme,
+22:56:51
+00:00:43
+Eishockey: D-Cup Deutschland - Schweiz 0:1,Hupe, Burkhard,Übernahmen,Übernahme,
+22:57:56
+00:00:59
+Eisschnelllaufen: Weltcup-Auftakt in Berlin,Bleick, Alexander,Übernahmen,Übernahme,
+22:59:46
+00:00:00
+Fazit,,,,
+22:59:47
+00:00:00
+Nachrichten 23.00,,,,
+22:59:47
+00:00:09
+M001 DLRK (für Nachrichten),,Wiederholung,,
+

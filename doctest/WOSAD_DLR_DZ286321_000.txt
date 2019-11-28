@@ -1,0 +1,105 @@
+﻿
+Infotext
+15:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:01:00
+00:00:56
+OZN 14: Tel Aviv: Reaktionen auf Entscheidung des israel. Sicherheitskabinetts,Verenkotte, Clemens,Übernahmen,,
+15:02:23
+00:00:55
+OZN 14: Brüssel: Gas fleißt in einigen Tagen - EU-Beobachter werden stati,Plass, Christopher,Übernahmen,,
+15:03:47
+00:00:47
+OZN 14: Regierung und Wirtschaft reden über Arbeitsplätze, Weiterbildung,Becker, Rüdiger,Übernahmen,,
+15:05:00
+00:00:45
+OZN 13 Abschluss der CSU-Klausur in Wildbad Kreuth,Schweikl, Claudia,Übernahmen,,
+15:05:59
+00:00:39
+OZN 15 Somalische Piraten geben Supertanker Sirius Star frei,Engelhardt, Marc,Übernahmen,,
+15:06:54
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:06:59
+00:01:21
+Begrüßung,Vorschau,Scholl, Joachim,0,,
+15:08:20
+00:01:21
+It's All Your Fault,P!nk,0,,
+15:09:39
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:09:43
+00:10:29
+"Zehn Deutsche sind natürlich dümmer als fünf" - Heiner Müller und sein Werk,Hörnigk, Frank,Eigenproduktion,,
+15:20:13
+00:01:21
+Wurfpaket 5623 - 09.01.09 - P4,div.,Eigenproduktion,,
+15:21:34
+00:00:00
+Musik,,,,
+15:21:35
+00:00:10
+F016 Musik Klassik (für RF),,Wiederholung,,
+15:22:12
+00:02:06
+Duett,Domingo, Placido; Nucci, Leo; Abbado, Claudio,0,,
+15:25:47
+00:02:34
+Prelude,Abbado, Claudio; Orchester der Mailänder Scala,Industrietonträger,,
+15:28:48
+00:01:17
+Teaser Debatte 14:50 und 15:30 09.01.2009,Kreuzahler, Nadine,Wiederholung,,
+15:30:00
+00:00:00
+Kulturnachrichten,,,,
+15:30:05
+00:00:05
+M019 Kulturnachrichten,,Wiederholung,,
+15:30:12
+00:03:28
+Kulturnachrichten,,Eigenproduktion,,
+15:33:10
+00:00:00
+Kritik,,,,
+15:33:38
+00:00:06
+M163 Rubrik Ihre Buchhändlerin empfiehlt,,0,,
+15:33:43
+00:06:50
+Buchhändlerin im Gespräch - Elisabeth Zumbrägel,Zumbrägel, Elisabeth,Eigenproduktion,,
+15:40:34
+00:00:56
+Trailer Einstand 09.01.2009 ("heute  22.00 Uhr"),Malter, Carola,Wiederholung,,
+15:41:30
+00:03:01
+Kulturtipps - Freitag, 09.01.2009 - 15.40 Uhr,Rindler, Haino,Eigenproduktion,,
+15:44:33
+00:00:00
+Musik,,,,
+15:45:03
+00:00:10
+M190 Musik Pop II (für RF),Braunschmid,Wiederholung,,
+15:45:34
+00:03:23
+Funhouse,P!nk,0,,
+15:50:14
+00:02:45
+So What,P!nk,0,,
+15:53:10
+00:00:07
+M118 DLRK Debatte,,Wiederholung,,
+15:53:17
+00:06:31
+Ist die Teilverstaatlichung der Commerzbank der richtige Schritt?,Scholl, Joachim und Hörer,Eigenproduktion,,
+15:59:44
+00:00:00
+Radiofeuilleton (16 - 17),,,,
+15:59:44
+00:00:00
+Nachrichten 16.00,,,,
+15:59:45
+00:00:12
+MFP Konstanz 94,5,,Wiederholung,,
+

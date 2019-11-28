@@ -1,0 +1,78 @@
+﻿
+Infotext
+12:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:55
+00:00:49
+OZN 12 EU-Gipfel: Einigung auf Konjunkturprogramm,Becker, Michael,Übernahmen,,
+12:02:20
+00:00:49
+OZN 11 Autorettungsplan scheitert im US-Senat,Aischmann, Frank,Übernahmen,,
+12:03:31
+00:00:42
+OZN 12 Lage in Griechenland nach den Krawallen,Pick, Ulrich,Übernahmen,,
+12:04:37
+00:00:57
+OZN 12 Palästinenser kritisieren Livni-Äusserung zu arabischen Israelis,Aßmann, Tim,Übernahmen,,
+12:05:34
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:05:55
+00:00:50
+OZN 12 Börse,Herrmann, Ulla,Übernahmen,,
+12:06:59
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:49
+00:03:06
+Posen: Warten auf Brüssel - Klimakonferenz schaut auf EU-Gipfel,Günther, Oliver,Wiederholung,Übernahme,
+12:11:55
+00:05:47
+Brüssel: EU-Gipfel setzt auf Einigung bei Klimaschutz,Simon, Doris,Eigenproduktion,Frei,
+12:17:34
+00:02:08
+She's A Cameleon,Rita Mitsouko,Les,Industrietonträger,,
+12:20:14
+00:02:39
+Washington: Gescheitert: Senat will US-Autokonzernen nicht helfen,Borchers, Jens,Übernahmen,Wiederholung,
+12:23:20
+00:03:40
+Frankfurt: US-Autoindustrie und Europa /Opel,Braun, Michael,Eigenproduktion,Pflicht,
+12:27:37
+00:03:35
+Tel Aviv: Palästinensische Führung kritisiert Livni-Äusserungen,Aßmann, Tim,Übernahmen,Übernahme,
+12:31:38
+00:03:50
+Genf: Der lange Schweizer  Weg nach Schengen,Lechler, Pascal,Übernahmen,Übernahme,
+12:35:53
+00:03:44
+60 Jahre FDP,Labuhn, Wolfgang,Eigenproduktion,,
+12:39:40
+00:01:41
+How Long,Eagles,The,Industrietonträger,,
+12:41:20
+00:05:27
+Internat. Pressegespr. Großbritannien, Verstimmung zwischen Steinbrück und Brow,Paterson, Tony,Eigenproduktion,Pflicht,
+12:46:55
+00:03:28
+My Interpretation,Mika,Industrietonträger,,
+12:50:28
+00:00:00
+Politisches Feuillton,,,,
+12:50:54
+00:04:31
+Demokratie oder Diktatur,Staadt,Jochen,Wiederholung,Pflicht,
+12:55:28
+00:04:16
+It's easy,Cale, J.J. & Clapton, Eric,Industrietonträger,,
+12:59:44
+00:00:00
+Länderreport,,,,
+12:59:44
+00:00:00
+Nachrichten 13.00,,,,
+12:59:44
+00:00:12
+MFP Flensburg,,Wiederholung,,
+

@@ -1,0 +1,78 @@
+﻿
+Infotext
+12:00:21
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:40
+00:00:38
+OZN 11 Bankenkongrss: Köhler kritisiert Finanzbranche,Wolff, Stefan,Übernahmen,,
+12:01:36
+00:00:46
+OZN 11 Kartellamt will Gasversorger zu Preissenkungen zwingen,Beckmann, Christian,Übernahmen,,
+12:02:39
+00:00:45
+OZN 12 Koalition verteidigt Erhöhung der Nettokreditaufnahme,Heuser, Gabriele,Übernahmen,,
+12:03:52
+00:00:46
+OZN 8/Jung sagt Ban Ki Moon weitere Beteiligung Dtschl. gegen Piraterie zu,Schmidt, Thomas,Übernahmen,Übernahme,
+12:04:39
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:04:55
+00:00:46
+Börse für 12 Uhr,Schmitt,Alexander,Übernahmen,,
+12:06:55
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:22
+00:03:58
+Ergebnis Haushalt 2009,Steinhage, Martin,Eigenproduktion,,
+12:12:22
+00:05:26
+Berlin: Kritik an Neuverschuldung,Fricke, Otto (Vors. Haushaltsausschuss)/Mod,Eigenproduktion,,
+12:17:42
+00:02:13
+Battleships,Travis,Industrietonträger,,
+12:20:24
+00:03:12
+Frankfurt: Europ.Bankenkongress,Braun, Michael,Eigenproduktion,Pflicht,
+12:24:16
+00:03:18
+Washington:Kein Geld für GM Detroit,Remme, Klaus,Eigenproduktion,,
+12:28:14
+00:03:34
+Berlin: Debatte über dt. Beteiligung an Kampf gegen Piraten,Capellan, Frank,Eigenproduktion,,
+12:32:29
+00:03:35
+Reportage aus Flüchtlingscamp Kibati Ost-Kongo,Dohrenbusch, Wim,Übernahmen,,
+12:36:08
+00:02:09
+Jangada,Malta,Silvana,Industrietonträger,,
+12:39:08
+00:06:14
+Intern. Pressegespräch (Österreich)/in Erwartung einer neuen Regierung,Völker, Michael (Leiter Innenpolitik "Der Standard"),Eigenproduktion,Pflicht,
+12:44:22
+00:03:40
+Lifesize,A Fine Frenzy,Industrietonträger,,
+12:48:04
+00:00:00
+Politisches Feuillton,,,,
+12:48:36
+00:04:42
+PolFeui: Wirtschaftsfaktor Kind,Petropulos, Kostas,Wiederholung,Wiederholung,
+12:53:24
+00:02:49
+Memory,Tellers,The,Industrietonträger,,
+12:56:32
+00:03:14
+Snails,Format,The,Industrietonträger,,
+12:59:46
+00:00:00
+Länderreport,,,,
+12:59:46
+00:00:00
+Nachrichten 13.00,,,,
+12:59:46
+00:00:12
+MFP Eisenach,,Wiederholung,,
+

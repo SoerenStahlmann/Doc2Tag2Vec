@@ -1,0 +1,87 @@
+﻿
+Infotext
+16:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+16:01:05
+00:00:41
+OZN 16 Bundesrat schickt Familienleistungs-Gesetz in den Vermittlungsausschuss,Sturm, Klaus,Übernahmen,,
+16:02:22
+00:00:48
+OZN 14 Bundestag zu Arbeitsmarktinstrumenten und Beiträgen - Kritik der Opposit,Buellmann, Rolf,Übernahmen,,
+16:03:28
+00:00:50
+OZN 13 Bundesbank erwartet Konjunktureinbruch,Hütig, Stephan,Übernahmen,,
+16:04:49
+00:00:50
+OZN 13 Patriarch Alexij II gestorben,Nagel,Christina,Übernahmen,,
+16:05:54
+00:00:52
+OZN 14: Honda zieht sich aus der Formel 1 zurück,Huhn, Torsten,Übernahmen,Übernahme,
+16:07:02
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+16:07:06
+00:00:53
+Mod: Begrüßung,Vorschau,Heise, Katrin,0,,
+16:07:59
+00:00:47
+After midnight,Cale,J.J.,Industrietonträger,,
+16:09:13
+00:00:48
+Making Love,Livingston, Carlton,Industrietonträger,,
+16:09:59
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+16:10:36
+00:02:13
+Johannes Heesters nennt Hitler einen guten Kerl,Kazmierczak, Ludger,Eigenproduktion,,
+16:13:07
+00:07:41
+Getrübter 105. Geburtstag: Johannes Heesters und der "gute Kerl" Hitler,Trimborn, Jürgen,Eigenproduktion,,
+16:20:56
+00:00:10
+M161 Musik Latin (für RF),,Wiederholung,,
+16:21:27
+00:03:44
+100 Weight of Collie Weed,Livingston, Carlton,Industrietonträger,,
+16:26:44
+00:03:16
+Soundman Clash,Livingston, Carlton,Industrietonträger,,
+16:30:00
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+16:30:07
+00:03:20
+Kulturnachrichten,,Eigenproduktion,,
+16:33:26
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+16:34:14
+00:04:33
+"Kochen mit der Bibel"- A.F. Chiffolo u. R.W. Hesse jun./ C.H. Beck 2008,Malessa, Andreas,Wiederholung,Wiederholung,
+16:39:10
+00:03:03
+Kulturtipps - Freitag, 05.12.2008 - 16.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+16:42:16
+00:02:17
+Wurfpaket 5477 - 05.12.08 - P6,div.,Eigenproduktion,,
+16:44:32
+00:00:12
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+16:45:05
+00:02:51
+Cocaine,Cale,J.J.,Industrietonträger,,
+16:50:04
+00:03:07
+One Step,Cale,J.J.,Industrietonträger,,
+16:53:18
+00:00:07
+M301 Rubrik DVD-Tipp (für RF),DLRK,Wiederholung,,
+16:54:14
+00:05:15
+"City of man",Taszman, Jörg,Eigenproduktion,,
+16:59:44
+00:00:12
+MFP München,,Wiederholung,,
+

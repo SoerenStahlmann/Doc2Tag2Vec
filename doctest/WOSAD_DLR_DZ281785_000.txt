@@ -1,0 +1,111 @@
+﻿
+Infotext
+15:00:21
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:00:41
+00:00:53
+OZN 15 LBBW rutscht tiefer in die roten Zahlen,Pfuhl, Jörg,Übernahmen,,
+15:02:04
+00:00:53
+OZN 15 Haushaltsentwurf: Opposition und Koalition - die Positionen,Becker, Rüdiger,Übernahmen,,
+15:03:22
+00:00:44
+OZN 15 Anti-Piraterie-Einsatz: Bundesregierung im Abstimmungsprozess,Günther, Anja,Übernahmen,,
+15:04:31
+00:00:58
+OZN 15 Genf: Landminenbericht,Lechler, Pascal,Übernahmen,,
+15:05:47
+00:00:43
+OZN 14 Dieter Eilts neuer Trainer bei Hansa Rostock,Didjurgeit, Jan,Übernahmen,,
+15:06:58
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:07:03
+00:00:45
+Mod: Begrüßung,Vorschau,Scholl, Joachim,0,,
+15:08:13
+00:01:15
+Streichquartett Es-Dur op. 64 Nr. 6 - Allegro,Kodaly-Quartett,Industrietonträger,,
+15:09:27
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:09:59
+00:02:00
+Herbert Achternbusch: Ein Porträt,Leweke, Anke,Eigenproduktion,,
+15:12:00
+00:07:47
+Blasphemiker, Genie, Urbayer - die Kinolegende "Achternbusch",Niessner, Andi,Eigenproduktion,,
+15:19:47
+00:00:56
+Wurfpaket 1342 - 21.11.08 - P5,diverse,Eigenproduktion,,
+15:20:43
+00:00:00
+Musik,,,,
+15:20:43
+00:00:10
+F018 Musik Rock (für RF),,Wiederholung,,
+15:21:09
+00:03:18
+Sehnsucht,Schiller / Naidoo, Xavier,Industrietonträger,,
+15:25:06
+00:01:38
+Musikmod.,Petermann, Jutta,0,,
+15:25:54
+00:03:17
+In the dark,Schiller/ von Roth, Jette,Industrietonträger,,
+15:29:56
+00:00:00
+Kulturnachrichten,,,,
+15:29:56
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+15:30:03
+00:03:16
+Kulturnachrichten,,Eigenproduktion,,
+15:33:01
+00:00:00
+Kritik,,,,
+15:33:17
+00:00:06
+M163 Rubrik Ihre Buchhändlerin empfiehlt,,0,,
+15:33:22
+00:07:02
+Buchhändlergespräch: Chr. Hahn von der Buchhandlung Anakoluth in Berlin,Hahn, Christiane,Eigenproduktion,,
+15:40:25
+00:00:58
+Teaser Debatte  21.11.2008  15:40,Hock, Katharina,Eigenproduktion,,
+15:41:23
+00:03:11
+Kulturtipps - Freitag - 21.11.2008 - 15.40 Uhr,Gerischer, Christiane,Eigenproduktion,,
+15:44:35
+00:00:00
+Musik,,,,
+15:44:38
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+15:45:11
+00:03:26
+Streichquartett E-Dur op. 54 Nr. 3 - Menuett,Kodaly-Quartett,Industrietonträger,,
+15:48:38
+00:01:23
+Musikmod.,Petermann, Jutta,0,,
+15:48:43
+00:03:27
+Streichquartett Es-Dur op. 64 Nr. 6 - Allegro,Kodaly-Quartett,Industrietonträger,,
+15:52:19
+00:00:06
+M118 DLRK Debatte,,Wiederholung,,
+15:52:26
+00:07:20
+Debatte: Wie wichtig sind Aussehen und Charisma für die Wahl von Politikern?,Scholl, Joachim,Eigenproduktion,,
+15:59:44
+00:00:00
+Radiofeuilleton (16 - 17),,,,
+15:59:44
+00:00:00
+Nachrichten 16.00,,,,
+15:59:44
+00:00:11
+MFP Bremerhaven,,Wiederholung,,
+

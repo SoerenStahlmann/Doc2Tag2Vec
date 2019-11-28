@@ -1,0 +1,90 @@
+﻿
+Infotext
+10:00:00
+00:05:03
+NACHRICHTEN (eigene),,Eigenproduktion,,
+10:05:04
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+10:05:09
+00:00:19
+Mod: Begrüßung,Vorschau,Moderator/in,0,,
+10:05:49
+00:00:30
+Good Times Bad Times,Led Zeppelin,Industrietonträger,,
+10:06:19
+00:00:07
+M233 Rubrik Musikgespräch,,0,,
+10:06:27
+00:00:36
+Anmod. Musikgespräch,Wohlmacher, Uwe,0,,
+10:07:00
+00:20:50
+Biermösl Blosn,Wohlmacher, Uwe,Eigenproduktion,,
+10:27:50
+00:00:15
+Abmod. Musikgespräch / Anmod. Bethlehemrallye,Wohlmacher, Uwe,0,,
+10:28:05
+00:02:14
+Betlehemrallye,Biermösl Blosn,Übernahmen,,
+10:30:00
+00:00:00
+Kulturnachrichten,,,,
+10:30:19
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+10:30:26
+00:03:04
+Kulturnachrichten,,Eigenproduktion,,
+10:33:28
+00:00:57
+Wurfpaket 5549 - 26.12.08 - P2,div.,Eigenproduktion,,
+10:34:25
+00:00:00
+Kritik,,,,
+10:34:25
+00:00:06
+M020 Kritik,,Wiederholung,,
+10:34:31
+00:05:58
+Belletristik: Kinder der Hoffnung von Marc Lévy (Droemer & Knaur),Krause, Tilmann,Eigenproduktion,,
+10:40:26
+00:03:10
+Kulturtipps - Freitag, 26.12.2008 - 10.40 Uhr,Petermann, Jutta,Eigenproduktion,,
+10:43:36
+00:00:00
+Musik,,,,
+10:43:39
+00:00:12
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+10:44:12
+00:02:44
+Good Times Bad Times,Led Zeppelin,Industrietonträger,,
+10:46:57
+00:02:35
+Musik-Moderation,,0,,
+10:49:28
+00:02:33
+Dazed And Confused,Led Zeppelin,Industrietonträger,,
+10:52:41
+00:00:00
+Profil,,,,
+10:52:41
+00:00:07
+M132 DLRK Profil,,Wiederholung,,DIGI_SOURCE$#
+10:52:49
+00:00:53
+Anmod.,,0,,
+10:53:40
+00:05:43
+Profil: Der Tänzer Vladimir Malakhov,Schwanitz, Mirko,Co-Produktion,Pflicht +15%,
+10:59:44
+00:00:12
+MFP Pulsnitz,,Wiederholung,,
+10:59:44
+00:00:00
+Radiofeuilleton (11 - 12) - Wissenschaft und Technik,,,,
+10:59:44
+00:00:00
+Nachrichten 11.00,,,,
+

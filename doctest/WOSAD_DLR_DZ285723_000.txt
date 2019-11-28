@@ -1,0 +1,114 @@
+﻿
+Infotext
+10:00:19
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+10:00:53
+00:00:45
+OZN10 Gaza: Raketen auf Ashkelon - Luftangriffe auf Gazastadt,Verenkotte, Clemens,Übernahmen,,
+10:02:01
+00:00:44
+OZN6 Moskau: USA und EU besorgt über Stopp der Gaslieferung in die Ukraine,Hartbrich, Esther,Übernahmen,,
+10:03:00
+00:00:33
+OZN8 Berlin: Gesundheitsministerin Schmidt verteidigt Gesundheitsfonds,Schmidt, Ulla; SPD, Bundesgesundheitsministerin,Wiederholung,,
+10:04:06
+00:00:24
+OZN8 Berlin: SPD-Generalsekretär Heil attakiert Bundeskanzlerin Merkel,Heil, Hubertus; SPD-Generalsekretär,Übernahmen,,
+10:04:53
+00:00:43
+OZN7 Schwarzach: Thüringens MP Althaus weiter im künstlichen Koma,Böhme, Ulrich,Übernahmen,,
+10:05:54
+00:00:45
+OZN8 Colombo: Truppen erobern offenbar Rebellen-Hochburg in Sri Lanka,Küstner, Kai,Übernahmen,,
+10:06:59
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+10:07:04
+00:00:37
+Mod: Begrüßung,Vorschau,Müller, Andreas,0,,
+10:07:55
+00:00:44
+Ruta del coya,Mitimaes,0,,
+10:09:04
+00:00:40
+Neujahrslied,RIAS-Kammerchor,Industrietonträger,,
+10:09:45
+00:00:05
+M149 DLRK Das Feuilleton Pressegespräch,,Wiederholung,,
+10:09:51
+00:09:56
+Feuilletonpressegespräch: 175 Jahre Börsenblatt des Deutschen Buchhandels,Casimir, Torsten,Eigenproduktion,Frei,
+10:17:50
+00:00:00
+Musik,,,,
+10:19:45
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+10:20:18
+00:01:35
+Entflieh' mit mir,RIAS-Kammerchor,Industrietonträger,,
+10:23:16
+00:02:55
+Neujahrslied,RIAS-Kammerchor,Industrietonträger,,
+10:27:02
+00:02:08
+Condenaditos,Los Fabulosos Cadillacs,Industrietonträger,,
+10:29:08
+00:00:53
+Wurfpaket 1433 - 02.01.09 - P1,div.,Eigenproduktion,,
+10:30:00
+00:00:00
+Kulturnachrichten,,,,
+10:30:12
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+10:30:19
+00:03:01
+Kulturnachrichten,,Eigenproduktion,,
+10:33:17
+00:00:00
+Kritik,,,,
+10:33:18
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+10:33:25
+00:05:59
+Belletristik live: Stephan Puchner, Nebelheim / Hoffmann und Campe, Hamburg 200,Bunk, Lutz,Eigenproduktion,,
+10:39:21
+00:02:55
+Kulturtipps - Freitag, 02.01.2009 - 10.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+10:42:17
+00:00:00
+Musik,,,,
+10:42:19
+00:00:10
+M161 Musik Latin (für RF),,Wiederholung,,
+10:42:41
+00:03:40
+Zamba por vos,Barrionuevo, Raly,0,,
+10:47:53
+00:04:41
+Ruta del coya,Mitimaes,0,,
+10:52:37
+00:00:00
+Profil,,,,
+10:52:49
+00:00:08
+M276 Rubrik Chor der Woche,,0,,
+10:52:57
+00:00:36
+Anmoderation,Müller, Andreas,0,,
+10:53:31
+00:05:45
+Profil - Chor der Woche: Melodiva München,Pirich, Carolin,Eigenproduktion,Pflicht +15%,
+10:59:44
+00:00:00
+Radiofeuilleton (11 - 12),,,,
+10:59:44
+00:00:00
+Nachrichten 11.00,,,,
+10:59:45
+00:00:12
+MFP Mühlhausen,,Wiederholung,,
+

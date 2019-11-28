@@ -1,0 +1,78 @@
+﻿
+Infotext
+17:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+17:00:53
+00:00:54
+OZN 17 Insolvenz Qimonda: wie soll es weitergehen?,Deckow-Kindermann, Uta,Übernahmen,,
+17:02:30
+00:00:36
+OZN 17 Bundesregierung will keine Bad Bank,Kostolnik, Barbara,Übernahmen,,
+17:03:32
+00:00:35
+OZN 17 Bundesdelegiertenkonferenz der Bündnis-Grünen hat begonnen,Schuhmann. Christiane,Übernahmen,,
+17:04:31
+00:00:49
+OZN 17 Bahn: Gewerkschaften fordern neues Angebot,Hofmann, Lars,Übernahmen,,
+17:05:51
+00:00:54
+OZN 17 Hilfe für Gaza läuft schleppend an,Marx, Bettina,Übernahmen,,
+17:06:59
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:07:54
+00:02:21
+She's A Cameleon,Rita Mitsouko,Les,Industrietonträger,,
+17:10:55
+00:03:12
+Dresden: Insolvenz Qimonda - Tageszusammenfassung,Groß, Arnd,Übernahmen,Übernahme,
+17:14:20
+00:04:17
+Dresden: Pleite bei Qimonda - Die Hintergründe,Gerlach, Alexandra,Übernahmen,Pflicht,
+17:19:02
+00:03:46
+Gespräch: Lage der IT-Branche,Welchering, Peter, Fachjournalist IT,Eigenproduktion,Pflicht,
+17:22:54
+00:02:35
+Sally Can't Wait,Something Sally,Industrietonträger,,
+17:25:56
+00:02:58
+Berlin: Diskussion über Kfz-Steuer geht weiter,Hinter, Melanie,Eigenproduktion,Pflicht,
+17:29:17
+00:03:37
+Berlin: Diskussion über Bad Banks,Baum, Andreas,Wiederholung,Nein,
+17:32:55
+00:04:41
+Dortmund: Bundesdelegiertenkonferenz Bündnis90/Die Grünen,Rabhansl, Christian,0,,
+17:37:35
+00:02:58
+Amman: Vorsichtiger Optimismus in arabischer Welt über Obamas Nahost-Politik,Leidholdt, Ulrich,Übernahmen,Übernahme,
+17:40:52
+00:02:53
+Brüssel: Amoklauf in Kindertagesstätte Dendermonde,Simon, Doris,Eigenproduktion,Frei,
+17:43:50
+00:03:22
+Snow (Hey Oh),Red Hot Chili Peppers,Industrietonträger,,
+17:47:55
+00:02:51
+Frankfurt: Tarifrunden Bahn, Lufthansa, Öffentlicher Dienst,Lincke, Felix,Eigenproduktion,Pflicht,
+17:51:02
+00:04:43
+Gespräch: Passen die Tarifforderungen in die Zeit?,Niejahr, Elisabeth, Journalistin DIE ZEIT,Eigenproduktion,Pflicht,
+17:56:05
+00:02:58
+That ain't Love,Cray,Robert,Industrietonträger,,
+17:59:01
+00:00:42
+Trailer Lange Nacht EINSATZ 23.01.2009 ("HEUTE NACHT 0.05 Uhr"),Höhne, Rita,Wiederholung,,
+17:59:43
+00:00:00
+Aus der jüdischen Welt / Shabbat,,,,
+17:59:43
+00:00:00
+Nachrichten 18.00,,,,
+17:59:43
+00:00:12
+MFP Zittau,,Wiederholung,,
+

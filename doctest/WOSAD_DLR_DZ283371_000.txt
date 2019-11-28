@@ -1,0 +1,99 @@
+﻿
+Infotext
+09:00:19
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+09:00:59
+00:00:50
+OZN 8/O-Ton Clever, Beitrag zur Arbeitslosenversicherung u. Rentenvers. senken,Clever, Peter, Vors. des Verwaltungsrates BA,Wiederholung,Wiederholung,
+09:02:09
+00:00:44
+OZN 6/ Bundesrat sagt erst mal Nein zum Konjunkturpaket,Becker, Rüdiger,Übernahmen,,
+09:03:26
+00:00:50
+OZN 9/US Autobauer betteln vor US Senat,Engelke, Anna,Übernahmen,Übernahme,
+09:04:32
+00:00:49
+OZN 6/Nach Räumung des Hauses in Hebron: Radikale Siedler randalieren,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+09:05:58
+00:00:36
+OZN 9/O-Ton Pöttering, Tschechien soll den Lissabonvertrag ratifizieren,Pöttering, Hans-Gert Pöttering, EU-Parlamentspräsident,Eigenproduktion,Wiederholung,
+09:06:58
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:07:03
+00:00:56
+Mod: Begrüßung,Vorschau,Scholl, Joachim,0,,
+09:07:59
+00:00:51
+Sympathy for the Devil,Rolling Stones,Industrietonträger,,
+09:09:13
+00:00:23
+3. Satz, aus: Konzert in A-Dur (Ausschnitt),Il Gardellino,Industrietonträger,,
+09:09:35
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+09:09:42
+00:09:30
+Feindbild Muslim/Feindbild Jude - vergleichbar?,Benz, Wolfgang,Eigenproduktion,Frei,
+09:19:08
+00:00:10
+F016 Musik Klassik (für RF),,Wiederholung,,
+09:19:51
+00:03:20
+1. Satz, aus: Konzert in A-Dur  für Violine, Streicher und b.c.,Il Gardellino,Industrietonträger,,
+09:23:12
+00:01:56
+Musikmod,,0,,
+09:23:50
+00:05:00
+2. Satz Allegro, aus: Trio in g-moll für Oboe, Violine und b.c.,Epoca Barocca,Industrietonträger,,
+09:29:29
+00:00:46
+Wurfpaket 5469 - 05.12.08 - P1,div.,Eigenproduktion,,
+09:30:15
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+09:30:22
+00:03:01
+Kulturnachrichten,,Eigenproduktion,,
+09:33:21
+00:00:07
+M131 DLRK Sachbuch,,Wiederholung,,DIGI_SOURCE$#
+09:33:28
+00:06:40
+"Alice Schmidt-Tagebuch aus dem Jahre 1955" - Susanne Fischer,Müller, Andreas,Eigenproduktion,Pflicht,
+09:40:04
+00:03:00
+Kulturtipps - Freitag, 05. Dezember 2008 - 09.40 Uhr,Krüger, Roland,Eigenproduktion,,
+09:43:05
+00:00:10
+F018 Musik Rock (für RF),,Wiederholung,,
+09:43:24
+00:03:09
+Street fighting man,Rolling Stones,Industrietonträger,,
+09:46:35
+00:03:19
+Musikgespräch,,0,,
+09:49:46
+00:03:11
+Sympathy for the Devil,Rolling Stones,Industrietonträger,,
+09:52:59
+00:01:02
+Teaser Essig,Kochendörfer,J.,Eigenproduktion,,
+09:54:02
+00:00:05
+M101 Kalenderblatt (mit DLRK),,Wiederholung,,
+09:54:07
+00:00:39
+mod,,0,,
+09:54:46
+00:04:30
+Kalenderblatt 05.12. (1958 - Ferdinand Bruckner gestorben),Fühner, Ruth,Wiederholung,,
+09:59:16
+00:00:29
+mod,,0,,
+09:59:45
+00:00:12
+MFP Bielefeld,,Wiederholung,,
+

@@ -1,0 +1,282 @@
+﻿
+Infotext
+06:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+06:00:47
+00:00:34
+OZN6 Berlin: Bundestag entscheidet über Anti-Piraten-Mission Atalanta,Günther, Anja,Eigenproduktion,Übernahme,
+06:02:03
+00:00:43
+OZN6 Berlin: Bundesrat berät abschließend BKA-Gesetz und Kindergeld,Jenter, Steffen,Übernahmen,,
+06:03:16
+00:00:36
+OZN6 Berlin: Kanzlerin und Ministerpräsidenten wollen zweites Konjunkturpaket,Bieritz, Ulrike,Übernahmen,Übernahme,
+06:04:25
+00:00:49
+OZN6 Washington: Gefangenenlager Guantanamo soll geschlossen werden,Sina, Ralph,Übernahmen,,
+06:05:28
+00:00:27
+OZN6 Sport: Stuttgart im UEFA-Cup eine Runde weiter, Hertha scheidet aus,Jaedicke, Thomas,Eigenproduktion,Pflicht,
+06:06:23
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+06:06:44
+00:03:11
+Sand On My Feet,Summer,Donna,Industrietonträger,,
+06:10:11
+00:03:23
+Brüssel: Fisch: Streit um Beifang und Quoten,Brand, Katrin,Übernahmen,Übernahme,
+06:13:37
+00:02:15
+I feel fine/...,Beatles,The,Industrietonträger,,
+06:16:16
+00:03:46
+Hannover: Branchen in der Krise - Beispiel Stahl in Niedersachsen,Schrammar, Susanne,Eigenproduktion,,
+06:20:10
+00:04:02
+We goin' fight (CD der Woche),Hudson,Jennifer,0,,
+06:24:12
+00:00:00
+Wort zum Tage,,,,
+06:24:24
+00:02:28
+Wort zum Tage 19.12.2008 (evang.),Frieling, Ralph,Eigenproduktion,Pflicht,
+06:26:06
+00:02:49
+Allegro aus: Concerto for Violin and Oboe,Main-Barockorchester Frankfurt,Industrietonträger,,
+06:28:54
+00:00:53
+Trailer Themenabend 19.12.2008 ("heute 20.03 Uhr"),Dasche, Michael,Co-Produktion,,
+06:29:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+06:29:47
+00:00:00
+Nachrichten 6.30,,,,
+06:30:01
+00:04:30
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+06:34:31
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+06:34:59
+00:02:36
+1970's,Aberfeldy,Industrietonträger,,
+06:37:36
+00:00:00
+Aus den Feuilletons,,,,
+06:37:50
+00:03:54
+Aus den Feuilletons - Kulturpresseschau,Ufer, Gesa,Wiederholung,,
+06:41:45
+00:02:33
+Pirraca,da Mata, Vanessa,Industrietonträger,,
+06:45:02
+00:03:07
+Shanghai: Völkerwanderung der Entlassenen - Chinas Wanderarbeiter,Freyeisen,Astrid,Übernahmen,Übernahme,
+06:48:18
+00:02:19
+Let it snow, let it snow, let it snow,Neville,Aaron,Industrietonträger,,DIGI_SOURCE$#
+06:51:21
+00:06:45
+-neuInterview I-Steffen Kampeter,haushalspol.Sprecher der CDU/CSU-Bundestagf.,Mod. Birgit Kolkmann,Eigenproduktion,,
+06:58:07
+00:01:38
+Back in the day/Instr./...,Culbertson,Brian,Industrietonträger,,
+06:59:44
+00:00:00
+Ortszeit (7 - 8),,,,
+06:59:44
+00:00:00
+Nachrichten 7.00,,,,
+06:59:44
+00:00:12
+MFP Leipzig,,Wiederholung,,
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	19.12.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Kolkmann
+Redaktion:	Pianka/Brammer
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Schiller
+Technik:	Stürmer
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'49''	Waffenruhe zwischen Israel und			
+			Gaza endet	Übern.		BR
+			.			
+			Autor: Sebastian Engelbrecht			
+
+05:15		  3'24''	Starpianist Alfred Brendel nimmt			
+			Abschied	Übern.		BR
+			.			
+			Autor: Andreas Meyer-Feist			
+
+05:20		  3'28''	Luxemburg stimmt aktiver			
+			Sterbehilfe zu	Wdhl.		
+			WH spät			
+			.			
+			Autor: Tonia Koch			
+
+05:28		  0'58''	Trailer: Länderreport			
+						
+						
+
+05:40		  3'23''	Bundestag stimmt ab zu			
+			''Atalanta''-Mission am	frei		
+			Horn von Afrika			
+			.			
+			Autor: Michael Groth			
+
+05:44		  4'36''	KALENDERBLATT	Wenner		
+			Vor 100 Jahren:	frei		
+			 Gisèle Freund, Fotografin, geboren			
+			.			
+			Autor: Gericke, Michaela			
+
+05:52		  4'23''	Presseschau mit Haino Rindler			
+						
+			Themen:			
+			- Frank-Walter Steinmeier vor dem 			
+			BND-Untersuchungsausschuss zu Irak			
+			- Krisenmanagement der 			
+			Bundesregierung: Anschubhilfen im 			
+			Infrastrukturbereich			
+
+
+06:10		  3'23''	EU-Fischereiminister wollen Quoten für			
+			kommendes Jahr festsetzen	Übern.		WR
+						
+			bitte Fenster öffnen			
+			.			
+			Autor: Katrin Brand			
+
+06:15		  3'47''	Branchen in der Krise: Stahlindustrie			NI
+				Pflicht		
+			.			
+			Autor: Susanne Schrammar			
+
+06:23		  2'28''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Pfarrer Ralph Frieling, Münster			
+
+06:28		  0'53''	Trailer Themenabend			
+						
+						
+
+06:40		  3'54''	Aus den Feuilletons			
+				Wdhl.		
+			 WH FAZIT			
+			.			
+			Autor: Gesa Ufer			
+
+06:45		  3'07''	Die verzweifelte Lage der chinesischen			
+			Wanderarbeiter	Übern.		SW
+			.			
+			Autor: Astrid Freyeisen			
+
+06:50		  6'56''	INTERVIEW I			
+			Konjunkturentwicklung			
+			Steffen Kampeter, MdB, Vorsitzender der 			
+			Arbeitsgruppe Haushalt der 			
+			CDU/CSU-Bundestagsfraktion			
+			beim 2. Konjunkturprogramm ist größte 			
+			Vorsicht geboten / Vorabdiskussion über 			
+			staatliche  Leistungen ist wirtschaftlich 			
+			hemmend / wichtig ist ein 			
+			''Schuldenabbau-Plan/ Übertriebener 			
+			Aktionismus sfehl am Platz/ hält 			
+			US-Null-Zinspolitik für problematisch:  			
+			''Konfettipolitik''/ Staat 			
+			kein verlässlicher Problemlöser / 			
+			unterstützt für Politik von Bkin Merkel und 			
+			Kritik an französischer und britischer 			
+			Finanzpolitik 			
+
+
+07:10	LT	  5'33''	Korr-Gespräch: Machtkampf bei Conti/			
+			Conti-Aktie zieht an / EU-Kommission	Pflicht		
+			entscheidet zur Übernahme 			
+			Themen			
+			Fusion: Krise Ursachen und Analyse			
+			mögliche Auswirkungen			
+			.			
+			Autor: Michael Braun			
+
+07:22		  4'43''	Politisches Feuilleton	Garber		
+			Frohes Fest! - Welche Bedeutung hat	Pflicht		
+			Weihnachten noch?			
+			.			
+			Autor: Uwe Bork			
+
+07:28		  0'40''	Trailer Feature			
+						
+						
+
+07:40		  2'31''	''Mensch Müller''			
+				Pflicht		
+			 ''Weihnachten''			
+			.			
+			Autor: Baxmann, Matthias ; Eckoldt, 			
+			Matthias			
+
+07:45		  4'02''	 In Freiburg schließt	rb		BW
+			Deutschlands ältestes Textilgeschäft	Pflicht		
+			.			
+			Autor: Uschi Götz			
+
+07:50	LT	  6'39''	INTERVIEW II			
+			Brauchen wir einen Aufbau West?			
+			Zweites Konjunkturpaket: Förderung 			
+			nach Bedürftigkeit , nicht nach 			
+			Himmelsrichtung (Städtetag)			
+			Ministerpräsidentenkonferenz zu 			
+			Konjunktur			
+			Dieter Althaus, CDU, MP Thüringen			
+			Aufbauarbeit Deutschland Ost ist nicht 			
+			mit Strukturhilfen in Westdeutschland 			
+			vergleichbar 			
+
+
+08:10	LT	   '  ''	''Mediengespräch''			
+			Saarbrücker Zeitung	frei		
+			Werner Kollhoff, Leiter Berliner Büro			
+			Thema:			
+			-BND-U-Ausschuss			
+
+08:20		  6'06''	Mini-Reportage: Joghurt-Becher schlägt	kbi		
+			Dodge-Ram	Pflicht		
+			 Amerikas Autobranche in der Krise			
+			.			
+			Autor: Karin Deckenbach			
+
+08:28		  0'58''	Trailer Länderreport			
+						
+						
+
+08:40		  4'32''	Muezzine in Kairo sollen verboten			
+			werden	Pflicht		
+			.			
+			Autor: Werner Bloch			
+
+08:50		  3'56''	Kultur-Tipp - Theater-Tipp	Garber		
+			''Die Möwe'' von Anton Tschechow am	Pflicht		
+			Deutschen Theater Berlin			
+			.			
+			Autor: Kirsten Liese			
+
+08:55			Übergabe Radiofeuilleton			
+						
+						
+
+

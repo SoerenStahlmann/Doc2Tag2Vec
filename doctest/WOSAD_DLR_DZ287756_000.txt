@@ -1,0 +1,68 @@
+﻿
+Infotext
+23:00:00
+00:05:12
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:05:12
+00:00:07
+M025 Opener Fazit,,Wiederholung,,
+23:05:18
+00:01:15
+Belle affaire/instr+,Tab Two,Industrietonträger,,
+23:06:31
+00:01:41
+Wenn i gohn,Pippo Pollina/Linard Bardill,Industrietonträger,,
+23:08:15
+00:06:57
+Marc Schubring "Der Mann, der Sherlock Holmes war",Friedrich, Uwe,Eigenproduktion,Pflicht,
+23:09:05
+00:01:21
+Anmoderation, Begrüßung,Balzer, Vladimir,Eigenproduktion,,
+23:15:12
+00:01:01
+O-Ton  Musical,,Eigenproduktion,,
+23:16:14
+00:06:22
+Rebecca Kricheldorf "Der Kopf des Biographen",Laages, Michael,Eigenproduktion,Pflicht,
+23:22:34
+00:01:55
+Ciao Bella,Pippo Pollina/Linard Bardill,Industrietonträger,,
+23:25:37
+00:03:58
+Am kommenden Sonntag geht das Sundance Filmfestival zu Ende,Tussing, Jan,Übernahmen,Frei,
+23:29:35
+00:01:50
+Cafe Caflisch,Pippo Pollina/Linard Bardill,Industrietonträger,,
+23:31:40
+00:00:47
+Ausschnitt Steffen Schleiermacher's Sisyphos,Schleiermacher, Steffen,Eigenproduktion,,
+23:32:44
+00:00:26
+O-Ton Ultraschall für fazit,Pöllmann, Rainer,Eigenproduktion,Frei,
+23:33:10
+00:04:26
+10 Jahre Ultraschall Teil,Pollmann, Ulrich,Eigenproduktion,Pflicht,
+23:37:29
+00:00:40
+Exotica (Ausschnitt),Kagel, Mauricio,Wiederholung,,
+23:41:56
+00:02:04
+Uf und furt,Pippo Pollina/Linard Bardill,Industrietonträger,,
+23:42:38
+00:04:01
+10 Jahre Ultraschall,Pollmann, Ulrich,Eigenproduktion,Pflicht,
+23:44:56
+00:05:01
+Fondation Beyeler "Bildwelten Afrika, Ozeanien und die Moderne",Seppelfricke, Oliver,Eigenproduktion,Pflicht,
+23:49:56
+00:03:13
+Grida no,Pippo Pollina/Linard Bardill,Industrietonträger,,
+23:53:33
+00:04:04
+Kulturpresseschau,Wedel, Adelheid,Eigenproduktion,Pflicht,
+23:57:50
+00:01:55
+A Songwriter,Pippo Pollina/Linard Bardill,Industrietonträger,,
+
+
+

@@ -1,0 +1,243 @@
+﻿
+Infotext
+05:00:01
+00:04:08
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:04:09
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:04:35
+00:02:20
+Fireball,Orbo & The Longshots,0,,
+05:06:57
+00:05:48
+Washington: Obamas Kabinett nimmt langsam Form an,Remme, Klaus,Eigenproduktion,,
+05:12:41
+00:03:23
+A Ra (The Frog),Elias, Eliane,Industrietonträger,,
+05:16:35
+00:03:32
+Warschau: DNA-Test beweist: Kopernikus-Grab gefunden,Rautenberg, Thomas,Übernahmen,Übernahme,
+05:20:15
+00:02:40
+Gigha: Allegro aus: Sonate No.1,Les Musiciens Du Louvre,Industrietonträger,,
+05:23:24
+00:02:31
+New York: UN will Sanktionen gegen Somalia ausweiten,Schmidt, Thomas,Übernahmen,Übernahme,
+05:25:59
+00:03:03
+Viscous Ocean,Beady Belle,Industrietonträger,,
+05:29:00
+00:00:45
+Trailer Länderreport 21.11.2008 ("heute 13.07 Uhr"),Rehfeld, Claus,Co-Produktion,,
+05:29:46
+00:00:00
+Nachrichten 5.30,,,,
+05:29:46
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+05:30:01
+00:04:27
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:34:28
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:34:50
+00:03:10
+Whodunnit,Mansi, Tom & The Icebreakers,Industrietonträger,,
+05:38:32
+00:03:48
+Brüssel: Streit um Coffecorners / Haschgipfel//,Beuting, Stephan,Eigenproduktion,Frei,
+05:42:21
+00:02:46
+100 Days, 100 Nights,Sharon Jones & The Dap Kings,Industrietonträger,,
+05:45:35
+00:00:00
+Kalenderblatt,,,,
+05:45:35
+00:04:37
+Kalenderblatt 21.11. (1783 - Der erste Heißluftballon wird gestar,Rückert, Ulrike,Eigenproduktion,,
+05:50:22
+00:02:14
+Entrée der Himmlischen Geister und Gigue aus der Suite "Hercules und Hebe",Elbipolis-Barockorchester Hamburg,Industrietonträger,,
+05:52:37
+00:04:08
+Presseschau,Pollay, Ulrike,0,,
+05:56:39
+00:03:07
+Until The Day Is Done,R.E.M.,Industrietonträger,,
+05:59:44
+00:00:00
+Ortszeit (6 - 7),,,,
+05:59:44
+00:00:00
+Nachrichten 6.00,,,,
+05:59:44
+00:00:12
+MFP Wernigerode,,Wiederholung,,
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	21.11.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Kolkmannn
+Redaktion:	Behrendt/Barthold
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Ameln
+Technik:	Boortz
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10	LTG	  5'42''	Washington: Obamas Kabinett nimmt			
+			Form an	frei		
+			.			
+			Autor: Remme Klaus			
+
+05:15		  3'32''	Warschau: Kopernikus-Grab gefunden			
+				Übern.		RBB
+			.			
+			Autor: Rautenberg, Thomas			
+
+05:20		  2'32''	UN will Sanktionen gegen Piraten			
+						DLF
+			.			
+			Autor: Schmidt, Thomas			
+
+05:40		  3'49''	Maastricht: Bürgermeister lässt Coffee-			
+			shops schließen / Niederlande ergreifen	frei		
+			Massnahmen gegen Drogentouristen  			
+			.			
+			Autor: Stephan Beuting			
+
+05:44		  4'38''	KALENDERBLATT: Vor  225 Jahren	Wenner		
+				frei		
+			Die Gebrüder Montgolfier starten in 			
+			Paris ihren ersten bemannten 			
+			Heißluftballon 			
+			.			
+			Autor: Rückert, Ulrike			
+
+05:52		  4'09''	Presseschau mit Ulrike Pollay			
+						
+			Reform der EU-Agrarsubventionen / 			
+			ifo-Analyse zur Lage der Weltwirtschaft			
+
+
+06:10		  6'02''	Lage im Osten Kongos			
+				frei		
+			Dohrenbusch ist in Goma im Osten 			
+			Kongos			
+			.			
+			Autor: Dohrenbusch, Wim			
+
+06:15		  3'42''	Länderreport: Mutter auf Probe: Babybe-	cg/ kh		
+			denkzeit Projekt in Bremen	Pflicht		dlr
+			.			
+			Autor: Christina Selzer			
+
+06:23		  2'38''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Vikarin Christina-Maria Bammel, 			
+			Berlin			
+
+06:40		  3'29''	Aus den Feuilletons			
+						
+			.			
+			Autor: Jens Brüning			
+
+06:45	LTG	  4'14''	Paris: Wahl des neuen Parteichefs der			
+			Sozialisten	frei		
+			.			
+			Autor: Burkhard Birke			
+
+06:50	LT	  6'34''	INTERVIEW I: Friedrich-Wilhelm			
+			Graefe zu Baringdorf / B90-Grüne			
+			Stellv .Vors. im Agrarausschuss			
+			 			
+			fordert dauerhafte Hilfe für 			
+			Entwicklungsländer bei der Produktion 			
+			von Nahrungsmitteln / der 			
+			entsprechende Vorschlag der 			
+			EU-Kommission sei ein 			
+			„Schnellschuss“ gewesen / wirft der 			
+			Kommission vor, dabei das 			
+			EU-Parlament und die 			
+			EU-Mitgliedsstaaten übergangen zu 			
+			haben / ein Kompromiss zwischen 			
+			Mitgliedsstaaten, Kommission und 			
+			Parlament im Streit um den Fonds sei 			
+			möglich			
+
+
+07:10	WH 5:10	  5'42''	Washington: Obamas Kabinett nimmt Form			
+			an	frei		
+			.			
+			Autor: Remme, Klaus			
+
+07:22		  4'43''	Politisches Feuilleton			
+			Wirtschaftsfaktor Kind. Die Verschwen-	Pflicht		
+			dung der demographischen Rendite 			
+			.			
+			Autor: Kostas Petropulos			
+
+07:40		  2'26''	Mensch Müller	Deg		
+			Friedhof			
+			.			
+			Autor: Baxmann, Matthias / Eckoldt, 			
+			Matthias			
+
+07:45		  1'34''	Verabschiedung des Haushaltentwurfs 2009			BE
+			im Bundestag	Übern.		
+			.			
+			Autor: Starke, Frank-Christian			
+
+07:50		  6'37''	INTERVIEW II: Horst Röper,			
+			Zeitungsforscher			
+			 			
+			wie schlimm es für die Verlage kommen 			
+			wird, ist noch nicht absehbar / bisher 			
+			''reden wir nur von einer erwarteten 			
+			Krise'' / Stellenabbau in der 			
+			Zeitungsbranche, wie z.B. beim 			
+			WAZ-Konzern, bisher ''größte 			
+			Konzentration'' im Medienbereich / 			
+			Entwicklung lässt kaum noch 			
+			Qualitätsjournalismus erwarten / 			
+			Verlage streben danach, einzelne 			
+			journalistische Leistungen für möglichst 			
+			viele Angebote zu nutzen - also Internet, 			
+			Zeitung, Zeitschrift, TV usw. / 			
+			Meinungsvielfalt ''längst in Gefahr''			
+
+
+08:10	LT	  5'38''	Mediengespräch: Wolfgang Molitor			
+			stellv. CR, Stuttgarter Nachrichten			
+			 			
+			Daimler Chef rechnet mit Verschärfung 			
+			der Autokrise			
+
+08:20		  6'03''	Deutsch-vietnamesische	ebs		
+			Hochschule in Saigon	frei		
+			.			
+			Autor: Ulrich Ziegler			
+
+08:40		  5'56''	Laute Kinder, dreckige Treppenhäuser			
+			Vermittlung in Nachbarschaftskonflikten			
+						
+			.			
+			Autor: Müller, Ludolf, 			
+			Nachbarschaftsvermittler			
+
+08:50		  4'05''	Kultur-Tipp: Filmtipp			
+			'Novemberkind'	Pflicht		
+			.			
+			Autor: Hartwig Tegeler			
+
+
+

@@ -1,0 +1,111 @@
+﻿
+Infotext
+09:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+09:01:05
+00:00:33
+OZN 9/O-Ton Al-Wazir, Inhalte entscheiden die Koalition in Hessen,Al-Wazir, Tarek, Fraktionsvor. d. hess. Grünen,Übernahmen,Übernahme,
+09:02:07
+00:00:57
+OZN 8/Opposition kritisiert Erbschaftssteuer, Koalition strahlt,Buschschlüter, Nicholas,Übernahmen,Übernahme,
+09:03:35
+00:00:43
+OZN7/Berlin: Vorbericht  -  Bundesrat berät neue LKW-Maut,Bachhausen, Jörn-Michael,Übernahmen,Übernahme,
+09:04:45
+00:00:33
+OZN 9/O-Ton Juncker, wir brauchen eine europäische Rating-Agentur,Juncker, Jean Claude, Vors. d. Euro-Gruppe,,Eigenproduktion,Wiederholung,
+09:05:45
+00:00:50
+OZN 8/Kämpfe in Ost Kongo. FAZ Korrespondent enführt. Krisengipfel,Dohrenbusch, Wim,Übernahmen,Übernahme,
+09:06:49
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:06:53
+00:00:58
+Begrüßung,Vorschau,Heise, Katrin,0,,
+09:07:51
+00:00:43
+So You Say You Lost Your Baby,Clark, Gene,Industrietonträger,,
+09:08:46
+00:00:45
+Allegro, aus: Flötenkonzert h-moll,Ensemble Aurora,Industrietonträger,,
+09:09:30
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+09:09:37
+00:00:24
+Anmod.,Heise, Katrin,0,,
+09:09:59
+00:02:30
+Gestürzt durch Gedenkrede - Der Fall Jenninger,Banse, Philip,Eigenproduktion,,
+09:12:29
+00:09:05
+Die richtige Sprache des Gedenkens?  70. Jahrestag des Novemberpogroms von 1938,Broder, Henryk M.,Eigenproduktion,,
+09:21:34
+00:00:52
+Trailer Konzert 07.11.2008 ("heute 20.03 Uhr"),Lang, Stefan,Wiederholung,,
+09:22:26
+00:00:09
+M017 Musik Gitarre (für RF),,Wiederholung,,
+09:22:51
+00:02:13
+I Knew I'd Want You,Clark, Gene,Industrietonträger,,
+09:25:01
+00:02:29
+Musikpräsentation / Gespräch,Müller, Andreas / Heise, Katrin,Eigenproduktion,,
+09:27:29
+00:02:33
+Here Without You,Clark, Gene,Industrietonträger,,
+09:30:20
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+09:30:27
+00:03:06
+Kulturnachrichten,,Eigenproduktion,,
+09:33:31
+00:00:05
+M131 DLRK Sachbuch,,Wiederholung,,DIGI_SOURCE$#
+09:33:38
+00:06:02
+"Darwin. Das Abenteuer des Lebens" von Jürgen Neffe / Bertelsmann / 2008,Billig, Susanne,Eigenproduktion,,
+09:39:36
+00:03:08
+Kulturtipps - Freitag, 7.11.2008 - 14.40 Uhr,Nessler, Susanne,Eigenproduktion,,
+09:42:47
+00:01:43
+Wurfpaket 5373 - 07.10.08 - P1,diverse,Eigenproduktion,,
+09:44:30
+00:00:09
+M121 Musik Flöte (für RF),,Wiederholung,,
+09:44:54
+00:03:25
+Allegro aus: Flötenkonzert h-moll,Ensemble Aurora,Industrietonträger,,
+09:47:00
+00:05:00
+Allegro aus: Tripelkonzert D-dur BWV 1050a,Ensemble Aurora,Industrietonträger,,
+09:52:01
+00:01:48
+Musikpräsentation,Müller, Andreas,Eigenproduktion,,
+09:52:18
+00:00:56
+Teaser Essigs Essenzen 7.11.08,Ameln, Leonard,Eigenproduktion,,
+09:53:15
+00:00:05
+M101 Kalenderblatt (mit DLRK),,Wiederholung,,
+09:53:20
+00:00:34
+Anmod.,Heise, Katrin,0,,
+09:53:54
+00:04:27
+Vor 90 Jahren - "Freistaat" Bayern proklamiert,Langer, Michael,Wiederholung,,
+09:58:22
+00:00:34
+Abmod.,Heise, Katrin,0,,
+09:58:56
+00:00:47
+Trailer Länderreport 07.11.2008 ("heute 13.07 Uhr"),Perez, Claudia,Wiederholung,,
+09:59:42
+00:00:12
+MFP Mühlhausen,,Wiederholung,,
+

@@ -1,0 +1,102 @@
+﻿
+Infotext
+11:00:23
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+11:00:50
+00:00:32
+OZN 11: BT berät über "Atalanta" - laut SPD eine humanitäre Operation,Corell, Eva,Übernahmen,Übernahme,
+11:01:55
+00:00:39
+OZN 11:  Bundesrat verabschiedet BKA-Gesetz,Henkel, Sabine,Übernahmen,Übernahme,
+11:03:23
+00:00:43
+OZN 11 Berlin: Thüringens Ministerpräsident Althaus verteidigt Aufbau Ost,Althaus, Dieter ; CDU, Ministerpräsident von Thüringen,Eigenproduktion,,
+11:04:56
+00:00:50
+OZN 11:Regensburg: Mannichl  aus dem Klinikum Passau entlassen,Kellermann, Bernd,Übernahmen,Übernahme,
+11:06:24
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+11:06:28
+00:00:54
+Mod: Begrüßung,Vorschau,Heise, Katrin,0,,
+11:07:22
+00:00:40
+20081219 hook Gummed paperes,Trio de Janeiro,Industrietonträger,,
+11:08:23
+00:00:30
+Allegro vivace,Uchida, Mitsuko,Industrietonträger,,
+11:08:54
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+11:09:00
+00:12:12
+Essigs Essenzen,Essig, Rolf-Bernhard,Eigenproduktion,Pflicht,
+11:18:59
+00:00:00
+Musik,,,,
+11:21:10
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+11:21:38
+00:03:22
+Rondo,Uchida, Mitsuko,Industrietonträger,,
+11:25:38
+00:04:11
+Allegretto,Uchida, Mitsuko,Industrietonträger,,
+11:30:00
+00:00:00
+Kulturnachrichten,,,,
+11:30:06
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+11:30:14
+00:03:16
+Kulturnachrichten,,Eigenproduktion,,
+11:33:28
+00:00:30
+Weihnachts-Promitipp Rick Kavanian 19.12.,Raith, Anne,Eigenproduktion,,
+11:33:58
+00:00:00
+Kritik,,,,
+11:34:08
+00:00:07
+M128 DLRK Hörbuch,,Wiederholung,,DIGI_SOURCE$#
+11:35:01
+00:04:59
+Hörbuch: "Erfolg"von Lion Feuchtwanger, Lesung und Hörspiel / Der Audio Verlag,Opitz, Michael,Eigenproduktion,Pflicht,
+11:40:46
+00:03:16
+Kulturtipps - Freitag, 19.11.2008 - 11.40 Uhr,Voss, Regina,Eigenproduktion,,
+11:44:04
+00:00:00
+Musik,,,,
+11:44:04
+00:00:09
+M161 Musik Latin (für RF),,Wiederholung,,
+11:44:29
+00:03:05
+Gummed paperes,Trio de Janeiro,Industrietonträger,,
+11:48:46
+00:03:40
+Umleitung,Trio de Janeiro,Industrietonträger,,
+11:52:28
+00:02:06
+Wurfpaket 5552 - 19.12.08 - P3,div.,Eigenproduktion,,
+11:54:34
+00:00:05
+M088 Station ID 3,,Wiederholung,,
+11:55:09
+00:04:16
+Museum für Kunst und Gewerbe, Hamburg: Roy Lichtenstein, Plakate,Stöckmann, Jochen,Eigenproduktion,,
+11:59:44
+00:00:00
+Ortszeit 12 Uhr,,,,
+11:59:44
+00:00:00
+Nachrichten 12.00,,,,
+11:59:46
+00:00:12
+MFP Saarbrücken 107,5,,0,,
+

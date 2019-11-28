@@ -1,0 +1,51 @@
+﻿
+Infotext
+12:00:01
+00:04:54
+NACHRICHTEN (eigene),,Eigenproduktion,,
+12:04:55
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:06:04
+00:03:16
+Israel läßt Hilfslieferungen nach Gaza zu,Verenkotte, Clemens,Übernahmen,Wiederholung,
+12:09:52
+00:03:30
+Diskussion über Konjunkturbelebung,Capellan, Frank,Eigenproduktion,Nein,
+12:14:04
+00:02:58
+Iranischer Praesident im britischen Fernsehen - Reaktionen,Schmit, Alfred,Übernahmen,Wiederholung,
+12:17:32
+00:02:43
+China schickt Kriegsschiffe gegen Piraten vor Somalia,Rimmele, Markus,Übernahmen,Übernahme,
+12:20:58
+00:03:39
+Vergessen unmöglich - Sri Lanka 4 Jahre nach dem Tsunami (26.12.),Küstner, Kai,Übernahmen,Übernahme,
+12:24:56
+00:02:50
+Eartha Kitt - Nachruf,Paulert, Rüdiger,Übernahmen,Wiederholung,
+12:27:59
+00:01:05
+Santa baby,Kitt,Eartha,Industrietonträger,,
+12:29:01
+00:00:58
+Trailer Nachspiel 26.12.2008 ("heute 17.30 Uhr"),Degenhardt, Jörg,Wiederholung,,
+12:29:59
+00:00:00
+Lesart Spezial,,,,
+12:29:59
+00:00:08
+M253b Opener Lesart Spezial (neu),Seyffert,Wiederholung,,
+12:30:06
+00:29:38
+Spezial: Bildung,Gabriele Kalmar,Eigenproduktion,Pflicht,
+12:59:44
+00:00:00
+Die Reportage,,,,
+12:59:44
+00:00:00
+Nachrichten 13.00,,,,
+12:59:45
+00:00:12
+MFP Apolda,,Wiederholung,,
+

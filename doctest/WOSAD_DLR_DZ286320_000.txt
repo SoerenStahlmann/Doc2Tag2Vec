@@ -1,0 +1,117 @@
+﻿
+Infotext
+14:00:27
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+14:00:47
+00:00:56
+OZN 14: Tel Aviv: Reaktionen auf Entscheidung des israel. Sicherheitskabinetts,Verenkotte, Clemens,Übernahmen,,
+14:02:03
+00:00:52
+OZN 13 Nahost: Steinmeier geht auf Vermittlungsmission,Ueberbach, Stephan,Übernahmen,,
+14:03:15
+00:00:55
+OZN 14: Brüssel: Gas fleißt in einigen Tagen - EU-Beobachter werden stati,Plass, Christopher,Übernahmen,,
+14:04:43
+00:00:47
+OZN 14: Regierung und Wirtschaft reden über Arbeitsplätze, Weiterbildung,Becker, Rüdiger,Übernahmen,,
+14:05:58
+00:00:45
+OZN 13 Abschluss der CSU-Klausur in Wildbad Kreuth,Schweikl, Claudia,Übernahmen,,
+14:07:01
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+14:07:06
+00:01:04
+Begrüßung,Vorschau,Scholl, Joachim,0,,
+14:08:10
+00:00:49
+I Wish,Wonder, Stevie,Industrietonträger,,
+14:09:17
+00:00:28
+Di Vedetta Sul Mondo,Riserva Moac,0,,
+14:09:43
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+14:10:13
+00:01:44
+Beitrag 5: Collage Jugendkriminalitäts-Opfer,Rosbach, Jens,Eigenproduktion,Ja,
+14:11:58
+00:07:59
+Schlichten statt Richten - aus der Praxis des Täter-Opfer-Ausgleichs,Hüncken, Arend,Eigenproduktion,Frei,
+14:19:57
+00:00:00
+Musik,,,,
+14:19:57
+00:00:09
+M161 Musik Latin (für RF),,Wiederholung,,
+14:20:27
+00:03:25
+John Riley,Gráda,0,,
+14:26:47
+00:03:16
+Que dolor,Gipsy Queens & Kings,0,,
+14:30:00
+00:00:00
+Kulturnachrichten,,,,
+14:30:22
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+14:30:29
+00:03:22
+Kulturnachrichten,,Eigenproduktion,,
+14:33:27
+00:00:00
+Kritik,,,,
+14:33:49
+00:00:05
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+14:33:56
+00:05:58
+"Kolyma" von Tom Rob Smith / DuMont, Köln, 2009,Mensing, Kolja,Eigenproduktion,Pflicht,
+14:39:51
+00:03:01
+Kulturtipps - Freitag, 09.01.2009 - 14.40 Uhr,Ufer, Gesa,Eigenproduktion,,
+14:42:54
+00:00:55
+Wurfpaket 3111 - 09.01.09 - P5,div.,Eigenproduktion,,
+14:43:49
+00:00:00
+Musik,,,,
+14:43:49
+00:00:08
+F121 Musik Flöte (für RF),,Wiederholung,,
+14:44:26
+00:02:51
+I Want You Back,Jackson 5,Industrietonträger,,
+14:49:20
+00:02:58
+Sir Duke,Wonder, Stevie,Industrietonträger,,
+14:52:27
+00:00:57
+Trailer Konzert 09.01.2009 ("heute 20.03 Uhr"),Lang, Stefan,Wiederholung,,
+14:53:24
+00:01:17
+Teaser Debatte 14:50 und 15:30 09.01.2009,Kreuzahler, Nadine,Eigenproduktion,,
+14:54:41
+00:00:07
+M137 DLRK Kolumne,,Wiederholung,,
+14:54:50
+00:00:17
+Anmod,Scholl, Joachim,0,,
+14:54:57
+00:04:14
+Kolumne,Brendel, Gerd,Eigenproduktion,Honorar,
+14:59:12
+00:00:34
+Abmod,Scholl, Joachim,0,,
+14:59:44
+00:00:00
+Radiofeuilleton (15 - 16),,,,
+14:59:44
+00:00:00
+Nachrichten 15.00,,,,
+14:59:45
+00:00:12
+MFP Sassnitz,,Wiederholung,,
+

@@ -1,0 +1,56 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:31:00
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:39
+00:04:08
+EU- Gipfel: Abschlussbericht,Schütte, Christian,Eigenproduktion,Wiederholung,
+22:36:13
+00:02:54
+Abschluss der UN-Klimakonferenz: Zwischen Enttäuschung und Beschwörung,Günther, Oliver,Übernahmen,Übernahme,
+22:40:00
+00:02:32
+Kommentar zu US-Autohilfen,Remme, Klaus,Eigenproduktion,Wiederholung,
+22:42:41
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:42:44
+00:02:45
+Nachrichten-Block 1,,Eigenproduktion,,
+22:45:28
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:45:46
+00:01:01
+OZ Frankfurt/ Börse,Plate,Jan,Übernahmen,,
+22:47:28
+00:03:11
+Karlsruhe: Jahresbilanz der Bundesanwaltschaft,Wolf, Bernd,Übernahmen,Wiederholung,
+22:51:10
+00:02:30
+Simbabwes Regierung läuft Amok,Stäcker, Claus,Übernahmen,Übernahme,
+22:53:47
+00:00:06
+M009 DropIn Sport,,Wiederholung,,
+22:54:23
+00:00:52
+Fußball: 1. Bundesliga Dortmund - Gladbach,Lehmann, Armin,Übernahmen,Übernahme,
+22:55:35
+00:00:44
+Fußball: 2. Bundesliga FSV Frankfurt-St.Pauli,Litzenberg, Sven,Übernahmen,Übernahme,
+22:57:27
+00:00:33
+Biathlon-Weltcup in Hochfilzen Erfolg für Simone Hauswald,Häring, Fritz,Übernahmen,Übernahme,
+22:58:18
+00:00:39
+Schwimmen: Kurzbahn-Europameisterschaften kurz,Alde, Klaus-Jürgen,Übernahmen,Übernahme,
+22:59:08
+00:00:41
+Liberation front/instr-,Thievery Corporation,Industrietonträger,,
+22:59:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,

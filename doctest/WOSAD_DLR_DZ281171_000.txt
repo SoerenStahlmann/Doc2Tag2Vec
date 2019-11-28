@@ -1,0 +1,80 @@
+﻿
+Infotext
+12:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:45
+00:00:54
+OZN 12  EU-Rußland-Gipfel hat begonnen,Plass, C,Übernahmen,,
+12:02:02
+00:00:46
+OZN 11 Bundesfinanzminister Peer Steinbrück zum Weltfinanz-Gipfel,O-Ton Bundesfinanzmin. Peer Steinbrück,Übernahmen,,
+12:03:07
+00:00:44
+OZN 12  Grünen-Parteitag wählt neuen Vorsitzenden,Guenther, Oliver,Übernahmen,,
+12:04:07
+00:00:47
+OZN 12   Pilotenstreik Air France,Ulrich, Angela,Übernahmen,,
+12:04:54
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:05:15
+00:00:56
+OZN 12  Börse,Herrmann,Ulla,Übernahmen,,
+12:06:03
+00:04:00
+Nizza: EU will Neuanfang mit Rußland,Simon, Doris,Eigenproduktion,Nein,
+12:06:44
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:10:01
+00:04:45
+Moskau: Rußland und die EU,Baag, Robert,Eigenproduktion,Nein,
+12:17:50
+00:02:18
+Ride The River,Cale,J.J. & Clapton,Eric,Industrietonträger,,
+12:20:30
+00:02:56
+Weltfinanzgipfel in Washington,Remme, Klaus,Wiederholung,Nein,
+12:23:56
+00:03:41
+Steinmeier und die EU-Konjunktur,Capellan,Frank,Eigenproduktion,Frei,
+12:28:04
+00:03:28
+Bü90/Grüne: Vor dem Parteitag,Geuther, Gudula,Wiederholung,Nein,
+12:32:07
+00:03:05
+Parteiordnungsverfahren gg. SPD- Abweichler,Petermann, Anke,Eigenproduktion,Pflicht,
+12:35:58
+00:03:13
+Kommentar: Die Urteile von Genua (G8-Gipfel),Hoppe, Gregor,Übernahmen,Übernahme,
+12:39:40
+00:02:48
+Saudi-Arabien und die religiöse Toleranz,Saoub, Esther,Übernahmen,Übernahme,
+12:42:30
+00:01:35
+You Don't Know Me,Ben Folds featuring Regina Spektor,Industrietonträger,,
+12:45:39
+00:05:40
+Intern. Pressegespräch: Großbritannien (Prinz Charles ist 60 / Afghanistan),Zagatta, Martin / Mod.,Eigenproduktion,Nein,
+12:49:35
+00:02:10
+Gunslinger,Fogerty,John,Industrietonträger,,
+12:52:16
+00:00:00
+Politisches Feuillton,,,,
+12:52:16
+00:04:45
+Eine Stunde der Wahrheit - Zur Lage der SPD,Stürmer, Michael,Wiederholung,Wiederholung,
+12:57:30
+00:02:16
+15,Rilo Kiley,Industrietonträger,,
+12:59:44
+00:00:00
+Länderreport,,,,
+12:59:44
+00:00:00
+Nachrichten 13.00,,,,
+12:59:45
+00:00:13
+MFP Frankfurt am Main,,Wiederholung,,

@@ -1,0 +1,114 @@
+﻿
+Infotext
+11:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+11:00:58
+00:00:46
+OZN 11 EU-Gipfel: Der Vormittag der Entscheidungen,Richardson, Irmtraud,Übernahmen,,
+11:02:07
+00:00:39
+OZN 8: Janusz Reiter zur UN-Klimakonferenz in Posen,Reiter, Janusz,Wiederholung,,
+11:03:07
+00:00:49
+OZN 11 Autorettungsplan scheitert im US-Senat,Aischmann, Frank,Übernahmen,,
+11:04:24
+00:00:41
+OZN 11 Krawalle in Griechenland gehen zurück,Pick, Ulrich,Übernahmen,,
+11:05:22
+00:00:48
+OZN 6: Schweiz wird Schengen-Mitglied,Lechler, Pascal,Übernahmen,Übernahme,
+11:06:29
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+11:06:34
+00:00:38
+Mod: Begrüßung,Vorschau,König, Jürgen,0,,
+11:07:12
+00:00:44
+Jessica,Allman Brothers Band,Industrietonträger,,
+11:08:14
+00:00:47
+Ave regina coelorum,Jaroussky; Philippe & Lemieux, Marie-Nicole,Industrietonträger,,
+11:09:02
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+11:09:09
+00:11:28
+Essigs-Essenzen - Redewendungen auf den Grund gegangen,Essig, Rolf-Bernhard,Eigenproduktion,,
+11:19:07
+00:00:00
+Musik,,,,
+11:20:34
+00:00:09
+F122 Musik Cello (für RF),,Wiederholung,,
+11:21:15
+00:03:15
+Cor ingrate dispietato,Jaroussky, Philippe & Ensemble Artaserse,Industrietonträger,,
+11:24:32
+00:01:55
+Musikmod.,Müller, Andreas,0,,
+11:26:23
+00:03:22
+Ave regina coelorum,Jaroussky; Philippe & Lemieux, Marie-Nicole,Industrietonträger,,
+11:30:00
+00:00:00
+Kulturnachrichten,,,,
+11:30:05
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+11:30:12
+00:03:15
+Kulturnachrichten,,Eigenproduktion,,
+11:33:10
+00:00:00
+Kritik,,,,
+11:33:25
+00:00:05
+M128 DLRK Hörbuch,,Wiederholung,,DIGI_SOURCE$#
+11:33:32
+00:00:40
+Mod.,König, Jürgen,0,,
+11:34:09
+00:04:52
+Hörbuch: "Die souveräne Leserin" von Alan Bennett / Patmos Verlag,Wenzel, Tobias,Eigenproduktion,Pflicht +20%,
+11:39:02
+00:00:19
+Mod.,König, Jürgen,0,,
+11:39:21
+00:00:53
+Wurfpaket 5282 - 12.12.08 - P3,div.,Eigenproduktion,,
+11:40:14
+00:03:04
+Kulturtipps - Freitag, 12.12.2008 - 11.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+11:43:18
+00:00:00
+Musik,,,,
+11:43:19
+00:00:11
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+11:43:51
+00:04:24
+Southbound,Allman Brothers Band,Industrietonträger,,
+11:48:59
+00:01:41
+Musikmod.,Müller, Andreas,0,,
+11:49:38
+00:04:25
+Jessica,Allman Brothers Band,Industrietonträger,,
+11:54:10
+00:00:05
+F088 Station ID 3,,Wiederholung,,
+11:54:16
+00:05:30
+Übersetzer fordern Beteiligung am E-Book,Braun, Ilja,Eigenproduktion,,
+11:59:44
+00:00:00
+Ortszeit 12 Uhr,,,,
+11:59:44
+00:00:00
+Nachrichten 12.00,,,,
+11:59:44
+00:00:12
+MFP Leipzig,,Wiederholung,,
+

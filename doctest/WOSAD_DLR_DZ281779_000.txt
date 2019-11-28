@@ -1,0 +1,81 @@
+﻿
+Infotext
+17:00:18
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+17:01:07
+00:00:35
+OZN 14 Bundespräsident kritisiert Bankgewerbe,Köhler, Horst,Übernahmen,,
+17:02:06
+00:00:52
+OZN 17 Haushaltsreaktionen: Koalition und Opposition,Heuser, Gabriele,Übernahmen,,
+17:03:20
+00:00:51
+OZN 16 Schäuble für Reform im Bundesrat - Details,Steinhausen, Ilka,Übernahmen,,
+17:04:30
+00:00:46
+OZN 11 Kartellamt will Gasversorger zu Preissenkungen zwingen,Beckmann, Christian,Übernahmen,,
+17:05:42
+00:00:46
+OZN 17 Stichwahl um Chefposten bei Frankreichs Sozialisten,Deeg, Claudia,Übernahmen,,
+17:07:01
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:08:02
+00:03:10
+Love Song,Bareilles, Sara,Industrietonträger,,
+17:11:52
+00:03:11
+Berlin: Koalition korrigiert Neuverschuldung nach oben,Hinter, Melanie,Eigenproduktion,Wiederholung,
+17:15:32
+00:02:13
+Brüssel: Wie das EU-Konjunkturprogramm den deutschen Haushalt beeinflussen kann,Simon, Doris,Eigenproduktion,Frei,
+17:18:12
+00:04:51
+Bremen: "Die geplante Neuverschuldung ist noch viel zu knapp",Hickel, Rudolf - Wirtschaftswissenschaftler Universität Bremen,Eigenproduktion,Frei,
+17:23:25
+00:02:48
+Kommentar: "Große Koalition macht uns mit Haushaltsentwurf etwas vor",Steinhage, Martin,Eigenproduktion,Frei,
+17:26:37
+00:03:27
+School Of Hard Knocks,Morrison,Van,Industrietonträger,,
+17:30:17
+00:10:57
+Stuttgart: Baden-Württembergische Landesbank bittet um Hilfe,Götz, Uschi,Eigenproduktion,Pflicht,
+17:33:59
+00:04:38
+Frankfurt/M.: Zukunftsperspektiven der Landesbanken,Lincke, Felix,Eigenproduktion,Pflicht,
+17:35:06
+00:05:26
+Frankfurt/M.: Zukunftsperspektiven der Landesbanken,Lincke, Felix,Wiederholung,Pflicht,
+17:40:56
+00:03:09
+Europäischer Bankenkongress in Ffm,Braun, Michael,Eigenproduktion,Honorar,
+17:44:15
+00:02:04
+Having Wings,Harper, Ben & Innocent Criminals, The,Industrietonträger,,
+17:46:36
+00:03:05
+Potsdam : Abschluss Innenministerkonferenz,van Laak, Claudia,Eigenproduktion,Ja,
+17:50:09
+00:03:37
+Berlin: Diskussion um Bundeswehreinsatz gegen Piraten,Frank Capellan,Eigenproduktion,Frei,
+17:54:13
+00:03:23
+Paris: Duell Aubry Royal um Sozialistenführung in Frankreich,Birke, Burkhard,Übernahmen,Frei,
+17:57:37
+00:01:13
+Bobo/Instr.,South Maxico,Industrietonträger,,
+17:58:47
+00:00:57
+Trailer Einstand 21.11.2008 ("heute 22.00 Uhr"),Malter, Carola,Wiederholung,,
+17:59:44
+00:00:00
+Aus der jüdischen Welt / Shabbat,,,,
+17:59:44
+00:00:00
+Nachrichten 18.00,,,,
+17:59:45
+00:00:12
+MFP DAB,,Wiederholung,,
+

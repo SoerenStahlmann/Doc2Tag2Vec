@@ -1,0 +1,78 @@
+﻿
+Infotext
+07:00:22
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+07:01:27
+00:00:43
+OZN früh /Neu Delhi/ Vor einem Jahr wurde B.Bhutto ermordet,Hanefeld, Jürgen,Übernahmen,,
+07:02:55
+00:00:35
+Aktuelle Lage - Ruhe in der Grenzregion um Gaza NEU,Verenkotte,Clemens,Übernahmen,,
+07:04:34
+00:00:31
+OZN Tacheles (27.12.) Gunter Pleuger zu Raketenabwehrschirm,Pleuger, Günter, Präsident Viadrina,Wiederholung,Nein,
+07:06:20
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:06:42
+00:03:14
+Emily Smiles,Blue Mountain,Industrietonträger,,
+07:10:36
+00:03:00
+Aktuelle Lage Israel-Gaza,Verenkotte, Clemens,Übernahmen,Übernahme,
+07:13:44
+00:02:11
+Allegro aus: Concerto Grosso Nr. 3, F-Dur,Capella Istropolitana,Industrietonträger,,
+07:16:02
+00:03:43
+Slow Down,UB40,Industrietonträger,,
+07:20:10
+00:04:52
+Ein verrücktes Jahr/Wochenkommentar,Thies, Jochen,Eigenproduktion,Frei,
+07:25:09
+00:03:43
+Just Say Yeah,Browne,Jackson,Industrietonträger,,
+07:28:51
+00:00:57
+Trailer Hörspiel Einsatz 27.12.2008 ("morgen 18.30 Uhr"),Brinkmann, Ulrike,Wiederholung,,
+07:29:47
+00:00:00
+Nachrichten 7.30,,,,
+07:29:48
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+07:30:01
+00:04:36
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+07:34:38
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:35:06
+00:03:08
+Life, Love & Laughter,Frankenreiter, Donavon,Industrietonträger,,
+07:38:43
+00:03:22
+Neu Delhi : Pakistan - Zwischen Terror und Staatsbankrott,Hanefeld, Jürgen,Übernahmen,Übernahme,
+07:42:13
+00:02:21
+Solitary man,Cash,Johnny,Industrietonträger,,
+07:44:33
+00:03:20
+Allegro aus: Symphonie in C-Dur (C1),Toronto Chamber Orchestra,Industrietonträger,,
+07:48:49
+00:08:27
+Interview 2: Der Ameisenstaat und das Darwinjahr,Hölldobler, Bert Evolutionsbiologe Arizona State University,Eigenproduktion,Frei,
+07:57:28
+00:02:17
+Stronger Than Me,Winehouse, Amy,Industrietonträger,,
+07:59:44
+00:00:00
+Ortszeit (8 - 9),,,,
+07:59:44
+00:00:00
+Nachrichten 8.00,,,,
+07:59:46
+00:00:12
+MFP Magdeburg,,Wiederholung,,
+

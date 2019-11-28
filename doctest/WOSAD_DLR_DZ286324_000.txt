@@ -1,0 +1,81 @@
+﻿
+Infotext
+12:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:01:08
+00:00:52
+OZN 12 Israelische Regierung uneins über weitere Strategie,Engelbrecht, Sebastian,Übernahmen,,
+12:02:24
+00:00:29
+OZN 12 FDP lehnt dt. Beteiligung an mögl. int. Gaza-Mission ab,Dirk Niebel, FDP-Generalsekretär,Eigenproduktion,,
+12:03:23
+00:00:48
+OZN 12 Gasstreit: EU-Beobachtermission kann starten,Ahrens, Sylvie,Übernahmen,,
+12:05:03
+00:00:41
+OZN 11 CSU-Klausur Wildbad Kreuth 3. Tag,Schweikl, Claudia,Übernahmen,,
+12:05:45
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:06:02
+00:00:50
+OZN 12 Börse,Barths,Ulrich,Übernahmen,,
+12:07:06
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:19
+00:03:07
+Tel Aviv:  Kabinett - Einschläge in Israel - humanitä,Verenkotte, Clemens,Übernahmen,Übernahme,
+12:11:27
+00:05:34
+-neu-Interview Elmar Brok, EU-Parlamentarier (mit O-Ton Poettering),Schwarz, Marietta,Eigenproduktion,,
+12:17:33
+00:02:05
+Berlin: Steinmeier nach Ägypten und Israel,Adler, Sabine,Eigenproduktion,Frei,
+12:19:43
+00:03:13
+Big Chair,Travis,Industrietonträger,,
+12:23:27
+00:02:53
+Berlin:  Reaktionen Commerzbank,Hinter, Melanie,Eigenproduktion,Pflicht,
+12:26:27
+00:00:56
+EU-Kommissionspräsident Baroso zu GAS - Rußland/Ukraine,Baroso, Jose-Manuel -EU-Kommissionspräsident,Eigenproduktion,Frei,
+12:27:23
+00:03:53
+Brüssel: Gasstreit mit Rußland/Ukraine beigelegt?,Volker Finthammer,Eigenproduktion,Frei,
+12:31:16
+00:03:26
+Berlin:  Merkel und der Mittelstand,Irmler, Gerhard,Eigenproduktion,Frei,
+12:34:42
+00:04:27
+Abschluß CSU-Landesgruppe in Wildbad-Kreuth,Dirk Müller,Eigenproduktion,,
+12:39:02
+00:03:24
+Another Place to Fall,Kt Tunstall,Industrietonträger,,
+12:43:09
+00:05:36
+Internationales Pressegespräch : Gas für Europa,Andreas Meyer-Feist,Eigenproduktion,Frei,
+12:47:53
+00:03:41
+Lifesize,A Fine Frenzy,Industrietonträger,,
+12:51:35
+00:00:00
+Politisches Feuillton,,,,
+12:52:10
+00:04:06
+George W. Bush,Schuller, Moritz,Wiederholung,Pflicht,
+12:56:37
+00:03:08
+This is the last time,Keane,Industrietonträger,,
+12:59:44
+00:00:00
+Länderreport,,,,
+12:59:44
+00:00:00
+Nachrichten 13.00,,,,
+12:59:44
+00:00:12
+MFP Erfurt 97,2,,Wiederholung,,
+

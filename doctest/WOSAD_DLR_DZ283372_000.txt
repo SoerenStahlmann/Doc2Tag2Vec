@@ -1,0 +1,105 @@
+﻿
+Infotext
+10:00:22
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+10:00:37
+00:00:26
+OZN 10/Sagt der Bundesrat doch "Ja" zum Konjunkturpaket? Scheinbar,Henkel, Sabine,Übernahmen,Übernahme,
+10:01:22
+00:00:46
+OZN 10/Angst vor Super-Rezession/Forderung nach Steuersenkung,Jenter, Steffen,Übernahmen,Übernahme,
+10:02:29
+00:00:29
+OZN 10/O-Ton Tiefensee, keine Aufgabe des Solidaritätszuschlags,Tiefensee, Wolfgang, Ost-Beauftr. d. BuReg,Eigenproduktion,Wiederholung,
+10:03:30
+00:00:50
+OZN 9/US Autobauer betteln vor US Senat,Engelke, Anna,Übernahmen,Übernahme,
+10:04:55
+00:00:36
+OZN 9/O-Ton Pöttering, Tschechien soll den Lissabonvertrag ratifizieren,Pöttering, Hans-Gert Pöttering, EU-Parlamentspräsident,Wiederholung,Wiederholung,
+10:05:47
+00:00:49
+OZN 6/Nach Räumung des Hauses in Hebron: Radikale Siedler randalieren,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+10:06:59
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+10:07:04
+00:00:49
+Mod: Begrüßung,Vorschau,Scholl, Joachim,0,,
+10:07:54
+00:00:51
+El Perdon viene del Cielo,Israel,Industrietonträger,,
+10:09:04
+00:00:57
+Allegro marziale animato - Klavierkonzert in Es-Dur,Nebolsin, Eldar,Industrietonträger,,
+10:10:01
+00:00:05
+M149 DLRK Das Feuilleton Pressegespräch,,Wiederholung,,
+10:10:06
+00:08:58
+"Flagge zeigen - Die Deutschen und ihre Nationalsymbole" - General-Anzeiger Bon,Kliemann, Thomas,Eigenproduktion,Frei,
+10:19:04
+00:00:10
+M160 Musik World (für RF),,Wiederholung,,
+10:19:30
+00:03:01
+El Guruguru,Israel,Industrietonträger,,
+10:22:46
+00:01:12
+Musikmod,,0,,
+10:23:26
+00:02:24
+Quien,Israel,Industrietonträger,,
+10:26:49
+00:03:04
+Musiktitel zum 105. von heesters,,0,,
+10:29:53
+00:01:02
+Teaser Essig,Kochendörfer,J.,Wiederholung,,
+10:30:56
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+10:31:03
+00:02:46
+Kulturnachrichten,,Eigenproduktion,,
+10:33:47
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+10:33:54
+00:05:35
+"Berührte Orte" von Ulrike Draesner, Luchterhand München 2008,Wiemers, Carola,Eigenproduktion,Pflicht,
+10:39:26
+00:03:08
+Kulturtipps - Freitag, 05.12.2008 - 10.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+10:42:36
+00:00:09
+F122 Musik Cello (für RF),,Wiederholung,,
+10:42:48
+00:04:05
+Allegro marziale animato - Klavierkonzert in Es-Dur,Nebolsin, Eldar,Industrietonträger,,
+10:46:53
+00:01:15
+Musikmod,,0,,
+10:48:07
+00:03:20
+Allegro deciso - Marziale un poco meno allegro - Klavierkonzert in A-Du,Nebolsin, Eldar,Industrietonträger,,
+10:51:28
+00:01:19
+Wurfpaket 5470 - 05.12.08 - P2,div.,Eigenproduktion,,
+10:52:47
+00:00:08
+M276 Rubrik Chor der Woche,,0,,
+10:52:55
+00:00:30
+mod,,0,,
+10:53:23
+00:05:47
+Profil Berliner Soulchor,Ritter, Bettina,Eigenproduktion,Pflicht +15%,
+10:59:11
+00:00:38
+mod,,0,,
+10:59:45
+00:00:12
+MFP Aue,,Wiederholung,,
+

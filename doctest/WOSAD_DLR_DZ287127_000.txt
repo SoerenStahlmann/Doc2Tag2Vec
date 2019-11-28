@@ -1,0 +1,108 @@
+﻿
+Infotext
+10:00:22
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+10:01:03
+00:00:46
+OZN9 Jerusalem: Israel erörtert Vorschläge zur Waffenruhe,Verenkotte, Clemens,Übernahmen,,
+10:02:12
+00:00:36
+OZN6 New York: Vollbesetzter US-Airbus auf dem Hudson-River notgelandet,Schmidt, Thomas,Übernahmen,,
+10:04:11
+00:00:42
+OZN6 Berlin: Kanzlerin Merkel berät mit Russlands Premier Putin über Gasstreit,Müller, Dirk,Übernahmen,Übernahme,
+10:05:24
+00:00:43
+OZN7 Berlin: Debatte um Konjunkturpaket, Steuern und Schulden,Jenter, Steffen,Übernahmen,,
+10:06:58
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+10:07:03
+00:00:49
+Mod: Begrüßung,Vorschau,Timm, Ulrike,0,,
+10:07:51
+00:00:49
+Di tanti palpiti,Horne, Marilyn; Orchestra Del Teatro La Finice; Weikert, Ralf,Industrietonträger,,
+10:08:53
+00:00:47
+Mattvisa,Faerd, Dörge, Becker; Hjetland,Industrietonträger,,
+10:09:39
+00:00:05
+M149 DLRK Das Feuilleton Pressegespräch,,Wiederholung,,
+10:09:44
+00:06:34
+Feuilletongespräch: "Kölner Stadtanzeiger",Bos, Christian,Eigenproduktion,,
+10:16:16
+00:00:52
+Wurfpaket 1641 - 16.01.09 - P2,div.,Eigenproduktion,,
+10:17:08
+00:00:00
+Musik,,,,
+10:17:08
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+10:17:34
+00:03:12
+Drontens Sang,Faerd, Dörge, Becker; Hjetland,Industrietonträger,,
+10:21:52
+00:03:48
+Mattvisa,Faerd, Dörge, Becker; Hjetland,Industrietonträger,,
+10:26:07
+00:02:29
+Can you tell,Ra Ra Riot,Industrietonträger,,
+10:28:35
+00:00:57
+Trailer Konzert 16.01.2009 ("heute 20.03 Uhr"),Wilhelmer, Olaf,Wiederholung,,
+10:29:51
+00:00:00
+Kulturnachrichten,,,,
+10:29:51
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+10:29:58
+00:03:23
+Kulturnachrichten,,Eigenproduktion,,
+10:32:56
+00:00:00
+Kritik,,,,
+10:33:19
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+10:33:26
+00:06:41
+Belletristik: "Ruhm" von Daniel Kehlmann,Rowohlt Verlag, 2008,,Schneider, Wolfgang,Eigenproduktion,,
+10:40:04
+00:03:00
+Kulturtipps - Freitag, 16.01.2009 - 10.40 Uhr,Krüger, Roland,Eigenproduktion,,
+10:43:04
+00:00:00
+Musik,,,,
+10:43:08
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+10:43:46
+00:02:44
+Szene VII Duett Tancredi/Argirio Ecco Le Trombe,Horne, Marilyn; Palacio, Ernesto; Orchestra del Teatro La Fenice,Industrietonträger,,
+10:48:05
+00:04:05
+Nel profundo aus 1.Akt,Horne, Marilyn; I Solisti Veneti; Scimone, Claudio,Industrietonträger,,
+10:52:10
+00:00:00
+Profil,,,,
+10:52:19
+00:00:08
+M276 Rubrik Chor der Woche,,0,,
+10:52:55
+00:06:43
+Profil: Chor der Woche  Out of Soul,Brinkmann, Sigrid,Eigenproduktion,Pflicht +15%,
+10:59:44
+00:00:00
+Radiofeuilleton (11 - 12),,,,
+10:59:44
+00:00:00
+Nachrichten 11.00,,,,
+10:59:48
+00:00:12
+MFP Hoyerswerda,,Wiederholung,,
+

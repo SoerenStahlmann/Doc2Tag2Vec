@@ -1,0 +1,285 @@
+﻿
+Infotext
+
+06:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+06:00:47
+00:00:36
+OZN6 New York: Vollbesetzter US-Airbus auf dem Hudson-River notgelandet,Schmidt, Thomas,Übernahmen,,
+06:01:54
+00:00:41
+OZN6 Jerusalem: Israel entsendet Chefunterhändler zu Gesprächen nach Kairo,Verenkotte, Clemens,Übernahmen,,
+06:03:23
+00:00:47
+OZN 6 Washington: Bush's letzte TV-Ansprache,Engelke, Anna,Übernahmen,Übernahme,
+06:04:34
+00:00:42
+OZN6 Berlin: Kanzlerin Merkel berät mit Russlands Premier Putin über Gasstreit,Müller, Dirk,Übernahmen,Übernahme,
+06:05:39
+00:00:47
+OZN6 Berlin: Grüne Woche ab heute für Besucher geöffnet,Hakenjos, Susanne,Übernahmen,,
+06:06:43
+00:00:08
+M003 Opener OrtsZeit,,Wiederholung,,
+06:07:02
+00:03:17
+Quite Free,Travis,Industrietonträger,,
+06:10:38
+00:03:55
+Berlin: Intern. Grüne Woche beginnt,Kemna, Verena,Eigenproduktion,Pflicht,
+06:14:37
+00:03:09
+Slingstyle Music,Everton,Lee,Industrietonträger,,
+06:18:27
+00:03:52
+Kommunen in Not: Putlitz in Brandenburg hofft auf das Konjunkturpaket II.,van Laak, Claudia,Eigenproduktion,Pflicht,
+06:22:27
+00:01:49
+Big Jumps,Torrini, Emiliana,Industrietonträger,,
+06:24:18
+00:00:00
+Wort zum Tage,,,,
+06:24:18
+00:02:54
+Wort zum Tage 16.01.2009 (ev.),Drewes-Schulz, Elke,Eigenproduktion,Pflicht,
+06:26:16
+00:02:34
+Allegro aus: Sinfonia in D-Dur,Ensemble 415,Industrietonträger,,
+06:28:50
+00:00:57
+Trailer Konzert 16.01.2009 ("heute 20.03 Uhr"),Wilhelmer, Olaf,Eigenproduktion,,
+06:29:47
+00:00:00
+Nachrichten 6.30,,,,
+06:29:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+06:30:01
+00:04:28
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+06:34:29
+00:00:08
+M003 Opener OrtsZeit,,Wiederholung,,
+06:35:05
+00:03:02
+Gone,Forbes, China,Industrietonträger,,
+06:38:16
+00:00:00
+Aus den Feuilletons,,,,
+06:38:17
+00:04:11
+Aus den Feuilletons,Orzessek, Arno,Eigenproduktion,,
+06:42:28
+00:02:10
+Hombres de Hierro,Gieco, Leon,Industrietonträger,,
+06:45:10
+00:03:17
+Berlin: Ökostrom für die Hauptstadt?,Philip Banse,Eigenproduktion,Pflicht,
+06:48:29
+00:02:30
+Carina,Hunter,James,Industrietonträger,,
+06:50:51
+00:06:20
+Putins Rolle in der russischen Politik,Krumm, Reinhard, Leiter Friedrich-Ebert Stiftung in Moskau,Eigenproduktion,,
+06:52:38
+00:00:15
+Putins Rolle in der russischen Politik,Krumm, Reinhard, Leiter Friedrich-Ebert Stiftung in Moskau,Wiederholung,,
+06:57:11
+00:02:37
+All The Times I Cried,Spiteri, Sharleen,Industrietonträger,,
+06:59:44
+00:00:00
+Ortszeit (7 - 8),,,,
+06:59:44
+00:00:00
+Nachrichten 7.00,,,,
+06:59:46
+00:00:12
+MFP Dresden,,Wiederholung,,
+
+
+
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	16.01.2009
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Ostermann
+Redaktion:	Giesen / Wassmund
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Ulbricht
+Technik:	Lehmann
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  2'35''	New York: Das Wunder vom Hudson?			
+			 Airbus-Notlandung im Fluss	Übern.		WR
+			.			
+			Autor: Thomas Schmidt			
+
+05:15		  5'30''	Washington: George Bush-			
+			Abschied und Bilanz	frei		dlr
+			.			
+			Autor: Klaus Remme			
+
+05:20		  2'51''	Tokio: Sugamo in Tokio- das			
+			Einkaufsparadies der älteren Generation	Übern.		ndr
+			.			
+			Autor: Peter Kujath			
+
+05:40		  2'29''	Varazdin: Vorbericht Handball-WM			
+			in Kroatien	Übern.		mdr
+						
+			.			
+			Autor: Kay Hoffmann			
+
+05:44		  4'38''	KALENDERBLATT	Wenner		
+			Vor 30 Jahren:	frei		
+			 Schah Mohammed Resa Pahlewi und 			
+			seine Frau Farah fliehen aus dem Iran 			
+			ins Exil			
+			.			
+			Autor: Tobias Mayer			
+
+05:52		  3'54''	Presseschau mit Ulrike Pollay			
+						
+			Themen:			
+			- EZB senkt Leitzinsen auf 0,5   			
+			Prozentpunkte			
+			- Birthler-Behörde soll noch länger   			
+			bestehen			
+
+
+06:10		  3'56''	Berlin: Intern. Grüne Woche beginnt			
+				Pflicht		
+			.			
+			Autor: Verena Kemna			
+
+06:15		  3'52''	Länderreport : Kommunen in Not -	wa		BB
+			Putlitz in Brandenburg hofft auf das	Pflicht		
+			Konjunkturpaket II. 			
+			 			
+			.			
+			Autor: Claudia van Laak			
+
+06:23		  2'54''	Wort zum Tage (evang.)			
+						
+			.			
+			Autor: Pastorin Elke Drewes-Schulz, 			
+			Nienhagen			
+
+06:40		  4'11''	Aus den Feuilletons			
+				Wdhl.		
+			.			
+			Autor: Arno Orzessek			
+
+06:44		  3'18''	Berlin: Ökostrom für die Hauptstadt?	wa		BE
+				Pflicht		
+			.			
+			Autor: Philip Banse			
+
+06:50	LT	  6'21''	INTERVIEW I : Rußlands Min.Präs.	wa		
+			Putin bei Kanzlerin Merkel.	frei		
+			REINHARD KRUMM, Leiter der 			
+			Vertretung d. Friedrich-Ebert-Stiftung in 			
+			Moskau 			
+			Russland will deutlich machen, welche 			
+			Teile zum Einzugsgebiet zählen und wo 			
+			man Einfluss haben möchte/im 			
+			Gasstreit liegen aus Moskauer Sicht die 			
+			Ukrainer falsch/Russland zeigt Stärke, 			
+			wohlwissend dass man so stark nicht 			
+			ist/das Land verdient durch das Gas, 			
+			das Geld, welches Russland zur 			
+			Modenisierung des Landes aufbringen 			
+			muss/Medwedjew und Putin arbeiten 			
+			als Tandem zusammen- Medwedjew ist 			
+			Putin nicht hörig/  			
+			.			
+			Autor: Reinhard Krumm			
+
+
+07:10		  5'30''	Washington: George Bush- Abschied und			
+			Bilanz	Wdhl.		dlr
+			.			
+			Autor: Klaus Remme			
+
+07:20		  4'15''	Politisches Feuilleton: Obamas Amerika	Thies		
+				Pflicht		
+			.			
+			Autor: Hans-Ulrich Gumbrecht			
+
+07:22		  1'10''	Kulturtipp			
+						
+			.			
+			Autor: Roland Krüger			
+
+07:38		  2'24''	''Mensch Müller'' Hessen-Menschen			
+						
+			.			
+			Autor: Matthias Eckoldt, Matthias 			
+			Baxmann			
+
+07:40		  4'31''	Hessen vor der Wahl: Yanki Pürsün			HE
+			als liberaler Integrationsfaktor	Wdhl.		
+			.			
+			Autor: Sandra Schulz			
+
+07:50	Live ANG	  7'48''	Größte Verschuldung seit Bestehen der			
+			Bundesrepublik: Die Konsequenzen?			
+			Albrecht Ritschl. Wirtschaftshistoriker, 			
+			London School of Economics and 			
+			Political Science			
+			momentane Krise ist nicht mit den 			
+			Krisen der 1920/30er Jahren zu 			
+			vergleichen/Vergleiche sind unseriös/Dt. 			
+			hat bisher gar keinen so großen 			
+			Einbruch beim 			
+			BIP/Konjunkturprogramme bringen weit 			
+			weniger zusätzliches Einkommen als 			
+			erhofft/Haftungsregeln für 			
+			Bundesländer: diese müssen stärker 			
+			als bisher für eigene Defizite selbst 			
+			aufkommen/EZB hat klügere Politik als 			
+			in Banken in Amerika betrieben			
+			.			
+			Autor: Albrecht Ritschl			
+
+
+08:10	Live ANG	  7'56''	''Mediengespräch'':  Luffahrtpolitik::			
+			 Wettbewerbsfähigkeit der Deutschen?			
+			Volker Thomalla, CR, Flugrevue			
+			.			
+			Autor: Volker Thomalla			
+
+08:20		  6'08''	Teurer Stillstand: Wie die Finanzkrise	ebs		HH
+			den Hamburger Hafen trifft	Pflicht		
+			.			
+			Autor: Axel Schröder			
+
+08:28		  1'18''	Kuturtipp			
+						
+			.			
+			Autor: Roland Krüger			
+
+08:40		  4'12''	Sofia: Kein Gas aus Russland-			
+			Auswirkungen auf bulgarische Unternehmen	Übern.		br
+			.			
+			Autor: Andrea Mühlberger			
+
+08:50		  4'06''	Operetten-Tipp: Lehárs ‚Lustige Witwe',	Thies		
+				Pflicht		
+			Operetten-Tipp: Lehárs ‚Lustige Witwe', 			
+			Regie: Harry Kupfer, Premiere 			
+			Hamburgische Staatsoper			
+			.			
+			Autor: Ullrich Bohn			
+
+
+

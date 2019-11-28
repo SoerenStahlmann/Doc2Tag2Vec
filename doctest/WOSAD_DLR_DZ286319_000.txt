@@ -1,0 +1,126 @@
+﻿
+Infotext
+11:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+11:01:09
+00:00:46
+OZN 11 Keine Anzeichen für Waffenruhe in und um Gaza,Engelbrecht, Sebastian,Übernahmen,,
+11:02:20
+00:00:40
+OZN 11 EU: Israel und Palästinenser brauchen Unterstützung,Ferrero-Waldner, Benita, EU-Außenkommissarin,Wiederholung,,
+11:03:18
+00:00:34
+OZN 11 Gasstreit: Brüssel bestätigt Beginn der Beobachtermission,Richardson, Irmtraud,Übernahmen,,
+11:04:16
+00:00:41
+OZN 11 CSU-Klausur Wildbad Kreuth 3. Tag,Schweikl, Claudia,Übernahmen,,
+11:05:23
+00:00:33
+OZN 11 Handwerk ist gegen Deutschlandfonds,Schleyer, Hans-Eberhard, Generalsek.Zentralv.Deut.Handwerks,Wiederholung,,
+11:06:47
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+11:06:52
+00:00:41
+Begrüßung,Vorschau,Heise, Katrin,0,,
+11:07:33
+00:00:37
+Darling Corey,Louvin, Charlie,Industrietonträger,,
+11:08:30
+00:00:54
+Le Chemin de fer,Hanselmann, Jürg,Industrietonträger,,
+11:09:22
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+11:10:14
+00:01:37
+Christian Jost - Einer der erfolgreichsten zeitgenössischen Komponisten,Ufer, Gesa,Eigenproduktion,Pflicht,
+11:11:52
+00:08:11
+PV: Wie klingt Angst? - Die Neue Musik des Komponisten Christian Jost,Jost, Christian,Eigenproduktion,,
+11:20:04
+00:00:00
+Musik,,,,
+11:20:04
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+11:20:37
+00:02:24
+Pacific 213,Zinman, David,Industrietonträger,,
+11:23:01
+00:01:47
+Musikpräsentation,Burg, Susanne,Eigenproduktion,,
+11:24:47
+00:03:31
+Un petit Train de Plaisir kurz,Hanselmann, Jürg,Industrietonträger,,
+11:29:00
+00:01:41
+Wurfpaket 5621 - 09.01.09 - P3,div.,Eigenproduktion,,
+11:30:00
+00:00:00
+Kulturnachrichten,,,,
+11:30:41
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+11:30:48
+00:03:01
+Kulturnachrichten,,Eigenproduktion,,
+11:33:46
+00:00:00
+Kritik,,,,
+11:33:47
+00:00:06
+M128 DLRK Hörbuch,,Wiederholung,,DIGI_SOURCE$#
+11:33:54
+00:01:04
+Anmod,Heise, Katrin,0,,
+11:34:54
+00:04:58
+"Illegal" von Polle Wilbert / 1 CD, Intermedium 2008,Burkhardt, Susanne,Eigenproduktion,,
+11:39:52
+00:00:28
+Abmod,Heise, Katrin,0,,
+11:40:20
+00:03:03
+Kulturtipps - Freitag, 09.01.2009 - 11.40 Uhr,Rindler, Haino,Eigenproduktion,,
+11:43:26
+00:00:56
+Trailer Einstand 09.01.2009 ("heute  22.00 Uhr"),Malter, Carola,Wiederholung,,
+11:44:22
+00:00:00
+Musik,,,,
+11:44:22
+00:00:09
+M017 Musik Gitarre (für RF),,Wiederholung,,
+11:45:03
+00:02:15
+Wreck of the Old 97,Louvin, Charlie,Industrietonträger,,
+11:47:15
+00:02:10
+Musikpräsentation,Burg, Susanne,Wiederholung,,
+11:49:25
+00:02:16
+Katy Dear,Louvin, Charlie,Industrietonträger,,
+11:51:43
+00:00:58
+Musikpräsentation,Burg, Susanne,Wiederholung,,
+11:52:36
+00:02:06
+Dixie Boll Weevil,Louvin, Charlie,Industrietonträger,,
+11:54:39
+00:00:05
+M088 Station ID 3,,Wiederholung,,
+11:54:45
+00:05:02
+Das neue Windows-Betriebssystem gibt es jetzt als kostenlose Testversion im Net,Schieb, Jörg,Eigenproduktion,,
+11:59:44
+00:00:00
+Ortszeit 12 Uhr,,,,
+11:59:44
+00:00:00
+Nachrichten 12.00,,,,
+11:59:45
+00:00:12
+MFP Berlin,,Wiederholung,,
+

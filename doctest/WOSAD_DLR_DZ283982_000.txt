@@ -1,0 +1,102 @@
+﻿
+Infotext
+15:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:00:42
+00:00:55
+OZN 15 EU-Gipfel: Abschluß - Merkel spricht von sehr erfolgreichem Treffen,Plass, Christopher,Übernahmen,,
+15:01:59
+00:00:51
+OZN 13 Konjunkturprogramm des DGB,Weidemann, Michael,Übernahmen,,
+15:03:09
+00:00:45
+OZN 14 Schäuble in Indien,Matthay, Sabina,Übernahmen,Übernahme,
+15:04:14
+00:00:45
+OZN 15 Zyperns Ex-Präsident Tassos Papadopoulos gestorben,Ehl, Hans Michael,Übernahmen,Übernahme,
+15:05:13
+00:00:32
+OZN 15 IOC: 1. Jugendwinterspiele in Innsbruck,Kühner, Holger,Übernahmen,,
+15:06:00
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:06:05
+00:00:37
+Begrüßung, Vorschau,Meyer, Frank,Eigenproduktion,,
+15:06:41
+00:00:40
+Je Pense A Toi,Delerm, Vincent,Industrietonträger,,
+15:07:33
+00:00:45
+Piano-Sonate Nr.28/ A-Dur Op.101,Grimaud, Helene,Industrietonträger,,
+15:08:17
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:08:24
+00:00:45
+Mod.,Meyer, Frank,0,,
+15:09:07
+00:03:17
+Reportage: Ilisu-Staudamm,Güsten, Susanne,Eigenproduktion,Honorar,
+15:12:25
+00:06:26
+Die Frist für den Ilisu-Staudamm läuft ab,Schöne, Edna,Eigenproduktion,Frei,
+15:18:51
+00:00:09
+F122 Musik Cello (für RF),,Wiederholung,,
+15:19:20
+00:04:05
+Piano-Sonate Nr.28/ A-Dur Op.101,Grimaud, Helene,Industrietonträger,,
+15:25:04
+00:04:32
+4 Piano-Pieces Op.119,Grimaud, Helene,Industrietonträger,,
+15:25:11
+00:01:41
+Musikmod.,Wegner, Matthias,0,,
+15:29:49
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+15:29:57
+00:03:16
+Kulturnachrichten,,Eigenproduktion,,
+15:33:10
+00:01:12
+Teaser Debatte,Ameln, Leonard,Eigenproduktion,,
+15:34:23
+00:00:06
+M163 Rubrik Ihre Buchhändlerin empfiehlt,,0,,
+15:34:28
+00:04:52
+Buchhändler im Gespräch: Heike Grümmer, Buchhandlung Grümmer, Leipzig,Grümmer, Heike,Eigenproduktion,,
+15:39:20
+00:03:10
+Kulturtipps,Hansen, Nicolas,Eigenproduktion,,
+15:42:35
+00:01:12
+Wurfpaket 5510 - P5,,Eigenproduktion,,
+15:43:47
+00:00:09
+M017 Musik Gitarre (für RF),,Wiederholung,,
+15:44:10
+00:02:28
+Un Temps Pour Tout,Delerm, Vincent,Industrietonträger,,
+15:46:38
+00:02:22
+Musikmod.,Wegner, Matthias,0,,
+15:48:59
+00:03:57
+Je Pense A Toi,Delerm, Vincent,Industrietonträger,,
+15:53:03
+00:00:07
+M118 DLRK Debatte,,Wiederholung,,
+15:54:21
+00:00:31
+Debatte / Hörer Lothar Fuss aus Braunschweig,Ameln, Leonard,Eigenproduktion,,
+15:54:53
+00:04:50
+Debatte: Zwangsanleihe bei Wohlhabenden?,Meyer, Frank und Hörer,Eigenproduktion,,
+15:59:43
+00:00:12
+MFP Bautzen,,Wiederholung,,
+

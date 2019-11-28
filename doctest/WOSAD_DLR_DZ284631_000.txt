@@ -1,0 +1,89 @@
+﻿
+Infotext
+	Magazinsendung --> 13:30  Kakadu / Mo-Sa --> Sendeplan
+
+Abteilung:	Bildung und Wissen
+Datum:	19.12.2008
+Zeit:	13:30
+Kostenträger:	46270000
+Bandnr.:	
+Titel:	Quasseltag: Vorsicht Kerzen und Knaller
+Moderation:	Susanne Schröder
+Redaktion:	Annette Winkler
+Musikredaktion:	Annette Winkler
+Assistenz:	Red. MA Ruben Willuhn
+Technik:	Jens Lambert
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+13:30	dira	  0'26''	Feuerwehr-Sirene 1			
+						
+			.			
+			 vor den Jingle setzen, kurz frei stehen 			
+			lassen und Mod mit Zeitansage darauf 			
+			setzen			
+			Autor: Schröder			
+
+13:31	Jingle	000'11''	JINGLE KAKADU			
+			Mod. Mit Begrüßung & kurz mit Gast			
+						
+
+13:32	dira	  2'47''	Kakadus Nachrichten	winkler		
+			Schmetterling des Jahres 2008 gekürt	Pflicht		
+			.			
+			Autor: Neugebauer, Christian			
+
+13:34	CD	003'15''	Radau			
+	Track 1		''Die Feuerwehr''	Gema		
+			von CD:			
+	Intro:		''Voll aufgedreht''			
+			K:			
+			LC			
+
+13:36	dira	  0'23''	Feuerwehr-Sirene 2			
+						
+			auf Handzeichen zu Beginn der 1. 			
+			Runde einspielen 			
+			.			
+			Autor: Schröder			
+
+13:37			Vorsicht, Kerzen und Feuerwerk			
+			1. Runde			
+			 MOD & Gast solo			
+
+13:41	CD	003'14''	Bernd Meyerholz			
+	Track 7		''Das Feuerwehrteufelchen''	Gema		
+			von CD:			
+	Intro:		''Alarm, Alarm''			
+			K:			
+			LC			
+
+13:45	live Tel		Vorsicht, Kerzen und Feuerwerk			
+	00800		2. Runde			
+	2254 2254		mit Kindern			
+
+13:50	CD	002'17''	Bernd Meyerholz			
+	Track 15		''Das Auto von der Feuerwehr''	Gema		
+			von CD:			
+	Intro:					
+			K:			
+			LC			
+
+13:52	live-tel		Vorsicht, Kerzen und Feuerwerk			
+			3. Runde			
+			mit Kindern			
+
+13:57	CD	003'07''	Sheryl Cormier & Cajun Sounds			
+	Track 4		''St. Nicolas''	Gema		
+			von CD:			
+	Intro: 0´19		''Christmas around the world''			
+			K:			
+			LC			
+
+
+			Berliner Feuerwehr: Knaller und Kerzen			
+						
+			Vorsicht, Kerzen und Feuerwerk			
+
+

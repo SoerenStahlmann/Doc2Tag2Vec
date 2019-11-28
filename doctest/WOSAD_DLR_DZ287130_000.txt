@@ -1,0 +1,111 @@
+﻿
+Infotext
+15:00:23
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:00:55
+00:01:01
+OZN 15 Hamas lehnt israelische Bedingungen ab,Kühntopp, Carsten,Übernahmen,,
+15:02:26
+00:00:45
+OZN 15: Gastreit: Kanzleramt verschärft Ton vor Putin-Besuch,Schwarte, Georg,Übernahmen,Übernahme,
+15:03:38
+00:00:55
+OZN 15: Irland verstaatlicht erste Bank komplett,Borchard, Ralf,Übernahmen,Übernahme,
+15:04:55
+00:00:49
+OZN UN: Cholera in Simbabwe nicht unter Kontrolle,Lechler, Pascal,Übernahmen,,
+15:06:04
+00:00:38
+OZN 15 Zypries: weiterhin keine Knöllchen aus dem Ausland,Becker, Michael,Übernahmen,,
+15:06:57
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:07:02
+00:00:42
+Mod: Begrüßung,Vorschau,Meyer, Frank,0,,
+15:07:44
+00:00:56
+Romeo w Julia,Geffen,Aviv,Industrietonträger,,
+15:08:54
+00:00:52
+Like a star,Monheit,Jane,Industrietonträger,,
+15:09:45
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:09:51
+00:10:08
+"Eine revolutionäre First Lady" - Michelle Obama und ihre Vorgängerinnen,von Marschall, Christoph,Eigenproduktion,,
+15:18:50
+00:00:00
+Musik,,,,
+15:19:58
+00:00:12
+M188 Musik Free Jazz (für RF),Brauschmid,Wiederholung,,
+15:20:29
+00:03:54
+Like a star,Monheit,Jane,Industrietonträger,,
+15:25:30
+00:03:10
+I'm glad there is you,Monheit,Jane,Industrietonträger,,
+15:25:40
+00:01:44
+MusikMod,Risel, Martin,Wiederholung,,
+15:28:47
+00:01:06
+Teaser Debatte  16.01.2009   15:40,Kochendörfer, Judith,Eigenproduktion,,
+15:29:54
+00:00:00
+Kulturnachrichten,,,,
+15:29:54
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+15:30:01
+00:03:12
+Kulturnachrichten,,Eigenproduktion,,
+15:33:10
+00:00:48
+Wurfpaket 4499 - 16.01.09 - P5,div.,Eigenproduktion,,
+15:33:58
+00:00:00
+Kritik,,,,
+15:33:58
+00:00:06
+M163 Rubrik Ihre Buchhändlerin empfiehlt,,0,,
+15:34:03
+00:05:55
+Buchhändlerin  im Gespräch,Kretschmar- Dietrich, Reingard,Eigenproduktion,,
+15:39:59
+00:03:05
+Kulturtipp - Freitag, 16.01.2009 - 15.40 Uhr,Brendel, Gerd,Eigenproduktion,,
+15:43:04
+00:00:00
+Musik,,,,
+15:43:07
+00:00:12
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+15:43:52
+00:02:48
+Ugim - moments,Geffen,Aviv,Industrietonträger,,
+15:46:41
+00:02:17
+MusikMod,Risel, Martin,Wiederholung,,
+15:48:51
+00:03:57
+Ze ba w holech - it comes and goes,Geffen,Aviv,Industrietonträger,,
+15:53:08
+00:00:06
+M118 DLRK Debatte,,Wiederholung,,
+15:53:15
+00:06:32
+Debatte:Hat Putin den Sächsischen Dankorden verdient?,Meyer, Frank + Hörer,Eigenproduktion,,
+15:59:44
+00:00:00
+Radiofeuilleton (16 - 17),,,,
+15:59:44
+00:00:00
+Nachrichten 16.00,,,,
+15:59:44
+00:00:12
+MFP St. Peter -  Ording,,Wiederholung,,
+

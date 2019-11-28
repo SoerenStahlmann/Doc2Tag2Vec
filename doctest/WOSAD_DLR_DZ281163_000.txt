@@ -1,0 +1,63 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:30:53
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:32
+00:02:35
+Koch und Schäfer-Gümbel zur beantragten Opel-Bürgschaft,Petermann, Anke,Eigenproduktion,Pflicht,
+22:34:51
+00:02:33
+Vor dem Weltfinanzgipfel in Washington,Müchenberg, Jörg,Wiederholung,,
+22:37:40
+00:03:00
+Kommentar: Erwartungen an den Washingtoner Finanzgipfel,Irmler, Gerhard,Eigenproduktion,,
+22:40:43
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:40:47
+00:02:26
+Nachrichten-Block 1,,Eigenproduktion,,
+22:43:12
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:43:23
+00:00:56
+Börse,Wehrle,Claudia,Übernahmen,,
+22:44:57
+00:03:08
+Auftakt des Grünenparteitag in Erfurt,Fischer, Jochen,Eigenproduktion,,
+22:48:29
+00:02:50
+EU-Russland-Gipfel in Nizza,Simon, Doris,Übernahmen,,
+22:51:49
+00:02:11
+Duma in erster Lesung für längere Amtszeit des Staatspräsidenten,Baag, Robert,Eigenproduktion,,
+22:54:00
+00:00:05
+M009 DropIn Sport,,Wiederholung,,
+22:54:40
+00:01:01
+Hannover 96 - VfL Bochum 1:1,Tegelhütter, Jörg,Übernahmen,,
+22:56:29
+00:00:43
+Eisschnelllauf-Weltcup in Heerenveen,Hinsdorf, Raimo,Übernahmen,,
+22:57:29
+00:00:45
+Vor dem Schwimm-WC-Finale: Dirk Lange neuer DSV-Bundestrainer,Alde, Klaus-Jürgen,Übernahmen,,
+22:59:16
+00:00:34
+Down Low/Instr.,Lorber,Jeff,Industrietonträger,,
+22:59:48
+00:00:00
+Fazit,,,,
+22:59:48
+00:00:00
+Nachrichten 23.00,,,,
+22:59:48
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+

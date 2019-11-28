@@ -1,0 +1,60 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:30:56
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:18
+00:03:13
+Tel Aviv: Israel und Hamas wollen Krieg fortsetzen,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+22:35:07
+00:03:25
+Bonn: KOMMENTAR UN-Resolution zu Gaza,Philipp, Peter,Übernahmen,Übernahme,
+22:39:03
+00:03:03
+Moskau: Verhandlungen in Kiew:Bewegung im Gasstreit zwischen Russland,Laack, Stephan,Übernahmen,Übernahme,
+22:42:40
+00:03:10
+Wien: Die Folgen des Gasstopps für Südosteuropa,Mühlberger, Andrea,Übernahmen,Übernahme,
+22:45:51
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:45:55
+00:02:55
+Nachrichten-Block 1,,Eigenproduktion,,
+22:48:48
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:49:12
+00:00:59
+Börse,Plate,Jan,Übernahmen,,
+22:50:46
+00:02:25
+Berlin: Regierung verteidigt Commerzbank-Einstieg,Hinter, Melanie,Eigenproduktion,Übernahme,
+22:53:46
+00:02:06
+Erfurt: Merkel vor CDU-Bundesvorstandsklausur,Greim, Ulrike,Eigenproduktion,Pflicht,
+22:55:53
+00:00:06
+M009 DropIn Sport,,Wiederholung,,
+22:56:16
+00:01:05
+Biathlon WC Oberhof Damensprint,Alde, Klaus-Jürgen,Übernahmen,Übernahme,
+22:57:41
+00:01:09
+Eisschnelllauf Mehrkampf-EM,Raimo Hinsdorf,Übernahmen,Übernahme,
+22:59:10
+00:00:24
+O-Ton Uli Hoeneß zu Podolski-Wechsel,Breyer, Jochen,Übernahmen,Übernahme,
+22:59:45
+00:00:00
+Fazit,,,,
+22:59:45
+00:00:00
+Nachrichten 23.00,,,,
+22:59:45
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+

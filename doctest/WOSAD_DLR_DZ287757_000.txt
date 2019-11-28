@@ -1,0 +1,43 @@
+﻿
+Infotext
+	Magazinsendung --> 13:30  Kakadu / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Bildung und Wissen
+Datum:	23.01.2009
+Zeit:	13:30
+Kostenträger:	46270000
+Bandnr.:	
+Titel:	Quasseltag: Lieblingsmusik
+Moderation:	Lydia Heller
+Redaktion:	Annette Winkler/König-Suckel
+Musikredaktion:	Annette Winkler/Heller
+Assistenz:	red. MA Ute Krupp
+Technik:	
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+13:30	Jingle	000'11''	JINGLE KAKADU			
+			Mod. Mit Begrüßung (evtl. auf Musik)			
+						
+
+
+	dira		Pop, Rock oder Kinderlieder -			
+			Welche Musik mögt ihr?			
+			 Hinweis auf das Kindermusikfestival 			
+			2009 vom 23.-24. Januar			
+			Kakadus Reisen am 25. Januar			
+			.			
+			Autor: Mod. Lydia Heller (Tausch)			
+
+	live	  3'30''	Reportage: Live vom Kindermusikfestival	winkler		
+				frei		
+			.			
+			Autor: Annette Winkler			
+
+			Kakadus Nachrichten			
+			Abwrackprämie	hon.		
+			.			
+			Autor: Barbara Ketelhut			
+
+

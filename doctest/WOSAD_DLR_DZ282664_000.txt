@@ -1,0 +1,126 @@
+﻿
+Infotext
+10:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+10:00:53
+00:00:44
+OZN 10 : Neu Delhi: Bombay,Küstner, Kai,Übernahmen,Übernahme,
+10:01:59
+00:00:55
+OZN  10 :Singapore/Bangkok Gewaltsame Räumung oder Militärputsch Spannung wächs,Musch-Borowska, Bernd,Übernahmen,Übernahme,
+10:03:18
+00:00:43
+OZN 10 : BT : Haushalt : Glos:schwere Zeiten,Jenter, Steffen,Übernahmen,Übernahme,
+10:04:27
+00:00:39
+OZN 7 : Bundesrat lehnt BKA-Gesetz vermutlich ab,Hesse, Sebastian,Übernahmen,Übernahme,
+10:05:38
+00:00:46
+OZN 10 : Bonn/Call Center Einigung,Hilgers, Jochen,Übernahmen,Übernahme,
+10:06:41
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+10:06:47
+00:00:46
+Begrüßung,Vorschau,Kassel, Dieter,0,,
+10:07:32
+00:00:27
+Let The Good Times Roll,Shirley & Lee,Industrietonträger,,
+10:08:09
+00:00:40
+Bochum,Grönemeyer, Herbert,Industrietonträger,,
+10:08:48
+00:00:05
+M149 DLRK Das Feuilleton Pressegespräch,,Wiederholung,,
+10:08:53
+00:10:57
+Feuilleton-Pressegespräch: Weltkunst - Neues Museum für Islamische Kunst,Tschechne, Martin,Eigenproduktion,,
+10:16:52
+00:00:00
+Musik,,,,
+10:19:48
+00:00:11
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+10:20:12
+00:02:46
+Zum Meer,Grönemeyer, Herbert,Industrietonträger,,
+10:22:54
+00:03:29
+Musikpräsentation,Wohlmacher, Uwe,Eigenproduktion,,
+10:26:24
+00:02:33
+Bochum,Grönemeyer, Herbert,Industrietonträger,,
+10:29:07
+00:01:02
+Teaser Essigs Essenzen 28.11.08,Kochendörfer, Judith,Wiederholung,,
+10:30:00
+00:00:00
+Kulturnachrichten,,,,
+10:30:11
+00:00:05
+M019 Kulturnachrichten,,Wiederholung,,
+10:30:18
+00:03:10
+Kulturnachrichten,,Eigenproduktion,,
+10:33:16
+00:00:00
+Kritik,,,,
+10:33:27
+00:00:06
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+10:33:34
+00:06:21
+Buchkritik: Oliver Storz: "Die Freibadclique" / Schirmer Graf Verlag,Abendstein, Edelgard,Eigenproduktion,,
+10:39:51
+00:00:47
+Wurfpaket 2457 - 28.11.08 - P2,div.,Eigenproduktion,,
+10:40:38
+00:03:13
+Kulturtipps - Freitag, 28.11.2008 - 10.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+10:43:52
+00:00:00
+Musik,,,,
+10:43:52
+00:00:08
+M121 Musik Flöte (für RF),,Wiederholung,,
+10:44:17
+00:02:30
+I'll Thrill You,Shirley & Lee,Industrietonträger,,
+10:46:47
+00:00:33
+Musikpräsentation,Wohlmacher, Uwe,Eigenproduktion,,
+10:47:17
+00:01:40
+Let The Good Times Roll,Shirley & Lee,Industrietonträger,,
+10:50:00
+00:02:20
+Do You Mean To Hurt Me So,Shirley & Lee,Industrietonträger,,
+10:52:21
+00:00:00
+Profil,,,,
+10:52:28
+00:00:08
+M276 Rubrik Chor der Woche,,0,,
+10:52:36
+00:00:42
+Anmod,Kassel, Dieter,0,,
+10:53:16
+00:05:54
+Chor der Woche: "Ein Ton tiefer" Frauen-Jazzchor Bremen,Tegeler, Hartwig,Co-Produktion,Pflicht +20%,
+10:59:10
+00:00:36
+Abmod,Kassel, Dieter,0,,
+10:59:44
+00:00:00
+Radiofeuilleton (11 - 12),,,,
+10:59:44
+00:00:00
+Nachrichten 11.00,,,,
+10:59:45
+00:00:12
+MFP Torgau,,Wiederholung,,
+
+
+
+

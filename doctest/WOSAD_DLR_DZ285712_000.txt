@@ -1,0 +1,120 @@
+﻿
+Infotext
+14:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+14:00:48
+00:01:01
+OZN 13 - Tel Aviv/Angriffe auf beiden Seiten,Teichmann, Torsten,Übernahmen,,
+14:02:11
+00:00:52
+OZN 14: Sri Lanka: Rebellen-Hochburg unter Kontrolle der Regierung,Küstner, Kai,Übernahmen,Übernahme,
+14:03:42
+00:00:35
+OZN 14 - Glos und Energiewirtschaft zum Gas-Streit Ukraine vs.,Wentzien, Birgit,Übernahmen,,
+14:04:42
+00:00:38
+OZN 14: Konjunkturdebatte in der Koalition,Buellmann, Rolf,Übernahmen,Übernahme,
+14:05:46
+00:00:27
+OZN 13 - Mehr Erwerbstätige als je zuvor,Bauer, Daniel,Übernahmen,,
+14:06:58
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+14:07:02
+00:00:46
+Mod: Begrüßung,Vorschau,Karkowsky, Stephan,0,,
+14:07:51
+00:00:36
+High Noon,Ritter, Tex,Industrietonträger,,
+14:08:45
+00:00:45
+Sweet Mercy,Truffaz,Eric,Industrietonträger,,
+14:09:30
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+14:09:36
+00:11:37
+Krise in Israel: Möglichkeiten und Grenzen zivilgesellschaftlicher Projekte,Sterzing, Christian,Eigenproduktion,Pflicht,
+14:19:34
+00:00:00
+Musik,,,,
+14:21:10
+00:00:09
+M017 Musik Gitarre (für RF),,Wiederholung,,
+14:21:41
+00:02:48
+Sam Hall,Ritter, Tex,Industrietonträger,,
+14:24:29
+00:00:52
+Musikmoderation,Wegner, Matthias,Eigenproduktion,,
+14:25:19
+00:02:37
+Green Grow The Lilacs,Ritter, Tex,Industrietonträger,,
+14:27:56
+00:00:37
+Musikmoderation,Wegner, Matthias,Wiederholung,,
+14:28:32
+00:01:23
+I'm an old Cowhand,Ritter, Tex,Industrietonträger,,
+14:30:00
+00:00:00
+Kulturnachrichten,,,,
+14:30:24
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+14:30:32
+00:03:03
+Kulturnachrichten,,Eigenproduktion,,
+14:33:33
+00:00:54
+Wurfpaket 5159 - 02.01.09 - P4,div.,Eigenproduktion,,
+14:34:27
+00:00:00
+Kritik,,,,
+14:34:27
+00:00:06
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+14:34:34
+00:06:54
+Belletristik: Mario Levi, Istanbul war ein Märchen / Suhrkamp, Frankfurt a. M.,Hueck, Carsten,Eigenproduktion,,
+14:41:25
+00:03:11
+Kulturtipps - Freitag, 02.01.2009 - 14.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+14:44:37
+00:00:00
+Musik,,,,
+14:44:38
+00:00:12
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+14:45:16
+00:02:46
+Bobby Brown,Zappa,Frank,Industrietonträger,,
+14:48:02
+00:02:39
+Musikgespräch,Wegner, Matthias,Wiederholung,,
+14:50:39
+00:02:19
+Nobody puts the Baby in the Corner,Truffaz.Eric & Ed Harcourt,Industrietonträger,,
+14:53:03
+00:01:10
+Teaser Debatte 02.01.2009  14:50,Hock,Eigenproduktion,,
+14:54:14
+00:00:08
+M137 DLRK Kolumne,,Wiederholung,,
+14:54:22
+00:00:14
+Anmoderation,Karkowsky, Stephan,0,,
+14:54:33
+00:04:47
+Kolumne: Meine Woche,Pokatzky, Klaus,Eigenproduktion,,
+14:59:44
+00:00:00
+Radiofeuilleton (15 - 16),,,,
+14:59:44
+00:00:00
+Nachrichten 15.00,,,,
+14:59:45
+00:00:12
+MFP Apolda,,Wiederholung,,
+

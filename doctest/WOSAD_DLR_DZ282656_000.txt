@@ -1,0 +1,111 @@
+﻿
+Infotext
+15:00:29
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:01:02
+00:00:46
+OZN 15 - Nf - 4 Deutsche in Bombay getötet - Innenministerium,Küstner, Kai,Übernahmen,Übernahme,
+15:02:14
+00:00:50
+OZN 15 - Bundestag verabschiedet Haushalt 2009,Weidemann, Michael,Übernahmen,Übernahme,
+15:03:22
+00:00:51
+OZN 15 - BKA Gesetz - Bundesregierung will Vermittlungsausschuss anrufen,Kleber, Mark,Übernahmen,Übernahme,
+15:04:31
+00:00:49
+OZN 15 - Gestriges A 320 Unglück über Südfankreich,  Suche nach Opfern,Birke, Burkhard,Eigenproduktion,Übernahme,
+15:05:47
+00:00:45
+OZN 15 - ARD zu Fußball-Deal zw. DFL und ARD, ZDF, Premiere und DSF,Pitzer, Sissi,Übernahmen,Übernahme,
+15:06:50
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:06:54
+00:01:00
+Begrüßung,Vorschau,Meyer, Frank,0,,
+15:07:54
+00:01:18
+Voce Vai Ver,Miucha,Industrietonträger,,
+15:09:11
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:09:15
+00:09:04
+Thailand vor einem weiteren Putsch,Terwiel, Barend Jan,Eigenproduktion,Honorar,
+15:18:20
+00:00:54
+Wurfpaket 5440 - 28.11.08 - P5,div.,Eigenproduktion,,
+15:19:15
+00:00:00
+Musik,,,,
+15:19:15
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+15:19:43
+00:03:43
+Allegro aus: Sonate für Violoncello und Klavier F-Dur op. 5 Nr. 1,Müller-Schott, Daniel,Industrietonträger,,
+15:23:00
+00:06:47
+Allegro vivace aus: Sonate für Violoncello und Klavier A-Dur op. 69,Müller-Schott, Daniel,Industrietonträger,,
+15:29:48
+00:01:52
+Musikpräsentation,Hochweis, Olga,Eigenproduktion,,
+15:29:59
+00:00:00
+Kulturnachrichten,,,,
+15:29:59
+00:00:05
+M019 Kulturnachrichten,,Wiederholung,,
+15:30:06
+00:03:05
+Kulturnachrichten,,Eigenproduktion,,
+15:33:04
+00:00:00
+Kritik,,,,
+15:33:10
+00:00:06
+M163 Rubrik Ihre Buchhändlerin empfiehlt,,0,,
+15:33:15
+00:06:47
+Buchhändlerin der Woche 28.11.08,Röhrl, Johanna,Eigenproduktion,Frei,
+15:40:03
+00:01:16
+Teaser  Debatte 28.11. 15:40,Kochendörfer,Eigenproduktion,,
+15:41:19
+00:03:02
+Kulturtipps, Freitag, 28. November 2008, 15.40 Uhr,von Schenck, Susanne,Eigenproduktion,,
+15:44:22
+00:00:00
+Musik,,,,
+15:44:24
+00:00:10
+M160 Musik World (für RF),,Wiederholung,,
+15:44:52
+00:03:39
+Anos Dourados,Miucha,Industrietonträger,,
+15:49:18
+00:01:29
+Musikpräsentation,Hochweis, Olga,Eigenproduktion,,
+15:49:52
+00:02:43
+Outros Sonhos,Miucha,Industrietonträger,,
+15:52:37
+00:00:07
+M118 DLRK Debatte,,Wiederholung,,
+15:53:37
+00:00:33
+Debatte ein Hörer,Kochendörfer,Eigenproduktion,,
+15:54:10
+00:05:33
+Haben Sie sich schon dazu durchgerungen, Ihren Versorgungsanbieter zu wechseln?,Meyer, Frank und Hörer,Eigenproduktion,,
+15:59:44
+00:00:12
+MFP Zwickau,,Wiederholung,,
+15:59:44
+00:00:00
+Radiofeuilleton (16 - 17),,,,
+15:59:44
+00:00:00
+Nachrichten 16.00,,,,
+

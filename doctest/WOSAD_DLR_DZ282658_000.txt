@@ -1,0 +1,81 @@
+﻿
+Infotext
+12:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:52
+00:00:39
+OZN 12 - Nf - update Terror in Bombay Tag 2,Küstner, Kai,Übernahmen,Übernahme,
+12:01:58
+00:00:53
+OZN 12 - update Bangkog: Militärputsch? Spannung wächst,Musch-Borowska, Bernd,Übernahmen,Übernahme,
+12:03:32
+00:00:47
+OZN 12 - Bundesrat gibt grünes Licht für VW Gesetz,Bieritz, Ulrike,Übernahmen,Übernahme,
+12:04:38
+00:00:41
+OZN  12 - Haushalts-Debatte im Butag; letzte Runde,Sturm, Klaus,Übernahmen,Übernahme,
+12:05:20
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:05:37
+00:01:05
+OZN 12 - Börse, DAX am Mittag,Pohl, Konrad,Übernahmen,Übernahme,
+12:07:00
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:38
+00:03:03
+Neu Delhi: Terror in Mumbai - Tag 2,Küstner, Kai,Übernahmen,Übernahme,
+12:12:22
+00:03:18
+Washington: US-Reaktionen zum Bombay-Terror:,Sina, Ralph,Übernahmen,Übernahme,
+12:16:01
+00:02:06
+Berlin: Deutsche in Bombay befreit,Heckmann,  Dirk-Oliver,Eigenproduktion,Frei,
+12:18:06
+00:02:14
+No Regrets,Smokestack Lightnin',Industrietonträger,,
+12:20:42
+00:03:03
+Bangkok Gewaltsame Räumung oder Militärputsch Spannung wäc,Musch-Borowska, Bernd,Übernahmen,Nein,
+12:24:17
+00:03:29
+Nairobi: Flüchtlingselend, Vergewaltigungen im Osten Kongos,Dohrenbusch, Wim,Übernahmen,Übernahme,
+12:28:25
+00:03:38
+Berlin: Bundesrat lehnt BKA Gesetz ab,Geuther, Gudula,Eigenproduktion,Frei,
+12:32:22
+00:03:41
+Berlin: Bundestag verabschiedet Haushalt,Steinhage, Martin,Eigenproduktion,Frei,
+12:37:05
+00:03:21
+Kreditklemme ante portas - KfW stellt Mittelstandsstudie vor,Braun, Michael,Eigenproduktion,Pflicht,
+12:40:26
+00:02:54
+Love Is Free,Crow,Sheryl,Industrietonträger,,
+12:43:14
+00:05:25
+Pressegespräch: Schweizer Presse,Kitzler, Jan Christoph,Eigenproduktion,Frei,
+12:48:35
+00:02:49
+Gunslinger,Fogerty,John,Industrietonträger,,
+12:51:46
+00:00:00
+Politisches Feuillton,,,,
+12:51:47
+00:04:49
+Freiwild Radfahrer,Köpf, Peter,Wiederholung,Pflicht,
+12:57:00
+00:02:46
+Put the Sun back,Coral,The,Industrietonträger,,
+12:59:44
+00:00:00
+Länderreport,,,,
+12:59:44
+00:00:00
+Nachrichten 13.00,,,,
+12:59:45
+00:00:12
+MFP Berlin,,Wiederholung,,
+

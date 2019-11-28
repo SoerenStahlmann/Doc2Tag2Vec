@@ -1,0 +1,57 @@
+﻿
+Infotext
+23:00:01
+00:05:03
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:05:04
+00:00:06
+M025 Opener Fazit,,Wiederholung,,
+23:05:09
+00:01:32
+Sunrise/instr...,Sample,Joe,Industrietonträger,,DIGI_SOURCE$#
+23:05:38
+00:00:11
+O-Ton für die Übersicht: Matthias Mitscherlich,Burkert, Martin,Eigenproduktion,,
+23:06:36
+00:02:10
+Café Tabac,Marika Cailly,Industrietonträger,,
+23:09:43
+00:05:21
+1. Kuratorium der Philharmonie Essen zum neuen Intendanten,Burkert, Martin,Eigenproduktion,Pflicht,
+23:15:28
+00:02:14
+Un jour comme un autre,Marika Cailly,Industrietonträger,,
+23:18:28
+00:04:40
+Anselm Weber wird neuer Intendant des Schauspielhauses Bochum,Keim, Stefan,Eigenproduktion,Pflicht,
+23:23:09
+00:02:41
+Les Petits Cafés,Marika Cailly,Industrietonträger,,
+23:25:39
+00:05:58
+Kassel: "Der Drang", Volksstück in drei Akten von Franz Xaver Kroetz,Laages, Michael,Eigenproduktion,Pflicht,
+23:31:31
+00:02:35
+Elle écoute pousser les fleurs,Marika Cailly,Industrietonträger,,
+23:34:49
+00:06:59
+Iranisches Theaterfestival in Köln,Farzanefar, Amin,Eigenproduktion,Pflicht,
+23:42:29
+00:05:53
+Bonn, Bundeskunsthalle: "Ghandara - das Buddhistische Erbe Pakistans",Gondorf, Ulrike,Eigenproduktion,Pflicht,
+23:48:38
+00:01:36
+Elle se réveille,Marika Cailly,Industrietonträger,,
+23:50:43
+00:02:45
+Der Literaturkritiker Reich-Ranicki räumt die deutsche Kulturwelt auf,Müller-Ullrich, Burkhard,Wiederholung,Wiederholung,
+23:53:40
+00:04:18
+Kulturpresseschau 21.11.2008,Orzessek, Arno,Eigenproduktion,Pflicht,
+23:57:59
+00:01:48
+Jardin d'hiver,Marika Cailly,Industrietonträger,,
+
+
+
+

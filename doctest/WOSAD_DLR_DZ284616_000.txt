@@ -1,0 +1,66 @@
+﻿
+Infotext
+23:00:00
+00:05:01
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:05:02
+00:00:07
+M025 Opener Fazit,,Wiederholung,,
+23:05:07
+00:00:22
+O-Ton Bernd Neumann zum Baubeginn des Mahnmals für die Sinti und Roma,Neumann, Bernd,Eigenproduktion,,
+23:06:39
+00:02:28
+Fazit-Musik 19.12.08 Invisible,Hudson,Jennifer,Industrietonträger,,
+23:09:06
+00:00:17
+O-Ton Natascha Winter zum Denkmal für Sinti und Roma,Winter, Natascha,Eigenproduktion,Frei,
+23:09:24
+00:06:39
+Interview zum Baustart für das Denkmal für die ermordeten Sinti u.Roma in Berlin,Zülch, Tilman,Eigenproduktion,Frei,
+23:16:03
+00:00:17
+O-Ton Romani Rose zum Denkmal für Sinti und Roma,Romani, Rose,Eigenproduktion,Frei,
+23:16:20
+00:02:45
+Baustart für das Denkmal für die ermordeten Sinti und Roma in Berlin, Teil 2,Zülch, Tilman,Eigenproduktion,Frei,
+23:19:05
+00:02:14
+Fazit-Musik 19.12.08 Can't stop the rain (CD der Woche),Hudson,Jennifer,0,,
+23:23:49
+00:05:02
+Deutsches Schauspielhaus Hamburg: Aktion "Zahlen Sie soviel Sie können!",Fischer, Ulrich,Eigenproduktion,Pflicht,
+23:26:18
+00:01:56
+Fazit-Musik 19.12.08 I'm his only woman,Hudson,Jennifer,Industrietonträger,,
+23:30:36
+00:07:16
+Theaterkritik: "Der Fremde" nach Albert Camus im Kleinen Haus, Frankfurt/M.,Gampert, Christian,Eigenproduktion,Pflicht,
+23:35:10
+00:01:48
+Fazit-Musik 19.12.08 Giving Myself,Hudson,Jennifer,Industrietonträger,,
+23:39:15
+00:07:05
+Theaterkritik: "Macbeth" im Wiener Burgtheater; Regie: Stefan Kimmig,Leibold, Christoph,Eigenproduktion,Pflicht,
+23:44:00
+00:01:21
+Fazit-Musik 19.12.08 All dressed in love,Hudson,Jennifer,Industrietonträger,,
+23:45:52
+00:06:09
+"Getty Museum" mit Kunst aus Dresden,Zilm, Kerstin,Eigenproduktion,Pflicht +20%,
+23:52:05
+00:01:47
+Fazit-Musik 19.12.08 Spotlight,Hudson, Jennifer,Industrietonträger,,
+23:53:48
+00:00:50
+Weihnachtsgeschenktipps von Prominenten: Denis Scheck, Literaturkriker,Raith, Anne,Eigenproduktion,Frei,
+23:54:56
+00:03:39
+Kulturpresseschau,Hatting, Andre,Eigenproduktion,Pflicht +20%,
+23:58:47
+00:01:00
+Fazit-Musik 19.12.08 We goin' fight (CD der Woche),Hudson,Jennifer,0,,
+
+
+
+

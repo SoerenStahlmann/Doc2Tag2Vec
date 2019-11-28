@@ -1,0 +1,114 @@
+﻿
+Infotext
+16:00:29
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+16:00:42
+00:00:53
+OZN 15 h / Regierung will längere Staatsgarantien statt Bad Bank,Weidemann, Michael,Übernahmen,,
+16:01:50
+00:00:53
+OZN  14 h / München/ Bayern LB machte 2008 Verlust von 5 Mill. Euro,Schönlau, Paul-Friedrich,Übernahmen,,
+16:03:04
+00:00:55
+OZN 15 Urteil im Liechtensteinprozess,Jahros, Rainer,Übernahmen,,
+16:04:18
+00:00:46
+OZN 16 Bundesdelegiertenkonferenz der Bündnis-Grünen,Laubis, Günther,Übernahmen,,
+16:05:25
+00:00:41
+OZN 16 Nkunda in Ruanda festgenommen,Dohrenbusch, Wim,Übernahmen,,
+16:06:41
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+16:06:46
+00:00:20
+Mod: Begrüßung,Vorschau,König, Jürgen,0,,
+16:07:22
+00:01:13
+Concheperla,Novalima,Industrietonträger,,
+16:08:32
+00:00:00
+Musik,,,,
+16:08:32
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+16:08:39
+00:04:22
+Ultraschall - 10 Jahre Festival für neue Musik,Pöllmann, Rainer,Eigenproduktion,,
+16:12:58
+00:02:35
+Exotica (Ausschnitt),Kagel, Mauricio,Eigenproduktion,,
+16:15:25
+00:06:42
+Ultraschall Gespräch,Pöllmann, Rainer,Eigenproduktion,,
+16:22:06
+00:02:12
+Ensemblekonzert 3 (Ausschnitt),Goldmann, Friedrich,Eigenproduktion,,
+16:26:27
+00:03:19
+Ultraschall Gespräch,Pöllmann, Rainer,Eigenproduktion,,
+16:27:32
+00:01:43
+Rojagdad (Ausschnitt),Odeh-Tamimi, Samir,Eigenproduktion,,
+16:29:57
+00:00:00
+Kulturnachrichten,,,,
+16:29:57
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+16:30:04
+00:03:21
+Kulturnachrichten,,Eigenproduktion,,
+16:33:23
+00:00:29
+Wurfpaket 3171 - 23.01.09 - P6,div.,Eigenproduktion,,
+16:33:52
+00:00:00
+Kritik,,,,
+16:33:52
+00:00:07
+M128 DLRK Hörbuch,,Wiederholung,,DIGI_SOURCE$#
+16:34:34
+00:04:58
+Hörbuch : 2001 - Odyssee im Weltraum,Schneider, Wolfgang,Wiederholung,Wiederholung,
+16:40:06
+00:02:52
+Kulturtipps, Freitag, 23.09.2009 - 16.40 Uhr,von Schenck, Susanne,Eigenproduktion,,
+16:42:59
+00:00:42
+Trailer Lange Nacht EINSATZ 23.01.2009 ("HEUTE NACHT 0.05 Uhr"),Höhne, Rita,Wiederholung,,
+16:43:41
+00:00:00
+Musik,,,,
+16:43:41
+00:00:08
+M189 Musik Klavier II (für RF),Braunschmid,Wiederholung,,
+16:44:16
+00:04:22
+Camote,Novalima,Industrietonträger,,
+16:48:38
+00:01:10
+MusikMod,Kupferberg, Shelly,Wiederholung,,
+16:49:46
+00:03:35
+Bolero,Novalima,Industrietonträger,,
+16:53:32
+00:00:07
+M301 Rubrik DVD-Tipp (für RF),DLRK,Wiederholung,,
+16:53:39
+00:00:37
+Anmod.,König, Jürgen,0,,
+16:54:14
+00:04:52
+DvD-Tipp: "Marquis" von Henri Xhonneur,Leweke, Anke,Eigenproduktion,,
+16:59:44
+00:00:00
+Ortszeit 17 Uhr,,,,
+16:59:44
+00:00:00
+Nachrichten 17.00,,,,
+16:59:45
+00:00:12
+MFP München,,Wiederholung,,
+

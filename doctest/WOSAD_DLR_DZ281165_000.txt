@@ -1,0 +1,111 @@
+﻿
+Infotext
+10:00:32
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+10:01:12
+00:00:41
+OZN 6 Weltfinanzgipfel beginnt mit Abendessen bei Bush,Aischmann, Frank,Übernahmen,,
+10:02:15
+00:00:43
+OZN 10 Expertenvorschläge zu Managerbezügen, Hedgefonds und Ratingagenturen,Heinrich, Claus,Übernahmen,,
+10:03:42
+00:00:57
+OZN 10 Bundestags-Beschlüsse zu VW, Maut, Elterngeld,Kossakowski, Stanislaus,Übernahmen,,
+10:05:13
+00:00:53
+OZN 9 Vor Grünen-PT: Al-Wazir plädiert für ehrgeizige Klimaziele,Al-Wazir, Tarek, Mitglieg im Parteirat, Fraktionschef der hessischen Grünen,Wiederholung,,
+10:06:42
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+10:06:46
+00:00:52
+Mod: Begrüßung,Vorschau,Führer, Susanne,0,,
+10:07:37
+00:00:40
+Dein Freund sieht  aus wie ein Mädchen,The Tim,Industrietonträger,,
+10:08:35
+00:00:56
+"Mi tradì" aus: "Don Giovanni",Dasch, Annette,Industrietonträger,,
+10:09:30
+00:00:05
+M149 DLRK Das Feuilleton Pressegespräch,,Wiederholung,,
+10:09:36
+00:06:45
+Feuilletonpressegespräch: Frankfurter Rundschau,Michalzik, Peter,Eigenproduktion,Frei,
+10:16:24
+00:01:10
+Teaser Essigs Essenzen VERSION " mit Hörer 14.11.2008,Kreuzahler,Eigenproduktion,,
+10:17:34
+00:00:00
+Musik,,,,
+10:17:34
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+10:18:09
+00:04:24
+"Come scoglio" aus: "Così fan tutte",Dasch, Annette,Industrietonträger,,
+10:23:36
+00:04:34
+"Dove sono" aus: "Le nozze di Figaro",Dasch, Annette,Industrietonträger,,
+10:28:30
+00:00:57
+Trailer Länderreport 14.11.2008 ("heute 13.07 Uhr"),Scholz, Sonja,Wiederholung,,
+10:29:49
+00:00:00
+Kulturnachrichten,,,,
+10:29:49
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+10:29:56
+00:02:50
+Kulturnachrichten,,Eigenproduktion,,
+10:32:44
+00:00:00
+Kritik,,,,
+10:32:44
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+10:32:51
+00:06:55
+Literatur: "Revolutionen" u.a. von Jean-Marie Gustave Le Clézio,Krause, Tilman,Eigenproduktion,Pflicht,
+10:39:43
+00:02:58
+Kulturtipps - Freitag, 14. November 2008 - 10.40 Uhr,Krüger, Roland,Eigenproduktion,,
+10:42:44
+00:00:48
+Trailer Konzert 14.11.2008 ("heute 20.03 Uhr"),Lang, Stefan,Wiederholung,,
+10:43:32
+00:00:00
+Musik,,,,
+10:43:32
+00:00:10
+M190 Musik Pop II (für RF),Braunschmid,Wiederholung,,
+10:43:59
+00:03:37
+Dein Freund sieht  aus wie ein Mädchen,The Tim,Industrietonträger,,
+10:48:34
+00:03:17
+Ich möchte, dass Amerika mein Zimmer angreift,The Tim,Industrietonträger,,
+10:51:57
+00:00:57
+Wurfpaket 5405 - 14.11.08 - P2,diverse,Eigenproduktion,,
+10:52:53
+00:00:00
+Profil,,,,
+10:52:53
+00:00:08
+M276 Rubrik Chor der Woche,,0,,
+10:53:21
+00:05:36
+Profil: Choralschola Lehnin,Richter, Gerhard,Eigenproduktion,Pflicht +15%,
+10:59:44
+00:00:00
+Radiofeuilleton (11 - 12),,,,
+10:59:44
+00:00:00
+Nachrichten 11.00,,,,
+10:59:44
+00:00:12
+MFP Marburg,,Wiederholung,,
+

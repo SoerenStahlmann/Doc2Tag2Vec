@@ -1,0 +1,99 @@
+﻿
+Infotext
+13:30:03
+00:00:11
+M041 Opener Kakadu,,Wiederholung,,
+13:34:40
+00:01:58
+Rätsel: Geschenk Knallerbsen,Seliger, Cornelia,Eigenproduktion,Pflicht,
+13:40:29
+00:00:09
+Fenster putzen länger,Winkler,Eigenproduktion,,
+13:40:51
+00:00:06
+Fenster putzen 4,Winkler,Eigenproduktion,,
+13:40:51
+00:00:04
+Fenster putzen kurz,Winkler,Eigenproduktion,,
+13:46:05
+00:00:09
+Fenster putzen länger,Winkler,Wiederholung,,
+13:48:02
+00:00:06
+Fenster putzen 4,Winkler,Wiederholung,,
+13:52:56
+00:00:04
+Fenster putzen kurz,Winkler,Wiederholung,,
+13:54:09
+00:00:04
+Fenster putzen leiser,Winkler,Eigenproduktion,,
+13:59:44
+00:00:00
+Breitband - live,,,,
+13:59:44
+00:00:00
+Nachrichten 14.00,,,,
+13:59:45
+00:00:12
+MFP Gotha,,Wiederholung,,
+	Magazinsendung --> 13:30  Kakadu / Mo-Sa --> Sendeplan
+
+Abteilung:	Bildung und Wissen
+Datum:	27.12.2008
+Zeit:	13:30
+Kostenträger:	46270000
+Bandnr.:	
+Titel:	Spieltag: So läuft 2009
+Moderation:	Ingo Priegnitz
+Redaktion:	Annette Winkler
+Musikredaktion:	Annette Winkler
+Assistenz:	
+Technik:	
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+13:30	Jingle	000'11''	JINGLE KAKADU			
+			Mod. Mit Begrüßung (evtl. auf Musik)			
+						
+
+13:31	CD	000'00''	Interpret			
+	Track		Musiktitel	Gema		
+			von CD:			
+	Intro:					
+			K:			
+			LC			
+
+13:40	CD	000'00''	Interpret			
+	Track		Musiktitel	Gema		
+			von CD:			
+	Intro:					
+			K:			
+			LC			
+
+13:48	CD	000'00''	Interpret			
+	Track		Musiktitel	Gema		
+			von CD:			
+	Intro:					
+			K:			
+			LC			
+
+13:57	CD	000'00''	Interpret			
+	Track		Musiktitel	Gema		
+			von CD:			
+	Intro:					
+			K:			
+			LC			
+
+
+			Spiel: So läuft 2009			
+						
+			.			
+			Autor: Ingo Priegnitz			
+
+	dira	  1'59''	Rätsel: Knallerbsen	winkler		
+				hon.		
+			.			
+			Autor: Cornelia Seliger			
+
+

@@ -1,0 +1,63 @@
+﻿
+Infotext
+23:00:00
+00:04:46
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:04:47
+00:00:07
+M025 Opener Fazit,,Wiederholung,,
+23:04:52
+00:00:14
+O-Ton 1 Karl Valentin,Langer, Michael,Eigenproduktion,,
+23:05:06
+00:01:28
+Hot chili pepper/instr....,McBride,Joe,Industrietonträger,,
+23:06:30
+00:02:20
+King Of Sorrow,Adu, Sade,Industrietonträger,,
+23:09:32
+00:00:23
+O-Ton Tillich,Tillich, Stanislaw,Eigenproduktion,Frei,
+23:10:02
+00:00:23
+O-Ton Putin,Putin, Wladimir,Eigenproduktion,Frei,
+23:10:26
+00:05:53
+Vladimir Putin erhält den "Sächsischen Dank-Orden" im Rahmen des Opernballs,Gerlach, Alexandra,Eigenproduktion,Pflicht,
+23:16:16
+00:01:58
+Sweetest Taboo,Adu, Sade,Industrietonträger,,
+23:20:32
+00:07:24
+Ausstellung Fridericianum Kassel: Rirkrit Tiravanija, Cyprien Gaillard,Marc Bijl,Probst, Carsten,Eigenproduktion,Pflicht,
+23:25:23
+00:01:46
+No Ordinary Love,Adu, Sade,Industrietonträger,,
+23:30:44
+00:04:47
+Alice Salomon Poetik Preis 2009: Vorlesung der Preisträgerin Rebecca Horn,Orzessek, Arno,Eigenproduktion,Pflicht,
+23:31:42
+00:02:01
+Never As Good As The First Time,Adu, Sade,Industrietonträger,,
+23:35:37
+00:06:13
+Thalia-Theater Hamburg: Goethes "Urfaust" inszeniert von Andreas Kriegenburg,Laages, Michael,Eigenproduktion,Pflicht,
+23:39:39
+00:02:29
+Paradise,Adu, Sade,Industrietonträger,,
+23:44:52
+00:07:03
+Karl Valentin Orden 2009 geht an Hape Kerkeling - Edmund Stoiber hält Laudatio,Cordsen, Knut,Eigenproduktion,Pflicht,
+23:49:01
+00:02:31
+Your Love Is King,Adu, Sade,Industrietonträger,,
+23:51:50
+00:04:13
+Kulturpresseschau,Ufer, Gesa,Eigenproduktion,Pflicht,
+23:56:03
+00:03:43
+By Your Side,Adu, Sade,Industrietonträger,,
+
+
+
+

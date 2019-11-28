@@ -1,0 +1,114 @@
+﻿
+Infotext
+15:00:29
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:00:44
+00:00:53
+OZN 15 h / Regierung will längere Staatsgarantien statt Bad Bank,Weidemann, Michael,Übernahmen,,
+15:01:52
+00:00:53
+OZN  14 h / München/ Bayern LB machte 2008 Verlust von 5 Mill. Euro,Schönlau, Paul-Friedrich,Übernahmen,,
+15:03:08
+00:00:55
+OZN 15 Urteil im Liechtensteinprozess,Jahros, Rainer,Übernahmen,,
+15:04:30
+00:00:40
+OZN 11 Insolvenzantrag von Qimonda,Vieweger, Hans-Joachim,Übernahmen,,
+15:05:37
+00:00:40
+OZN 15 Islands Ministerpräsident Geir Haarde tritt zurück,Breitschuh, Albrecht,Übernahmen,,
+15:06:52
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:06:57
+00:00:51
+Mod: Begrüßung,Vorschau,König, Jürgen,0,,
+15:07:47
+00:00:46
+Just like me,Jamie Foxx,Industrietonträger,,
+15:08:43
+00:00:50
+Sinfonie Nr. 102, Finale, Presto,Rattle, Simon/City of Birmingham Symphonie Orch.,Industrietonträger,,
+15:09:32
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:10:21
+00:01:56
+Ekologie - die Ekelbücher von Sylvia Branzei,Winker, Aurelie,Eigenproduktion,,
+15:12:18
+00:08:17
+Ekelkunde macht Berliner Schülern das Fach Biologie schmackhaft,Tempelhoff, Anja,Eigenproduktion,,
+15:20:18
+00:00:00
+Musik,,,,
+15:20:35
+00:00:09
+M160 Musik World (für RF),,Wiederholung,,
+15:21:09
+00:03:21
+Sinfonie Nr. 102, Largo - Vivace,Rattle, Simon/City of Birmingham Symphonie Orch.,Industrietonträger,,
+15:24:30
+00:01:10
+MusikMod,Kupferberg, Shelly,Wiederholung,,
+15:25:14
+00:04:36
+Sinfonie Nr. 102, Finale, Presto,Rattle, Simon/City of Birmingham Symphonie Orch.,Industrietonträger,,
+15:30:00
+00:00:00
+Kulturnachrichten,,,,
+15:30:12
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+15:30:19
+00:03:20
+Kulturnachrichten,,Eigenproduktion,,
+15:33:38
+00:01:07
+Teaser Debatte 23.01.2009   14:50  &  15:40,Kreuzahler, Nadine,Wiederholung,,
+15:34:45
+00:00:00
+Kritik,,,,
+15:34:45
+00:00:06
+M162 Rubrik Ihr Buchhändler empfiehlt,,0,,
+15:34:50
+00:06:28
+Buchhändler im Gespräch: Thomas Brüssel, Meckenheim,Brüssel, Thomas,Eigenproduktion,Frei,
+15:41:18
+00:02:47
+Kulturtipps - Freitag, 23.01.2009 - 15.40 Uhr,Wenzel, Tobias,Eigenproduktion,,
+15:44:07
+00:01:46
+Wurfpaket 5632 - 23.01.09 - P5,div.,Eigenproduktion,,
+15:45:53
+00:00:00
+Musik,,,,
+15:45:53
+00:00:12
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+15:46:19
+00:02:48
+I don't need it,Jamie Foxx,Industrietonträger,,
+15:50:17
+00:01:33
+MusikMod,Kupferberg, Shelly,Wiederholung,,
+15:50:26
+00:02:38
+She got her own,Jamie Foxx,Industrietonträger,,
+15:53:16
+00:00:07
+M118 DLRK Debatte,,Wiederholung,,
+15:53:23
+00:06:24
+Debatte: Schiller, Haydn, Händel,König, Jürgen + Hörer,Eigenproduktion,,
+15:59:44
+00:00:00
+Radiofeuilleton (16 - 17),,,,
+15:59:44
+00:00:00
+Nachrichten 16.00,,,,
+15:59:45
+00:00:12
+MFP Stassfurt,,Wiederholung,,
+

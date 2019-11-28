@@ -1,0 +1,120 @@
+﻿
+Infotext
+09:00:24
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+09:00:43
+00:00:59
+OZN 6  Sicherheitsrat einigt sich auf Gaza-Resolution,Bodewein, Lena,Übernahmen,,
+09:02:08
+00:00:37
+OZN 9 Israelisches Sicherheitskabinett berät über UN-Resolution,Verenkotte, Clemens,Übernahmen,,
+09:03:10
+00:00:58
+OZN 8 Gazprom und Naftogas wollen Verhandlungen fortsetzen - Einigung unsicher,Nagel, Christina,Übernahmen,,
+09:04:31
+00:00:52
+OZN 9 Oberegger: Rettungsfonds ist Chance,Oberegger, Peter, Chef des Familienunterhemens VORWERK,Eigenproduktion,,
+09:05:50
+00:00:51
+OZN 8 Reaktionen auf Commerzbankeinstieg,Kleber, Mark,Übernahmen,,
+09:07:03
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+09:07:08
+00:01:01
+Begrüßung,Vorschau,Heise, Katrin,0,,
+09:08:08
+00:00:30
+Good Times Bad Times,Led Zeppelin,Industrietonträger,,
+09:09:02
+00:00:34
+Running,Kitchell, Sonya,Industrietonträger,,
+09:09:34
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+09:10:04
+00:01:29
+Inbegriff der Heuschrecke: David Montgomery und seine Mecom-Zeitungsgruppe,Meyer, Michael,Eigenproduktion,,
+09:11:33
+00:08:22
+Spart ein Verleger anders als eine Heuschrecke? Berliner Verlag soll zu Dumont,Ridder, Michael,Eigenproduktion,Ja,
+09:19:33
+00:00:00
+Musik,,,,
+09:19:55
+00:00:08
+M121 Musik Flöte (für RF),,Wiederholung,,
+09:20:28
+00:03:28
+Every Drop,Kitchell, Sonya,Industrietonträger,,
+09:23:57
+00:01:34
+Musikpräsentation,Burg, Susanne,Eigenproduktion,,
+09:25:29
+00:03:18
+Here to There,Kitchell, Sonya,Industrietonträger,,
+09:29:12
+00:00:56
+Trailer Themenwoche Jugendkriminalität   9.1.09 (OZ 5-9),Voigtländer, Roswitha,Eigenproduktion,,
+09:30:00
+00:00:00
+Kulturnachrichten,,,,
+09:30:07
+00:00:05
+M019 Kulturnachrichten,,,,
+09:30:14
+00:03:03
+Kulturnachrichten,,Eigenproduktion,,
+09:33:12
+00:00:00
+Kritik,,,,
+09:33:15
+00:00:05
+M131 DLRK Sachbuch,,,,DIGI_SOURCE$#
+09:33:22
+00:06:19
+"Helden - David Bowie und Berlin" von Tobias Rüther / Rogner & Bernhard, 2008,Wohlmacher, Uwe,Eigenproduktion,,
+09:39:38
+00:02:58
+Kulturtipps - Freitag, 09.01.2009 - 09.40 Uhr,Rindler, Haino,Eigenproduktion,,
+09:42:38
+00:01:05
+Wurfpaket 5620 - 09.01.09 - P1,div.,Eigenproduktion,,
+09:43:43
+00:00:00
+Musik,,,,
+09:43:43
+00:00:11
+M191 Musik Rock II (für RF),Braunschmid,Co-Produktion,,
+09:44:26
+00:03:01
+Think about it,The Yardbirds,Industrietonträger,,
+09:47:27
+00:01:08
+Musikpräsentation,Burg, Susanne,Eigenproduktion,,
+09:48:35
+00:01:44
+Liquid Mercury,Page, Jimmy,Industrietonträger,,
+09:51:11
+00:02:38
+Good Times Bad Times,Led Zeppelin,Industrietonträger,,
+09:51:38
+00:00:55
+Musikpräsentation,Burg, Susanne,Eigenproduktion,,
+09:53:55
+00:00:00
+Kalenderblatt,,,,
+09:53:55
+00:00:05
+M101 Kalenderblatt (mit DLRK),,,,
+09:54:00
+00:00:49
+Anmod,Heise, Katrin,0,,
+09:54:49
+00:04:34
+Kalenderblatt 09.01. (1929 - Heiner Müller geboren),Opitz, Michael,Eigenproduktion,,
+
+
+
+

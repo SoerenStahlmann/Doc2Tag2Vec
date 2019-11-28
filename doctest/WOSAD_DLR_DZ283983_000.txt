@@ -1,0 +1,96 @@
+﻿
+Infotext
+16:00:22
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+16:00:40
+00:00:55
+OZN 15 EU-Gipfel: Abschluß - Merkel spricht von sehr erfolgreichem Treffen,Plass, Christopher,Übernahmen,,
+16:02:45
+00:00:51
+OZN 13 Konjunkturprogramm des DGB,Weidemann, Michael,Übernahmen,,
+16:03:54
+00:00:45
+OZN 16 Nach Beschwerden bei der Post: mehr Briefträger,Morczinek, Annette,Übernahmen,,
+16:04:58
+00:00:44
+OZN 13 Jahrespressekonferenz der Generalbundesanwaltschaft,Reissenberger, Michael,Übernahmen,,
+16:06:51
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+16:06:56
+00:00:31
+Begrüßung, Vorschau,Meyer, Frank,Eigenproduktion,,
+16:07:40
+00:00:47
+Penny On The Pain Track,Kweller, Ben,Industrietonträger,,
+16:08:43
+00:00:26
+Alabama Song,Milva,Industrietonträger,,
+16:09:10
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+16:09:16
+00:00:47
+Mod.,Meyer, Frank,0,,
+16:10:01
+00:07:45
+Streit um geplantes Haus für europäische Geschichte,Hütter, Hans Walter,Eigenproduktion,Frei,
+16:17:47
+00:01:49
+Wurfpaket 5508 - P6,,Eigenproduktion,,
+16:19:37
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+16:20:03
+00:03:29
+Tango Ballade,Milva,Industrietonträger,,
+16:23:33
+00:01:05
+Musikmod.,Wegner, Matthias,0,,
+16:24:30
+00:05:07
+Canzone dei Marinai,Milva,Industrietonträger,,
+16:29:43
+00:00:07
+M019 Kulturnachrichten,,Wiederholung,,
+16:29:50
+00:03:02
+Kulturnachrichten,,Eigenproduktion,,
+16:32:51
+00:00:07
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+16:33:26
+00:04:52
+Hörbuch: "Die souveräne Leserin" von Alan Bennett / Patmos Verlag,Wenzel, Tobias,Wiederholung,Wiederholung,
+16:38:37
+00:03:03
+Kulturtipps,Nessler, Susanne,Eigenproduktion,,
+16:41:42
+00:00:12
+M191 Musik Rock II (für RF),Braunschmid,Wiederholung,,
+16:42:10
+00:03:02
+I Don't Know Why,Kweller, Ben,Industrietonträger,,
+16:45:12
+00:01:07
+Musikmod.,Wegner, Matthias,0,,
+16:46:13
+00:04:24
+Penny On The Pain Track,Kweller, Ben,Industrietonträger,,
+16:51:06
+00:02:28
+Pleasure to meet you,Woodworth, Andrew Paul,Co-Produktion,,
+16:53:32
+00:00:07
+M301 Rubrik DVD-Tipp (für RF),DLRK,Wiederholung,,
+16:53:39
+00:00:36
+Mod.,Meyer, Frank,0,,
+16:54:13
+00:05:10
+DVD-Tipp Tödliche Entscheidung,Tegeler, Hartwig,Eigenproduktion,Pflicht,
+16:59:43
+00:00:12
+MFP Berlin,,Wiederholung,,
+

@@ -1,0 +1,256 @@
+﻿
+Infotext
+07:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+07:00:55
+00:00:59
+OZN 6 : Neu Delhi: Terror in Bombay - Tag 2,Küstner, Kai,Übernahmen,Übernahme,
+07:02:29
+00:00:52
+OZN 6 : Singapur/Lage in Thailand angespannt Ausnahmezustand am Flughafen,Musch-Borowska, Bernd,Übernahmen,Übernahme,
+07:03:36
+00:00:34
+OZN 6: Abschluß der Haushaltsberatungen,Weidemann, Michael,Übernahmen,Übernahme,
+07:05:09
+00:00:39
+OZN 7 : Bundesrat lehnt BKA-Gesetz vermutlich ab,Hesse, Sebastian,Übernahmen,Übernahme,
+07:06:09
+00:00:50
+OZN/Sport/28.11,jaedicke, thomas,Wiederholung,Pflicht,
+07:07:16
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:07:49
+00:02:55
+Frasi da dimenticare,Silvestri, Daniele,Industrietonträger,,
+07:12:00
+00:07:19
+Lage in Bombay,Matthay, Sabina,Eigenproduktion,,
+07:17:55
+00:02:59
+Allegro aus: Concerto for Flute and Orchestra in A-Dur,I Solisti Veneti,Industrietonträger,,
+07:20:55
+00:00:00
+Politisches Feuillton,,,,
+07:21:39
+00:04:49
+Freiwild Radfahrer,Köpf, Peter,Eigenproduktion,Pflicht,
+07:26:39
+00:02:13
+My Back Pages/...,Byrds,The,Industrietonträger,,
+07:28:50
+00:00:57
+Trailer Einstand 28.11.2008 ("heute 22.00 Uhr"),Malter, Carola,Eigenproduktion,,
+07:29:47
+00:00:00
+Nachrichten 7.30,,,,
+07:29:48
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+07:30:01
+00:04:18
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+07:34:20
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+07:34:58
+00:03:03
+Make It Mine,Mraz, Jason,Industrietonträger,,
+07:38:01
+00:00:09
+Opener Mensch Müller 09.04. lang,Seyffert,Wiederholung,,
+07:38:08
+00:02:31
+"Mensch Müller" - Kaufrausch,Baxmann,Matthias; Eckoldt, Matthias,Eigenproduktion,Pflicht,
+07:40:45
+00:03:33
+Gigha aus: Sonate No.4,Les Musiciens Du Louvre,Industrietonträger,,
+07:44:43
+00:02:27
+Bangkok: Die Lage in Thailand,Musch-Borowska, Bernd,Übernahmen,Übernahme,
+07:47:15
+00:03:37
+From The Sun,Shepard, Vonda,Industrietonträger,,
+07:51:12
+00:07:48
+Steuerdebatte in der Union,Schnappauf, Werner, BDI-Hauptgeschäftsführer,Eigenproduktion,,
+07:58:24
+00:01:23
+Different Pages/Instr.,DiMeola,Al,Industrietonträger,,
+07:59:44
+00:00:00
+Ortszeit (8 - 9),,,,
+07:59:44
+00:00:00
+Nachrichten 8.00,,,,
+07:59:45
+00:00:12
+MFP Marburg,,Wiederholung,,
+
+
+	Magazinsendung --> 05:05  Ortszeit 5-9 / Mo-Sa --> Sendeprotokoll
+
+Abteilung:	Nachrichten und Aktuelles
+Datum:	28.11.2008
+Zeit:	05:05
+Kostenträger:	43460000
+Bandnr.:	
+Titel:	Ortszeit 5-9
+Moderation:	Wuttke
+Redaktion:	Pianka / Hildebrandt
+Musikredaktion:	Hälbig/Neumann
+Assistenz:	Ulbricht
+Technik:	Freimann
+Musik:	ja
+Mitschnitt:	ja
+Tonträger:	
+Tabelleneinträge:	
+05:10		  3'18''	Washington: US-Reaktionen zum Terror			
+			in Bombay			
+			.			
+			Autor: Ralph Sina			
+
+05:15	Beitrag	  4'01''	Berlin: Vor der Entscheidung zum			
+			Berliner  Stadtschloss	Wdhl.		
+			.			
+			Autor:  Marietta Schwarz			
+
+05:20	Beitrag	  3'39''	Tokio: Japans Premier Aso -			
+			der Mann der lockeren Sprüche	Übern.		NR
+			.			
+			Autor: Peter Kujath			
+
+05:40		  4'26''	Berlin: US-Botschafter Timken			
+			verabschiedet sich aus Berlin	frei		
+			.			
+			Autor: Margarete Limberg			
+
+05:44		  4'35''	KALENDERBLATT	Wenner		
+			Vor 100 Jahren:	frei		
+			Der  Ethnologe und Anthropologe 			
+			Claude Lévi-Strauss geboren 			
+			.			
+			Autor: Irene Meichsner			
+
+05:52		  4'33''	Presseschau mit Bernd Hörnle			
+						
+			Themen:			
+			- Terrorangriffe von Bombay			
+
+
+06:10	Beitrag	  3'09''	Berlin: Bundesrat stimmt über BKA-			
+			Gesetz ab			
+			.			
+			Autor: Gudula Geuther			
+
+06:15		  3'16''	Länderreport: Portrait des Dorfes Berlin	Rehfeld		SH
+			in Schleswig-Holstein	Pflicht		
+			.			
+			Autor: Matthias Günther			
+
+06:23		  2'04''	Wort zum Tage (kath.)			
+						
+			.			
+			Autor: Andrea Wilke, Erfurt			
+
+06:40		  4'09''	Aus den Feuilletons			
+				Wdhl.		
+			.			
+			Autor: Arno Orzessek			
+
+06:45	Beitrag	  2'54''	Bombay: Tag 2 nach den Bombenanschlägen			
+			in Bombay	Übern.		NR
+			.			
+			Autor: Kai Küstner			
+
+06:50		  6'35''	Interview I			
+			Indien und der Terror			
+			Kai Hirschmann, stellvertret. Direktor 			
+			des Instituts für Terrorismusforschung 			
+			und Sicherheitspolitik, Essen			
+			handelt sich um neu formierte Gruppe 			
+			aus der Dschihad-Bewegung/benötigten 			
+			nur wenig Planungszeit -Anschläge sind 			
+			neuer Dimension/indische Behörden 			
+			konnten einen solch massiven u. 			
+			kurzfristig geplanten Anschlag kaum 			
+			vorhersagen/junge Leute die etwa in 			
+			Pakistan ausgebildet werden sind nicht 			
+			sofort Terroristen, sind für die 			
+			Geheimdienste nur schwer zu 			
+			überwachen 			
+			.			
+			Autor: Kai Hirschmann			
+
+
+07:10	Live -Ltg	  7'20''	KorrGespräch:			
+			Aktuelle Lage in Bombay			
+						
+			.			
+			Autor: Sabina Matthay			
+
+07:22		  4'50''	Politisches Feuilleton:	Thies		
+			Erlebnisse eines Radfahrers	Pflicht		
+			.			
+			Autor: Dieter Köpf			
+
+07:40		  2'31''	Mensch Müller: Kaufrausch	DEg		
+						
+			.			
+			Autor: Matthias Baxmann/ Matthias 			
+			Eckholdt			
+
+07:45	Beitrag	  2'35''	Bangkok: Die Lage in Thailand			
+				Pflicht		NR
+			.			
+			Autor: Bernd Musch-Borowska			
+
+07:50		  7'48''	Interview II			
+			Die Steuerdebatte in der Union			
+			Werner Schnappauf, 			
+			BDI-Hauptgeschäftsführer 			
+			BDI spricht sich seit März dafür aus, die 			
+			Mittelschicht steuerlich zu entlasten/Weg 			
+			Großbritaniens soll aber nicht gegangen 			
+			werden/Kanzlerin zeigt bisher gutes 			
+			Krisenmanagement/Kreditversorgung 			
+			muss gewährleistet werden, vor allem 			
+			für Mittelständler/Politik u. Wirtschaft 			
+			müssen zusammenstehen/Markt hat 			
+			Priorität gegnüber dem Staat/BDI ist 			
+			bereit Paket mitzutragen, also etwa 			
+			Sicherung d. Kredite			
+			.			
+			Autor: Werner Schnappauf			
+
+
+08:10	LT	  6'50''	''Mediengespräch''			
+			Der Tagesspiegel (Berlin)			
+			Das Berliner Schloß - vor der  			
+			Entscheidung			
+			.			
+			Autor: Matthias Oloew			
+
+08:20		  5'55''	Reportage: ''Wir sind keine Zocker''	sb		NW
+			Lehmann Geschädigte  organisieren sich	Pflicht		
+			.			
+			Autor: Friederike Schulze			
+
+08:40		  7'11''	Zum 100. Geburtstag des			
+			 Anthropolgen Claude-Levi-Strauss,			
+			Gespräch mit Karl-Heinz Kohl, 			
+			Ethnologe, Direktor des 			
+			Frobenius-Instituts in Frankfurt/Main			
+			.			
+			Autor: Karl-Heinz Kohl			
+
+08:50		  3'59''	Kulturtipp	Thies		
+				Pflicht		
+			 Ausstellungstipp: Robert 			
+			Lebeck-Photographie 1955-2005' - 			
+			Martin-Gropius-Bau Berlin			
+			.			
+			Autor: Alicia Rust			
+
+

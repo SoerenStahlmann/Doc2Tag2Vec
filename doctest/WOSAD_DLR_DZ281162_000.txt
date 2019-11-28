@@ -1,0 +1,84 @@
+﻿
+Infotext
+17:00:22
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+17:00:47
+00:00:48
+OZN 17 G20-Weltfinanzgipfel,Heilbrunner, Peter,Übernahmen,,
+17:02:03
+00:00:57
+OZN 16 EU-Russland-Gipfel - die Krise ist überwunden,Becker, Michael,Übernahmen,,
+17:03:23
+00:00:59
+OZN 17 Opel willStaatsbürgschaft,Kuck, Sylvia,Übernahmen,,
+17:04:34
+00:00:54
+OZN 16  Update Telekom Affäre,Hilgers, Jochen,Übernahmen,,
+17:05:42
+00:00:49
+OZN 17 Parteitag Grüne,Mäurer, Dietrich Karl,Übernahmen,,
+17:06:49
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:07:28
+00:03:16
+Put It On Me,Harper, Ben & Innocent Criminals, The,Industrietonträger,,
+17:11:19
+00:02:54
+Berlin: Deutsche Erwartungen an Washingtoner Weltfinanzgipfel,Hinter, Melanie,Eigenproduktion,Wiederholung,
+17:14:13
+00:05:44
+Washington: Was ist aus US-Sicht vom Weltfinanzgipfel zu erwarten?,Remme, Klaus,Eigenproduktion,Frei,
+17:19:58
+00:02:59
+Shanghai: Chinas Rolle beim internationalen Finanzgipfel,Freyeisen, Astrid,Übernahmen,Übernahme,
+17:23:26
+00:02:55
+Bernanke und Trichet,Braun, Michael,Eigenproduktion,Pflicht,
+17:26:21
+00:02:35
+You gotta come down,The Solution,Industrietonträger,,
+17:28:50
+00:04:57
+Erfurt: Die Grünen wollen ihr Spitzenpersonal neu wählen,Thiel, Matthias,Eigenproduktion,Frei,
+17:29:45
+00:00:09
+Erfurt: Die Grünen wollen ihr Spitzenpersonal neu wählen,Thiel, Matthias,Wiederholung,Frei,
+17:33:47
+00:02:56
+Wiesbaden: Abschluss der BKA-Tagung,Krauss, Walter,Übernahmen,,
+17:37:11
+00:02:32
+Jerusalem: Eskalation der Lage um den Gaza-Streifen,Verenkotte, Clemens,Übernahmen,,
+17:40:16
+00:03:06
+Prinz Charles wird 60,Zagatta, Martin,Wiederholung,Frei,
+17:43:23
+00:02:15
+BBC,Velour,Industrietonträger,,
+17:46:02
+00:03:09
+Nizza: EU und Russland beenden Frostperiode,Plass, Christopher,Übernahmen,Übernahme,
+17:49:42
+00:03:34
+Stockholm: Putin, Schweden und der Widerstand gegen die Ostsee-Pipeline,Budde, Alexander,Übernahmen,Übernahme,
+17:53:39
+00:02:27
+Eu-Russland-Kommentar,Simon, Doris,Eigenproduktion,,
+17:56:10
+00:02:38
+Busy Being Fabulous,Eagles,The,Industrietonträger,,
+17:58:48
+00:00:57
+Trailer Wortwechsel 14.11.2008 ("heute 19.07 Uhr"),Wimmersberg, Heidrun,Wiederholung,,
+17:59:44
+00:00:00
+Aus der jüdischen Welt / Shabbat,,,,
+17:59:44
+00:00:00
+Nachrichten 18.00,,,,
+17:59:45
+00:00:12
+MFP DAB,,Wiederholung,,
+

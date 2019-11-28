@@ -1,0 +1,111 @@
+﻿
+Infotext
+14:00:27
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+14:00:50
+00:00:52
+OZN 14 EU-Gipfel: Endspurt für Konjunktur- und Klimapaket,Plass, Christopher,Übernahmen,,
+14:02:04
+00:00:51
+OZN 13 Konjunkturprogramm des DGB,Weidemann, Michael,Übernahmen,,
+14:03:14
+00:00:51
+OZN 13 Lage in Griechenland,Pick, Ulrich,Übernahmen,,
+14:04:24
+00:00:45
+OZN 14/Neu Delhi/Schäuble in Indien,Matthay, Sabina,Übernahmen,Übernahme,
+14:05:37
+00:00:44
+OZN 13 Jahrespressekonferenz der Generalbundesanwaltschaft,Reissenberger, Michael,Übernahmen,,
+14:06:39
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+14:06:44
+00:00:36
+Begrüßung, Vorschau,Meyer, Frank,Eigenproduktion,,
+14:07:19
+00:00:33
+Smack Dab In The Middle,Basie,Count & Williams,Joe,Industrietonträger,,
+14:08:10
+00:00:47
+1. Satz aus: Concerto op. 6 Nr. 7 A-Dur,Il Tempio Armonico,Industrietonträger,,
+14:08:57
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+14:09:04
+00:00:26
+Mod.,Meyer, Frank,0,,
+14:09:27
+00:01:05
+Umfrage: Was bereitet Ihnen vor Weihnachten Stress?,Böttcher, Martin,Eigenproduktion,Frei,
+14:10:33
+00:07:34
+Für eine Entschleunigung der Vorweihnachtszeit,Macho, Thomas,Eigenproduktion,Frei,
+14:18:08
+00:00:47
+Wurfpaket 5506 - P4,,Eigenproduktion,,
+14:18:55
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+14:19:28
+00:02:48
+1. Satz aus: Concerto op. 6 Nr. 12 D-Dur,Il Tempio Armonico,Industrietonträger,,
+14:22:18
+00:01:19
+Musikmod.,Wegner, Matthias,0,,
+14:23:34
+00:03:38
+3. und 4. Satz aus: Concerto op. 6 Nr. 6 F-Dur,Il Tempio Armonico,Industrietonträger,,
+14:27:43
+00:02:16
+Victor Jara's Hands,Calexico,Industrietonträger,,
+14:29:59
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+14:30:07
+00:03:06
+Kulturnachrichten,,Eigenproduktion,,
+14:33:10
+00:00:05
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+14:33:17
+00:05:08
+Belletristik: "Der Schatten der Tiere" von Mathias Gatza / Rowohlt,Döbler, Katharina,Eigenproduktion,,
+14:38:22
+00:03:04
+Kulturtipps,Nessler, Susanne,Eigenproduktion,,
+14:41:29
+00:00:56
+Trailer Konzert ("heute 20.03 Uhr"),Pöllmann, Rainer,Wiederholung,,
+14:42:25
+00:00:11
+M188 Musik Free Jazz (für RF),Brauschmid,Wiederholung,,
+14:42:52
+00:03:34
+Smack Dab In The Middle (1),Basie,Count & Williams,Joe,Industrietonträger,,
+14:46:27
+00:01:41
+Musikmod.,Wegner, Matthias,0,,
+14:48:07
+00:03:29
+Great Camp Meeting,Williams, Joe,Industrietonträger,,
+14:51:45
+00:01:13
+Teaser Debatte,Ameln, Leonard,Eigenproduktion,,
+14:52:59
+00:00:08
+M137 DLRK Kolumne,,Wiederholung,,
+14:53:07
+00:00:15
+Mod.,Meyer, Frank,0,,
+14:53:20
+00:05:20
+Kolumne: Meine Woche,Stratmann, Jürgen,Eigenproduktion,,
+14:58:41
+00:01:01
+Mod.,Meyer, Frank,0,,
+14:59:43
+00:00:12
+MFP Eutin,,Wiederholung,,
+

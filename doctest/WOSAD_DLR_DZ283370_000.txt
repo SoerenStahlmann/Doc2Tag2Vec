@@ -1,0 +1,51 @@
+﻿
+Infotext
+22:30:03
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+22:30:50
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:31:47
+00:03:13
+Bundesrat billigt Konjunkturpaket und Erbschaftssteuerreform,Heckmann, Dirk Oliver,Eigenproduktion,Wiederholung,
+22:35:24
+00:02:29
+Bundestag Arbeitsmarkt-Debatte,Baum, Andreas,Eigenproduktion,Wiederholung,
+22:38:26
+00:02:36
+Kommentar - Merkel allein zu Hause,Labuhn, Wolfgang,Eigenproduktion,,
+22:41:06
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+22:41:09
+00:03:19
+Nachrichten-Block 1,,Eigenproduktion,,
+22:44:26
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+22:44:42
+00:00:44
+Börse,Pohl, Konrad,Übernahmen,,
+22:45:54
+00:03:16
+Berlin :  Bundeswehr gegen Piraten,Groth, Michael,Wiederholung,Übernahme,
+22:49:34
+00:02:41
+Johannesburg: Simbabwe am Abgrund - Druck auf Mugabe wächst,Stäcker, Claus,Übernahmen,Übernahme,
+22:52:43
+00:02:30
+Moskau: Patriarch Alexi II gestorben,Baag, Robert,Eigenproduktion,Wiederholung,
+22:55:13
+00:00:06
+M009 DropIn Sport,,Wiederholung,,
+22:55:45
+00:00:54
+Fußball: Bundesliga München - Hoffenheim Flash,Pull, Hans-Peter,Übernahmen,Nein,
+22:56:53
+00:00:49
+Fußball: 2.Liga Mainz-Füreth Flash Achim Scheu,Scheu, Achim,Übernahmen,Nein,
+22:59:46
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+

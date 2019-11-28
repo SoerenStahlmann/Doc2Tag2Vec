@@ -1,0 +1,81 @@
+﻿
+Infotext
+17:00:26
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+17:00:57
+00:00:49
+OZN 17 EU-Gipfel: Einigung bei Klimaschutz,Heilbrunner, Peter,Übernahmen,,
+17:02:18
+00:00:54
+OZN 17 Geiteiltes Echo auf Brüssel beim UNO-Klima-Gipfel in Posen,Rautenberg, Thomas,Übernahmen,,
+17:03:34
+00:00:49
+OZN 17 Bush Regierung will Autobauer retten,Ziegler, Albrecht,Übernahmen,,
+17:04:50
+00:00:46
+OZN 17 Erneut Krawalle in Griechenland,Pick, Ulrich,Übernahmen,,
+17:05:52
+00:00:44
+OZN 17 Simbabwe: Cholera Epidemie "Völkermord durch die Briten",Stäcker, Claus,Übernahmen,,
+17:06:50
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:07:54
+00:02:42
+Mercy,Duffy,Industrietonträger,,
+17:10:26
+00:00:42
+Mod,,0,,
+17:11:06
+00:04:10
+Brüssel: Abschluss des EU-Gipfels,Schütte, Christian,Eigenproduktion,Frei,
+17:15:17
+00:00:22
+Mod,,0,,
+17:15:29
+00:05:39
+Bielefeld: Neue Chance für Lissabon-Vertrag?/Gespr.,Vannahme, Joachim-Fritz; Bertelsmann-Stiftung,Eigenproduktion,,
+17:21:19
+00:03:13
+Brüssel: Neue Einigkeit in der EU?/Kommentar,Simon, Doris,Eigenproduktion,Frei,
+17:25:14
+00:04:08
+Hoffen auf besser Zusammenarbeit - US-Botschafter über das Verhältnis zur EU,Zilm, Kerstin,Eigenproduktion,Pflicht +20%,
+17:29:22
+00:01:55
+I Think we are lost,Sexsmith,Ron,Industrietonträger,,
+17:31:08
+00:04:10
+Hilfspaket für US-Autoindustrie (vorerst) gescheitert - Gespräch,Remme, Klaus,Eigenproduktion,Frei,
+17:32:16
+00:00:08
+Hilfspaket für US-Autoindustrie (vorerst) gescheitert - Gespräch,Remme, Klaus,Wiederholung,Frei,
+17:35:18
+00:03:11
+Generalbundesanwaltschaft - RAF und Islamismus,Wolf, Bernd,Übernahmen,Frei,
+17:38:52
+00:01:45
+Istanbul: Situation in Griechenland,Pick, Ulrich,Übernahmen,Übernahme,
+17:40:59
+00:02:18
+Süden Österreichs versinkt im Schnee,Paas, Jörg,Übernahmen,Frei,
+17:43:17
+00:02:34
+No Regrets,Smokestack Lightnin',Industrietonträger,,
+17:46:18
+00:03:34
+Johannesburg: Simbabwes Rivalen Mugabe und Tsvangirai,Stäcker, Claus,Eigenproduktion,Übernahme,
+17:49:53
+00:06:09
+Johannesburg: Wer hat noch Einfluß auf Mugabe?/Gespr.,Räther, Frank,Eigenproduktion,Pflicht,
+17:55:58
+00:02:52
+They call her the cat/...,John,Elton,Industrietonträger,,
+17:58:48
+00:00:56
+Trailer Konzert 12.12.2008 ("heute 20.03 Uhr"),Pöllmann, Rainer,Wiederholung,,
+17:59:45
+00:00:12
+MFP Norderstedt 105,5,,Wiederholung,,
+

@@ -1,0 +1,57 @@
+﻿
+Infotext
+23:00:00
+00:05:00
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:05:01
+00:00:07
+M025 Opener Fazit,,Wiederholung,,
+23:05:07
+00:01:32
+Little Smile/Instr.,Down To The Bone,Industrietonträger,,
+23:05:41
+00:00:09
+Heiner Müller liest aus seiner Autobiographie,Müller, Heiner,Wiederholung,Frei,
+23:06:36
+00:02:11
+Here to There,Kitchell, Sonya,Industrietonträger,,
+23:08:43
+00:06:35
+B.K. Tragelehn-  Regisseur der ersten Stunde zum 80. von Heiner Müller,Tragelehn, Bernhard Klaus,Eigenproduktion,Frei,
+23:15:18
+00:06:14
+Linz: Eröffnung der Opernsaison mit Franz Hummels "Joseph Fouché",Doppler, Bernhard,Eigenproduktion,Pflicht,
+23:15:18
+00:01:59
+Effortless,Kitchell, Sonya,Industrietonträger,,
+23:19:32
+00:06:14
+Paris- Théâtre National de la Colline:  Thomas Bernhard "Minetti",Spreng, Eberhard,Eigenproduktion,Pflicht,
+23:23:25
+00:02:05
+Every Drop,Kitchell, Sonya,Industrietonträger,,
+23:26:54
+00:06:26
+Oberhausen: (I)"Altweibersommer" nach A. L. Kennedy - Regie Peter Carps,Keim, Stefan,Eigenproduktion,Pflicht,
+23:31:51
+00:02:16
+Fire,Kitchell, Sonya,Industrietonträger,,
+23:39:56
+00:02:35
+Running,Kitchell, Sonya,Industrietonträger,,
+23:43:43
+00:07:07
+Im RTL- Dschungelcamp: Die Obdachlosen des Glamour- Betriebs,Gäbler, Bernd,Eigenproduktion,Pflicht,
+23:49:33
+00:02:31
+Borderline,Kitchell, Sonya,Industrietonträger,,
+23:52:18
+00:04:05
+Kulturpresseschau,Brüning, Jens,Eigenproduktion,Pflicht,
+23:56:28
+00:03:19
+This Storm,Kitchell, Sonya,Industrietonträger,,
+
+
+
+

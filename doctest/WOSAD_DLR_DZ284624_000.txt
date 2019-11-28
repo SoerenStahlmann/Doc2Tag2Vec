@@ -1,0 +1,111 @@
+﻿
+Infotext
+10:00:21
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+10:01:28
+00:00:31
+OZN7/10 Berlin: Bundestag berät abschließend über Piratenjagd am Golf von Aden,Kostolnik, Barbara,Übernahmen,,
+10:02:31
+00:00:32
+OZN9 Berlin: Bundesinnenminister Wolfgang Schäuble über ein mögliches NPD-Verbo,Schäuble, Wolfgang,Übernahmen,,
+10:03:23
+00:00:44
+OZN7 Berlin: Bundeskanzlerin Merkel kündigt Nachtragshaushalt an,Welty, Ute,Übernahmen,,
+10:05:17
+00:00:39
+OZN6/8 Washington: Gefangenenlager Guantanamo soll geschlossen werden,Sina, Ralph,Übernahmen,,
+10:06:18
+00:00:41
+OZN6  Gaza: Ende der Waffenruhe zwischen Israel und Hamas,Engelbrecht, Sebastian,Übernahmen,,
+10:07:10
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+10:07:15
+00:00:39
+Mod: Begrüßung,Vorschau,Heise, Katrin,0,,
+10:07:55
+00:01:17
+Oh mio babbino Caro,Westenra, Hayley,0,,
+10:09:32
+00:00:34
+Allegro vivace,Tafelmusik Orchestra; Weil, Bruno,Industrietonträger,,
+10:10:06
+00:00:05
+M149 DLRK Das Feuilleton Pressegespräch,,Wiederholung,,
+10:10:12
+00:08:46
+Feuilleton Pressegespräch: Das Kunstmagazin "ART",Schlüter, Ralf,Eigenproduktion,Frei,
+10:18:56
+00:00:49
+Teaser Essigs Essenzen 19.12.2008 - 9:50 und 10:20 Uhr,Hock, Katharina,Wiederholung,,
+10:19:45
+00:00:00
+Musik,,,,
+10:19:45
+00:00:10
+M016 Musik Klassik (für RF),,Wiederholung,,
+10:20:17
+00:03:07
+Allegretto,Tafelmusik Orchestra; Weil, Bruno,Industrietonträger,,
+10:23:32
+00:04:58
+Allegro con brio,Tafelmusik Orchestra; Weil, Bruno,Industrietonträger,,
+10:28:57
+00:00:39
+Trailer Feature - Einsatz 19.12.2008 ("morgen 18.05 Uhr"),Matejka, Robert,Wiederholung,,
+10:29:36
+00:00:00
+Kulturnachrichten,,,,
+10:29:36
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+10:29:43
+00:03:41
+Kulturnachrichten,,Eigenproduktion,,
+10:32:41
+00:00:00
+Kritik,,,,
+10:33:23
+00:00:06
+M131 DLRK Sachbuch,,Wiederholung,,DIGI_SOURCE$#
+10:33:27
+00:06:53
+Sachbuch:"Gisèle Freund" von Bettina  de Cosnac / Arche Verlag,Abenstein, Edelgard,Eigenproduktion,Pflicht,
+10:40:25
+00:03:11
+Kulturtipps - Freitag, 19.12.2008 - 10.40 Uhr,Petermann, Jutta,Eigenproduktion,,
+10:43:39
+00:01:42
+Wurfpaket 5547 - 19.12.08 - P1,div.,Eigenproduktion,,
+10:45:21
+00:00:00
+Musik,,,,
+10:45:21
+00:00:09
+M122 Musik Cello (für RF),,Wiederholung,,
+10:45:45
+00:03:39
+Both Sides Now,Westenra, Hayley,0,,
+10:50:52
+00:02:18
+Summerrain,Westenra, Hayley,0,,
+10:53:13
+00:00:00
+Profil,,,,
+10:53:13
+00:00:08
+M276 Rubrik Chor der Woche,,0,,
+10:53:43
+00:05:54
+Profil: Cantamus-Chor Magdeburg,Arlt, Susanne,Eigenproduktion,,
+10:59:44
+00:00:00
+Radiofeuilleton (11 - 12),,,,
+10:59:44
+00:00:00
+Nachrichten 11.00,,,,
+10:59:45
+00:00:12
+MFP Oebisfelde,,Wiederholung,,
+

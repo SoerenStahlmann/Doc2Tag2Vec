@@ -1,0 +1,48 @@
+﻿
+Infotext
+17:00:01
+00:05:23
+NACHRICHTEN (eigene),,Eigenproduktion,,
+17:05:25
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+17:06:47
+00:03:05
+Ahmadineschads TV-Rede: Empörung in Großbritannien,Wesel, Barbara,Übernahmen,Übernahme,
+17:10:22
+00:03:10
+Israel gestattet Hilfe für Gaza - Armee bereit für Schlag gg. Hamas,Verenkotte, Clemens,Übernahmen,Übernahme,
+17:13:59
+00:01:18
+Nach Raketenfund im Südlibanon - UNO-Truppen alarmbereit,Leidholdt, Ulrich,Übernahmen,Übernahme,
+17:15:51
+00:04:33
+Konjunkturdebatte mit O-Ton MP Böhmer,Capellan, Frank,Eigenproduktion,Nein,
+17:21:00
+00:02:36
+4 Jahre Tsunami - Lage in Aceh und Thailand,Glass, Nicola,Übernahmen,Übernahme,
+17:24:07
+00:02:50
+Eartha Kitt - Nachruf,Paulert, Rüdiger,Übernahmen,Wiederholung,
+17:27:13
+00:02:25
+I watcha around,Kitt,Eartha,Industrietonträger,,
+17:29:38
+00:00:00
+Nachspiel,,,,
+17:29:38
+00:00:08
+M010 Opener Nachspiel,,Wiederholung,,
+17:29:44
+00:30:04
+Höhenbergsteigen-Traum oder Albtraum,Vogt, Ernst/ Zinnecker, Andrea,Übernahmen,Honorar,
+17:59:44
+00:00:00
+Aus der jüdischen Welt / Shabbat,,,,
+17:59:44
+00:00:00
+Nachrichten 18.00,,,,
+17:59:45
+00:00:13
+MFP Kabel und Satellit,,Wiederholung,,
+

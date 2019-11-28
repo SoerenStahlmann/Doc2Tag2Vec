@@ -1,0 +1,60 @@
+﻿
+Infotext
+23:00:01
+00:04:38
+NACHRICHTEN (eigene),,Eigenproduktion,,
+23:04:40
+00:00:07
+M025 Opener Fazit,,Wiederholung,,
+23:04:45
+00:01:17
+Timless/Instr./...,Down To The Bone,Industrietonträger,,
+23:06:00
+00:01:46
+Near,A Life, A Song, A Cigarette,Industrietonträger,,
+23:08:06
+00:04:43
+Architektenwettbewerb Humboldtforum entschieden,Schwarz, Marietta,Eigenproduktion,Honorar,
+23:09:21
+00:01:20
+Anmoderation, Begrüßung,Mangel, Alexandra,0,,
+23:12:50
+00:05:19
+Ein italienisches Architekturbüro gewann den Wettbewerb zum Humboldt-Forum,Rauterberg, Hanno,Eigenproduktion,Honorar,
+23:18:34
+00:02:07
+Devil,A Life, A Song, A Cigarette,Industrietonträger,,
+23:21:27
+00:05:43
+Berlin, Deutsche Guggenheim "Anish Kapoor. Memory",Probst, Carsten,Eigenproduktion,Honorar,
+23:27:11
+00:01:54
+Down,A Life, A Song, A Cigarette,Industrietonträger,,
+23:30:07
+00:00:40
+Jossi Wieler O-Ton,Ricklefs, Sven,Eigenproduktion,,
+23:30:48
+00:05:53
+Uraufführung Elfriede Jelinek "Rechnitz (Der Würgeengel)",Krug, Hartmut,Eigenproduktion,Honorar,
+23:36:40
+00:01:59
+Simmering,A Life, A Song, A Cigarette,Industrietonträger,,
+23:40:41
+00:05:48
+Bremen, Uraufführung "Gegen die Wand",Brault, Elske,Eigenproduktion,Honorar,
+23:44:23
+00:01:51
+Marie,A Life, A Song, A Cigarette,Industrietonträger,,
+23:46:46
+00:05:55
+Bielefeld, Kunsthalle "Sonja Delaunay in Bielfeld 1958 - 2008",App, Volkhard,Eigenproduktion,Honorar,
+23:52:55
+00:03:56
+Kulturpresseschau,Wedel, Adelheid,Eigenproduktion,,
+23:57:14
+00:02:33
+Black Air,A Life, A Song, A Cigarette,Industrietonträger,,
+
+
+
+

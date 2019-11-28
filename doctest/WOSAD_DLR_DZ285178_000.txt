@@ -1,0 +1,78 @@
+﻿
+Infotext
+05:00:01
+00:04:38
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:04:40
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:04:54
+00:03:37
+Long walk back,Rembrandts,The,Industrietonträger,,DIGI_SOURCE$#
+05:08:58
+00:03:35
+Das Bundeswehr-Aufbauteam in Kundus  -  schwieriger Standort in Nordafghanistan,Matthay, Sabina,Übernahmen,Übernahme,
+05:12:37
+00:03:58
+That's why,Auldist, Kylie,0,,
+05:17:00
+00:03:35
+Das Ende der Ära Polaroid und die letzten Zuckungen der Leica,Stöckmann, Jochen,Wiederholung,Wiederholung,
+05:20:44
+00:02:32
+Le nom des oiseaux,Yacoub, Gabriel,Industrietonträger,,
+05:23:46
+00:03:17
+Gérard Depardieu wird 60,Wöß, Christoph,Übernahmen,Übernahme,
+05:27:04
+00:01:49
+Songwriter,Morrison,Van,Industrietonträger,,
+05:28:52
+00:00:57
+Trailer Hörspiel Einsatz 27.12.2008 ("morgen 18.30 Uhr"),Brinkmann, Ulrike,Co-Produktion,,
+05:29:47
+00:00:00
+Nachrichten 5.30,,,,
+05:29:49
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+05:30:01
+00:04:39
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+05:34:41
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+05:34:55
+00:02:45
+There She Goes,Babyshambles,Industrietonträger,,
+05:38:01
+00:03:20
+Arbeitsplatzabbau in der Finanzkrise,Herrmann, Ulla,Übernahmen,Übernahme,
+05:41:21
+00:02:27
+All I Really Want To Do,Ferry, Bryan,Industrietonträger,,
+05:43:50
+00:00:00
+Kalenderblatt,,,,
+05:44:25
+00:04:35
+Kalenderblatt 27.12. (1978 - Juan Carlos unterzeichnet die spanis,Macher, Julia,Eigenproduktion,,
+05:49:10
+00:03:40
+Presto assai aus: Sinfonie Nr. 1 Op. 12 in D-dur,New Philharmonia Orchestra,Industrietonträger,,
+05:52:49
+00:04:03
+Presseschau,,Eigenproduktion,,
+05:56:52
+00:02:54
+U Want Me 2,McLachlan, Sarah,Industrietonträger,,
+05:59:44
+00:00:00
+Ortszeit (6 - 7),,,,
+05:59:44
+00:00:00
+Nachrichten 6.00,,,,
+05:59:46
+00:00:12
+MFP Schönebeck,,Wiederholung,,
+

@@ -1,0 +1,117 @@
+﻿
+Infotext
+14:00:21
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+14:00:41
+00:00:47
+OZN 14: EU-Russland-Gipfel beendet,Becker, Michael,Übernahmen,Übernahme,
+14:01:52
+00:00:46
+OZN 14: Merkels Vorschläge für Weltfinanzgipfel,Becker, Rüdiger,Übernahmen,Übernahme,
+14:03:05
+00:00:52
+OZN/13//Brüssel/Europäischer Autoabsatz im freien Fall,Ahrens, Sylvie,Übernahmen,,
+14:04:12
+00:00:44
+OZN 12  Grünen-Parteitag wählt neuen Vorsitzenden,Guenther, Oliver,Übernahmen,,
+14:05:17
+00:00:44
+OZN 14: Schwere Vorwürfe gegen Bahn,Klostermann, Petra,Übernahmen,Übernahme,
+14:06:16
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+14:06:21
+00:00:46
+Mod: Begrüßung,Vorschau,Meyer, Frank,0,,
+14:07:05
+00:00:41
+Dis moi la verite,Orchestre Poly-Rythmo de Cotonou,Industrietonträger,,
+14:07:58
+00:00:51
+Jamming (live),Marley,Bob,Industrietonträger,,CD
+14:08:48
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+14:08:53
+00:10:39
+Pekingoper made in Germany,Gundermann, Karsten,Eigenproduktion,,
+14:19:32
+00:00:00
+Musik,,,,
+14:19:32
+00:00:09
+M161 Musik Latin (für RF),,Wiederholung,,
+14:19:46
+00:05:11
+Jamming (live),Marley,Bob,Industrietonträger,,CD
+14:24:58
+00:01:21
+Musikpräsentation,,Eigenproduktion,,
+14:26:01
+00:03:37
+Is this love (live),Marley,Bob,Industrietonträger,,CD
+14:30:00
+00:00:00
+Kulturnachrichten,,,,
+14:30:01
+00:00:05
+M019 Kulturnachrichten,,Wiederholung,,
+14:30:08
+00:03:09
+Kulturnachrichten,,Eigenproduktion,,
+14:33:06
+00:00:00
+Kritik,,,,
+14:33:15
+00:00:05
+M130 DLRK Literatur (für RF),,Wiederholung,,DIGI_SOURCE$#
+14:33:22
+00:05:48
+Belletristik Live: "Mordsfakultät" von Pinar Kür,Bunk, Lutz,Eigenproduktion,,
+14:39:06
+00:02:59
+Kulturtipps - Freitag, 14. November 2008 - 14.40 Uhr,Krüger, Roland,Eigenproduktion,,
+14:42:07
+00:01:00
+Wurfpaket 2329 - 14.11.08 - P4,diverse,Eigenproduktion,,
+14:43:07
+00:00:00
+Musik,,,,
+14:43:07
+00:00:09
+M121 Musik Flöte (für RF),,Wiederholung,,
+14:43:27
+00:03:31
+Kourougninda wende,Orchestre Poly-Rythmo de Cotonou,Industrietonträger,,
+14:47:45
+00:01:51
+Musikpräsentation,,Wiederholung,,
+14:48:24
+00:04:31
+Dis moi la verite,Orchestre Poly-Rythmo de Cotonou,Industrietonträger,,
+14:53:07
+00:01:08
+Teaser Debatte NEU 14.11.2008   14:50/15:20,Kreuzahler,Eigenproduktion,,
+14:54:15
+00:00:08
+M137 DLRK Kolumne,,Wiederholung,,
+14:54:23
+00:00:09
+anmod,,0,,
+14:54:29
+00:04:54
+Kolumne: Meine Woche,Stratmann, Jürgen,Eigenproduktion,,
+14:59:24
+00:00:23
+abmod,,0,,
+14:59:44
+00:00:00
+Radiofeuilleton (15 - 16),,,,
+14:59:44
+00:00:00
+Nachrichten 15.00,,,,
+14:59:44
+00:00:12
+MFP Baden-Baden,Braunschmid,Wiederholung,,
+

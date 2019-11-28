@@ -1,0 +1,117 @@
+﻿
+Infotext
+16:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+16:00:59
+00:00:46
+OZN 15 - Nf - 4 Deutsche in Bombay getötet - Innenministerium,Küstner, Kai,Übernahmen,Übernahme,
+16:02:03
+00:00:36
+OZN 16 - Auswärt. Amt zu Thailand-Reisen,Müller, Dirk,Übernahmen,Übernahme,
+16:02:59
+00:00:43
+OZN 16 - Bundestag verabschiedet Haushalt 2009,Weidemann, Michael,Übernahmen,Übernahme,
+16:04:01
+00:00:51
+OZN 15 - BKA Gesetz - Bundesregierung will Vermittlungsausschuss anrufen,Kleber, Mark,Übernahmen,Übernahme,
+16:05:16
+00:00:43
+OZN 16 - Seehofer präsentiert Rettungspaket für BayernLB,Kveton, Peter,Übernahmen,Übernahme,
+16:06:26
+00:00:37
+OZN 16 - DFL / TV-Rechte ab 2009,Schmalz-Goebels, Rudi,Übernahmen,Übernahme,
+16:07:16
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+16:07:21
+00:00:44
+Begrüßung,Vorschau,Meyer, Frank,0,,
+16:08:05
+00:00:49
+Spaghetti Balkan,Figli di madre Ignota,Industrietonträger,,
+16:09:11
+00:00:46
+Everything has changed,Fitzsimmons, William,0,,
+16:09:56
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+16:10:02
+00:11:01
+Die Jury hat entschieden - Architektenwettbewerb Berliner Stadtschloss,Bernau, Nikolaus,Eigenproduktion,Pflicht,
+16:19:45
+00:00:00
+Musik,,,,
+16:21:01
+00:00:09
+M122 Musik Cello (für RF),,Wiederholung,,
+16:21:30
+00:04:46
+Everything has changed,Fitzsimmons, William,0,,
+16:26:17
+00:01:14
+Musikpräsentation,Hochweis, Olga,Eigenproduktion,,
+16:27:29
+00:03:03
+Please don´t go,Fitzsimmons, William,0,,
+16:30:00
+00:00:00
+Kulturnachrichten,,,,
+16:30:40
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+16:30:47
+00:03:22
+Kulturnachrichten,,Eigenproduktion,,
+16:33:45
+00:00:00
+Kritik,,,,
+16:34:07
+00:00:06
+M128 DLRK Hörbuch,,Wiederholung,,DIGI_SOURCE$#
+16:34:14
+00:00:26
+Anmod,Meyer, Frank,0,,
+16:34:37
+00:04:58
+Umberto Eco, "Der Name der Rose", Der Hörverlag,Budde, Vanja,Wiederholung,Frei,
+16:39:36
+00:00:22
+Abmod,Meyer, Frank,0,,
+16:39:57
+00:03:11
+Kulturtipps - Freitag, 28.11.2008 - 16.40 Uhr,Hansen, Nicolas,Eigenproduktion,,
+16:43:09
+00:00:00
+Musik,,,,
+16:43:11
+00:00:10
+M161 Musik Latin (für RF),,Wiederholung,,
+16:43:36
+00:03:10
+Spaghetti Balkan,Figli di madre Ignota,Industrietonträger,,
+16:47:25
+00:02:30
+Musikpräsentation Gespräch,Hochweis, Olga,Eigenproduktion,,
+16:49:02
+00:03:50
+Falafel Express,Figli di madre Ignota,Industrietonträger,,
+16:53:13
+00:00:06
+M301 Rubrik DVD-Tipp (für RF),DLRK,Wiederholung,,
+16:53:21
+00:00:34
+Anmod,Meyer, Frank,0,,
+16:53:52
+00:05:34
+DVD-Tipp: SHARKWATER oder der Hai, Dein Freund,Tegeler, Hartwig,Eigenproduktion,Ja,
+16:59:43
+00:00:00
+Ortszeit 17 Uhr,,,,
+16:59:43
+00:00:00
+Nachrichten 17.00,,,,
+16:59:43
+00:00:12
+MFP Mainz,,Wiederholung,,
+

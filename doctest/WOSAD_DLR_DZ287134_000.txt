@@ -1,0 +1,78 @@
+﻿
+Infotext
+12:00:21
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:59
+00:01:05
+OZN 12 Gaza-Krieg: Hoffnung auf Waffenruhe,Verenkotte, Clemens,Übernahmen,,
+12:02:29
+00:00:53
+OZN 12 Weiter Krisengespräche, aber kein Gas,Nagel, Christina,Übernahmen,,
+12:03:50
+00:00:36
+OZN6 New York: Vollbesetzter US-Airbus auf dem Hudson-River notgelandet,Schmidt, Thomas,Übernahmen,,
+12:04:52
+00:00:42
+OZN 12   "Grüne Woche" eröffnet,Kossakowski, Stanislaus,Übernahmen,,
+12:05:35
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:05:52
+00:00:53
+OZN 12  Börse,Herrmann,Ulla,Übernahmen,,
+12:07:00
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:14
+00:02:35
+Berlin: Vor Putinbesuch - Situation im Gasstreit,Labuhn, Wolfgang,Eigenproduktion,Frei,
+12:11:11
+00:03:22
+Brüssel: Gaskonflikt überfordert die EU/Gespräch,Finthammer, Volker,Eigenproduktion,Frei,
+12:14:36
+00:02:39
+Travelin' light/...,Clapton,Eric,Industrietonträger,,
+12:17:31
+00:03:36
+Tel Aviv: Hoffnungen auf Waffenruhe,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+12:21:47
+00:05:30
+Washington: Abschiedsrede von George Bush,Remme, Klaus,Eigenproduktion,Nein,
+12:27:44
+00:02:35
+New York: Airbus-Notlandung im Hudson-River,Schmidt, Thomas,Übernahmen,Übernahme,
+12:30:40
+00:03:03
+Berlin: Neues vom Konjunkturpaket,Irmler, Gerhard,Eigenproduktion,Nein,
+12:34:10
+00:03:53
+Berlin: Eröffnung Grüne Woche,Nürnberger, Dieter,Eigenproduktion,Pflicht,
+12:38:01
+00:03:20
+Carry You,Jimmy Eat World,Industrietonträger,,
+12:41:16
+00:06:15
+Internationales Pressegespräch - Israelische Zeitungen,Beck,  Eldad,Eigenproduktion,Ja,
+12:47:47
+00:03:23
+Despite It All,Denalane,Joy,Industrietonträger,,
+12:51:21
+00:00:00
+Politisches Feuillton,,,,
+12:51:40
+00:04:15
+Gelegenheit zu historischer Größe. Obamas Amerika,Gumbrecht, Hans Ulrich,Wiederholung,Pflicht,
+12:56:20
+00:03:27
+A Love that's simple,Potvin,Roxanne,Industrietonträger,,
+12:59:44
+00:00:00
+Länderreport,,,,
+12:59:44
+00:00:00
+Nachrichten 13.00,,,,
+12:59:45
+00:00:13
+MFP Eisenach,,Wiederholung,,
+

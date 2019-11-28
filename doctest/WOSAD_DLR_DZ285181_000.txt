@@ -1,0 +1,90 @@
+﻿
+Infotext
+08:00:28
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+08:01:05
+00:00:39
+O-Ton Mor über israelische Sicht auf den Konflikt mit Palästina,Mor, Ilan, stellv. israelischer Botschafter in Deutschland,Eigenproduktion,,
+08:02:39
+00:00:52
+Spannungen zwischen Indien und Pakistan,Hanefeld, Jürgen,Wiederholung,,
+08:04:10
+00:00:54
+O-Ton May zu Erwartungen an die tschechische EU-Ratspräsidentschaft,May, Marie-Lena, Dt. Gesellschaft f. Auswärtige Politik,Eigenproduktion,,
+08:06:11
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+08:06:26
+00:03:26
+Am i wasting my Time,Reed, Eli "Paperboy",Industrietonträger,,
+08:09:53
+00:06:25
+Die Leipziger Volkszeitung zum Streit um die Weihnachtsansprachen,CR Hilder, Bernd,Eigenproduktion,Frei,
+08:16:08
+00:03:03
+Viscous Ocean,Beady Belle,Industrietonträger,,
+08:19:11
+00:00:00
+Reportage,,,,
+08:19:42
+00:06:01
+Eine polnische Familie in Brandenburg,van Laak, Claudia,Eigenproduktion,Pflicht,
+08:25:45
+00:03:17
+Ain't No Love in the Heart of the City,Paul Carrack,Industrietonträger,,
+08:29:00
+00:00:48
+Trailer Konzert 27.12.2008 ("heute 19.05 Uhr"),Vorwerk, Sabine,Wiederholung,,
+08:29:47
+00:00:00
+Nachrichten 8.30,,,,
+08:29:47
+00:00:10
+M001 DLRK (für Nachrichten),,Wiederholung,,
+08:30:01
+00:04:30
+NACHRICHTEN (Ü-Köln),,Wiederholung,,
+08:34:32
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+08:34:57
+00:03:04
+Make It Mine,Mraz, Jason,Industrietonträger,,
+08:38:47
+00:06:16
+Wie erlebt der Mensch radikalen Epochenwandel ?,Prof. Welzer , Harald,Eigenproduktion,Frei,
+08:45:12
+00:03:14
+Suspicious minds/...,Presley,Elvis,Industrietonträger,,DIGI_SOURCE$#
+08:48:26
+00:00:00
+Kulturtipp,,,,
+08:49:03
+00:04:04
+Kulturtipp: Emil Nolde - Doku auf arte,Lahmann-Lammert, Silke,Eigenproduktion,Pflicht,
+08:53:07
+00:03:00
+From A Mountain In The Middle Of The Cabins,Panic At The Disco,Industrietonträger,,
+08:56:02
+00:01:10
+Kurzgespräch mit  RF-Moderator / Absage,,Eigenproduktion,,
+08:56:07
+00:00:11
+Kurzgespräch mit  RF-Moderator / Absage,,Eigenproduktion,,
+08:57:13
+00:02:33
+She walks alone,Eva Be feat. Pegah Ferydoni,Industrietonträger,,
+08:59:44
+00:00:00
+Radiofeuilleton - Im Gespräch 9 bis 11,,,,
+08:59:44
+00:00:00
+Radiofeuilleton (9 - 10),,,,
+08:59:44
+00:00:00
+Nachrichten 9.00,,,,
+08:59:45
+00:00:12
+MFP Kiel,,Wiederholung,,
+

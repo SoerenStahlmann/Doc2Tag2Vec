@@ -1,0 +1,78 @@
+﻿
+Infotext
+12:00:30
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+12:00:53
+00:00:40
+OZN 11 Insolvensantrag von Qimonda,Vieweger, Hans-Joachim,Übernahmen,,
+12:02:08
+00:00:34
+OZN 11 Roth kritisiert geplante KFZ-Steuer,Roth, Claudia, Vors. B 90/Die Grünen,Übernahmen,,
+12:03:00
+00:00:43
+OZN 12 Streik der Flugbegleiter bei Lufthansa beendet,Harms,Thorsten,Eigenproduktion,,
+12:04:21
+00:00:56
+OZN 12 Obamas Elan stößt im Nahen Osten auf Ablehnung,Engelbrecht, Sebastian,Übernahmen,,
+12:05:17
+00:00:04
+M005 DropIn Die Börse,,Wiederholung,,
+12:05:37
+00:00:47
+OZN 12 Börse,Holz, Dorothee,Übernahmen,,
+12:06:42
+00:00:09
+M003 Opener OrtsZeit,,Wiederholung,,
+12:08:05
+00:03:30
+Berlin: Diskussion über neues KFZ-Steuer-Modell,Melanie Hinter,Eigenproduktion,Pflicht,
+12:11:35
+00:06:03
+Berlin: Neue Kfz-Steuer und Abwrackprämie - Hilfe für Konjunktur und Umwelt?,Lottsiepen, Gerd, Verkehrspol. Spr. VCD,Eigenproduktion,Nein,
+12:17:35
+00:02:26
+Hypnotised,Aberfeldy,Industrietonträger,,
+12:20:33
+00:03:31
+Dresden;: Chip-Hersteller Qimonda meldet Insolvenz an,Gerlach, Alexandra,Eigenproduktion,Pflicht,
+12:24:46
+00:03:13
+Frankfurt: Debatte um die Bad Bank,Braun, Michael,Eigenproduktion,Pflicht,
+12:28:29
+00:03:38
+Washington: Die neue US Außen- und Sicherheitspolitik in den USA,Remme, Klaus,Eigenproduktion,Wiederholung,
+12:32:43
+00:03:35
+Tel Aviv:  Obamas Elan stößt im Nahen Osten auf Ablehnung - und weckt Hoffnung,Engelbrecht, Sebastian,Übernahmen,Übernahme,
+12:36:52
+00:03:15
+Nairobi:Die viele  Gesichter des Rebellengeneral Nkunda,Dohrenbusch, Wim,Übernahmen,Übernahme,
+12:40:19
+00:02:09
+Right as Rain,Adele,Industrietonträger,,
+12:42:26
+00:06:24
+Internat. Pressegespräch: China, Urteile im Skankdal um verseuchte Babymilch,Erling, Johnny, Peking, Korr. "Die Welt",Eigenproduktion,Pflicht,
+12:48:43
+00:02:39
+Alloway Groove/...,Nutini, Paolo,Industrietonträger,,
+12:51:40
+00:00:00
+Politisches Feuillton,,,,
+12:51:52
+00:04:14
+Schwerter zu Pflugscharen? - Die Bundeswehr als Weltpolizei,Tönnies, Sibylle,Wiederholung,Pflicht,
+12:56:22
+00:03:23
+Belief,Mayer,John,Industrietonträger,,
+12:59:45
+00:00:00
+Länderreport,,,,
+12:59:45
+00:00:00
+Nachrichten 13.00,,,,
+12:59:45
+00:00:12
+MFP Lübeck,,Wiederholung,,
+

@@ -1,0 +1,108 @@
+﻿
+Infotext
+15:00:25
+00:00:03
+M002 Trenner Nachrichten,,Wiederholung,,
+15:00:59
+00:00:51
+OZN 13 : BuTa beschließt "humanitäre Operation" Atalanta,Ueberbach, Stephan,Übernahmen,Übernahme,
+15:02:54
+00:00:46
+OZN 15 :Berlin : Zypries und Schäuble einigen sich bei Strafbarkeit von Terror,Kleber, Mark,Übernahmen,Übernahme,
+15:03:59
+00:00:44
+OZN 12 : Karlsruhe/Christian Klar ist auf freiem Fuß,Essig, Jürgen,Übernahmen,Übernahme,
+15:05:24
+00:00:44
+OZN 15 : Brüssel: Slowenien blockiert Kroatien,Brand, Katrin,Übernahmen,Übernahme,
+15:06:18
+00:00:36
+OZN  15 /München : FCB-Sporting Lissabon  CL Auslosung,Raspe, Martin,Übernahmen,Übernahme,
+15:07:21
+00:00:06
+M012 Opener RadioFeuilleton,,Wiederholung,,
+15:07:25
+00:00:47
+Mod: Begrüßung,Vorschau,Scholl, Joachim,0,,
+15:08:11
+00:00:34
+Be Man Maro,Mahsa & Marjan Vahdat,Industrietonträger,,
+15:09:01
+00:00:39
+Christmas ain't christmas,Franklin,Aretha,Industrietonträger,,
+15:09:41
+00:00:06
+M015 DLRK Thema,,Wiederholung,,
+15:10:38
+00:07:15
+Dresden bleiben die Besucher weg,Lohmeyer, Johannes,Eigenproduktion,,
+15:17:54
+00:00:00
+Musik,,,,
+15:18:00
+00:00:09
+F121 Musik Flöte (für RF),,Wiederholung,,
+15:18:27
+00:03:49
+Christmas ain't christmas,Franklin,Aretha,Industrietonträger,,
+15:23:13
+00:00:58
+t was the night before christmas,Franklin,Aretha,Industrietonträger,,
+15:25:03
+00:03:53
+This christmas,Franklin,Aretha,Industrietonträger,,
+15:29:18
+00:00:47
+Wurfpaket 5553 - 19.12.08 - P5,div.,Eigenproduktion,,
+15:30:00
+00:00:00
+Kulturnachrichten,,,,
+15:30:05
+00:00:06
+M019 Kulturnachrichten,,Wiederholung,,
+15:30:12
+00:03:23
+Kulturnachrichten,,Eigenproduktion,,
+15:33:10
+00:00:00
+Kritik,,,,
+15:33:33
+00:00:06
+M163 Rubrik Ihre Buchhändlerin empfiehlt,,0,,
+15:33:38
+00:05:46
+Buchhändler im Gespräch: "Literaturhandlung", München,Salamander, Rachel,Eigenproduktion,,
+15:39:25
+00:03:15
+Kulturtipps - Freitag, 19.11.2008 - 15.40 Uhr,Voss, Regina,Eigenproduktion,,
+15:42:42
+00:00:54
+Teaser Debatte 19.12.2008   15.40,Hock,Eigenproduktion,,
+15:43:36
+00:00:00
+Musik,,,,
+15:43:36
+00:00:09
+M160 Musik World (für RF),,Wiederholung,,
+15:44:08
+00:02:42
+Haleili,Mahsa & Marjan Vahdat,Industrietonträger,,
+15:47:59
+00:03:22
+Doosh Doosh,Mahsa & Marjan Vahdat,Industrietonträger,,
+15:51:37
+00:00:06
+M118 DLRK Debatte,,Wiederholung,,
+15:51:45
+00:08:04
+Debatte: Festlich oder bescheiden - Welches Weihnachtsmenü tischen Sie auf?,Scholl, Joachim + Hörer,Eigenproduktion,,
+15:59:44
+00:00:00
+Radiofeuilleton (16 - 17),,,,
+15:59:44
+00:00:00
+Nachrichten 16.00,,,,
+15:59:46
+00:00:12
+MFP Neumünster,,Wiederholung,,
+
