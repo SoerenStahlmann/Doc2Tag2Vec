@@ -41,7 +41,7 @@ class Doc2Tag2Vec(Doc2Vec):
                 idx = file.split("\\")[-1].replace(".txt", "")
                 
                 with open(file, 'r', encoding='utf8') as training_data:
-                    yield TaggedDocument(training_data.read(), [idx])
+                    yield TaggedDocument(training_data.read().split(), [idx])
                     
         return corpus
                     
@@ -82,38 +82,6 @@ class Doc2Tag2Vec(Doc2Vec):
         return self.keyword_vec_dict
     
     
-    def _load_keywords(self, file_path, sep='\n'):
-        
-        all_keywords = []
-        
-        with open(file_path, 'r', encoding='utf8') as file:
-            words = file.read().split(sep)
-            
-        for keyword in words:
-            
-            keyword = keyword.replace(' ', '_').lower()
-            keyword = keyword.replace('-', '_')
-            keyword = keyword.replace('__', '_')
-            
-            if keyword[-1:] == '_':
-                keyword = keyword[:-1]
-                
-            if keyword not in all_keywords:
-                all_keywords.append(keyword)
-                
-        keyword_vec_dict = OrderedDict()
-        no_vector = []
-        
-        for keyword in all_keywords:
-            try:
-                keyword_vec_dict[keyword] = self.vw.get_vector(keyword)
-            except IndexError:
-                # List of all labels that do not have a vector representation in the model
-                no_vector.append(keyword)
-                        
-        return all_keywords
-    
-    
     def predict_keywords(self, document_id, nbr_of_keywords = -1):
         
         document_keywords = {}
@@ -149,12 +117,11 @@ if __name__ == "__main__":
                 workers=64,
                 negative=1)
     
-    corpus =  model.load_training_data(file_path="doctest", use_csv=False)
-
-    model.train(corpus, total_examples=model.corpus_count,  epochs=model.epochs)
-    tmp = model._load_keywords("doctest/sachdiskreptoren_preprocessed.txt")
+    corpus =  model.load_training_data(file_path="86000ManuskripteTXT", use_csv=False)
     
-    #print(tmp)
+    model.train(corpus, total_examples=model.corpus_count,  epochs=model.epochs)
+    tmp = model.load_keywords("sachdiskreptoren_preprocessed.txt")
+    
         
         
         
