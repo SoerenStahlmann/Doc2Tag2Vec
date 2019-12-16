@@ -55,8 +55,13 @@ class Doc2Tag2Vec(Doc2Vec):
         return corpus
     
     
-    # TODO: append to model.train method // make private
-    def load_keywords(self, file_path, sep='\n'):
+    # TODO: append to model.train method
+    def train(self, file_path='keywords.txt', sep='\n', **kwargs):
+        
+        print("Training model...")
+        super(Doc2Tag2Vec, self).train(**kwargs)
+        
+        print("Loading keywords")
         
         self.keyword_vec_dict = OrderedDict()
         self.no_vector = []
@@ -78,6 +83,7 @@ class Doc2Tag2Vec(Doc2Vec):
         
         print("{} labels have a vector representation".format(len(self.keyword_vec_dict)))
         print("{} labels don't have a vector representation".format(len(self.no_vector)))
+        
         
         return self.keyword_vec_dict
     
@@ -117,10 +123,9 @@ if __name__ == "__main__":
                 workers=64,
                 negative=1)
     
-    corpus =  model.load_training_data(file_path="86000ManuskripteTXT", use_csv=False)
+    corpus =  model.load_training_data(file_path="doctest", use_csv=False)
     
-    model.train(corpus, total_examples=model.corpus_count,  epochs=model.epochs)
-    tmp = model.load_keywords("sachdiskreptoren_preprocessed.txt")
+    model.train(documents=corpus, total_examples=model.corpus_count,  epochs=model.epochs, file_path="doctest/sachdiskreptoren_preprocessed.txt")
     
         
         
