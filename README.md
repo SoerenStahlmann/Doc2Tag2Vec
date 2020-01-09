@@ -14,6 +14,13 @@ The library is a wrapper around [gensim](https://radimrehurek.com/gensim/). In o
 
 ``conda install gensim``
 
+## How to use
+Everything happens inside the Doc2Tag2Vec class. A general guideline for every problem would be to first create an object of this class with appropriate hyperparameter. After that:
+
+1. load your training data with ``load_training_data()``
+2. train your model through ``train()``
+3. do a prediction with ``predict()``
+
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining
