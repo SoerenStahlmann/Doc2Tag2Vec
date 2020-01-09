@@ -10,6 +10,10 @@ To get started with this project clone this git repository to your favorite IDE.
 
 The library is a wrapper around [gensim](https://radimrehurek.com/gensim/). In order for this code to work you will first need to get gensim. This can be achieved over the console or with anaconda.
 
+``pip install gensim``
+
+``conda install gensim``
+
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining
